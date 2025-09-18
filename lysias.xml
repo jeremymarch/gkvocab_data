@@ -2866,29 +2866,29 @@
     <word id="27566" uuid="efcfbaeb-1437-4caa-82b7-a30c1cf739d7" type="Punctuation">.</word>
   </words>
   <appcrits>
-    <appcrit word_id="24817">1.4 ἀγανακτήσειε Η; οὐκ ἀγανακτείση P$^1$ -οίη P$^c$</appcrit>
-    <appcrit word_id="24830">2.1 ἡγοῖσθε (OCT, Carey); ἡγεῖσθαι P</appcrit>
-    <appcrit word_id="25131">7.2 ἀγαθή del. Dobree</appcrit>
-    <appcrit word_id="25152">7.3 lacunam post γεγένηται statuit Schenkl: possis γεγένηται, ἐπ’ἐκφορὰν {γὰρ}
+    <appcrit word_id="24817" word_uuid="cc402eca-165d-4af0-9514-4c57aee17bb7">1.4 ἀγανακτήσειε Η; οὐκ ἀγανακτείση P$^1$ -οίη P$^c$</appcrit>
+    <appcrit word_id="24830" word_uuid="8680e45e-f6e0-4c9d-aed4-d0deb9470b4f">2.1 ἡγοῖσθε (OCT, Carey); ἡγεῖσθαι P</appcrit>
+    <appcrit word_id="25131" word_uuid="26c5860b-b5c5-46af-9c47-e3512c146aab">7.2 ἀγαθή del. Dobree</appcrit>
+    <appcrit word_id="25152" word_uuid="268b82e9-2ff9-4436-877c-750616806449">7.3 lacunam post γεγένηται statuit Schenkl: possis γεγένηται, ἐπ’ἐκφορὰν {γὰρ}
     αὐτῇ (OCT, Carey)</appcrit>
-    <appcrit word_id="25236">9.4 λούεσθαι codd. corr. Dindorf</appcrit>
-    <appcrit word_id="25239">9.4 κινδυνεύοι Herwerden</appcrit>
-    <appcrit word_id="25891">20.3 προσίη H</appcrit>
-    <appcrit word_id="25910">20.4 προσιεῖτο Thalheim; προσίοι codd.; ποιοίη Reiske; ποιοῖτο Cobet; εἰσίοι Hertlein; προσίοιτο Kayser; sunt alia</appcrit>
-    <appcrit word_id="26002">22.1 post πέντε lacunam statuit Reiske</appcrit>
-    <appcrit word_id="26045">22.4 οὐδένα Bekker; ἄν del. Bekker</appcrit>
-    <appcrit word_id="26126">24.1 &lt;οὐκ&gt; ἔνδον et οὐδ’ ἐπιδημοῦντας Reiske; τοὺς μὲν ἔνδον, τοὺς δὲ οὐκ ἐπιδημουντας (OCT Carey)</appcrit>
-    <appcrit word_id="26233">26.1 ἀποκτεῖναι Hertlein; αὐτὸν κτεῖναι codd.</appcrit>
-    <appcrit word_id="26641">32.2 ἐν δὲ γυναῖκα....ἐνέχεσθαι del. Frohberger; ἐφ’αἷσπερ ἀποκτείνειν ἔξεστιν del. Halberstma; sunt alia</appcrit>
-    <appcrit word_id="26765">34.2 ἀλλὰ καὶ κελεύουσι H; ἀλλὰ καικελευκότες P</appcrit>
-    <appcrit word_id="26846">36.3 ὥστε Baiter-Sauppe; ὡς codd.</appcrit>
-    <appcrit word_id="26850">36.3 ἐπαιρεῖσθαι καὶ φᾶσκειν H</appcrit>
-    <appcrit word_id="27049">40.1 {ὅτι} om. To del Reiske</appcrit>
-    <appcrit word_id="27133">41.3 τῶν φίλων τήν Bergk; τῶν φίλων τῶν codd; τῶν φίλων τοῦ Valckenaer; τινὰ φίλων τῶν Gernet-Bizos; τῶν φίλων &lt;του&gt; Cobet</appcrit>
-    <appcrit word_id="27147">41.4 sec. οὐκ del. Taran</appcrit>
-    <appcrit word_id="27324">44.4 διαπραξαίμην Lipsius; διεπραξάμην codd.</appcrit>
-    <appcrit word_id="27391">46.1 ἠσέβουν &lt;ἄν&gt; Halbertsma</appcrit>
-    <appcrit word_id="27510">49.2 εἰ κελεύουσι Reiske</appcrit>
+    <appcrit word_id="25236" word_uuid="e1c5740c-e8ff-479b-902b-9774663aef07">9.4 λούεσθαι codd. corr. Dindorf</appcrit>
+    <appcrit word_id="25239" word_uuid="5b9e00ef-dd45-46f1-b181-fd89083128a2">9.4 κινδυνεύοι Herwerden</appcrit>
+    <appcrit word_id="25891" word_uuid="da919a10-b247-48e8-b395-163a97d57a15">20.3 προσίη H</appcrit>
+    <appcrit word_id="25910" word_uuid="76f5148b-05c1-4402-930c-b7ee194c3673">20.4 προσιεῖτο Thalheim; προσίοι codd.; ποιοίη Reiske; ποιοῖτο Cobet; εἰσίοι Hertlein; προσίοιτο Kayser; sunt alia</appcrit>
+    <appcrit word_id="26002" word_uuid="d0a2714c-17fa-45cf-8181-914d23a26c6d">22.1 post πέντε lacunam statuit Reiske</appcrit>
+    <appcrit word_id="26045" word_uuid="e6fcd7d0-c203-43dc-83d9-b504f89b5f18">22.4 οὐδένα Bekker; ἄν del. Bekker</appcrit>
+    <appcrit word_id="26126" word_uuid="412f0dca-d511-44cb-8d9c-c6aef6725093">24.1 &lt;οὐκ&gt; ἔνδον et οὐδ’ ἐπιδημοῦντας Reiske; τοὺς μὲν ἔνδον, τοὺς δὲ οὐκ ἐπιδημουντας (OCT Carey)</appcrit>
+    <appcrit word_id="26233" word_uuid="b5a848fc-0f1f-4d0c-8bbf-de1f54cb56a1">26.1 ἀποκτεῖναι Hertlein; αὐτὸν κτεῖναι codd.</appcrit>
+    <appcrit word_id="26641" word_uuid="0082878a-b729-403c-90b3-5a7161724811">32.2 ἐν δὲ γυναῖκα....ἐνέχεσθαι del. Frohberger; ἐφ’αἷσπερ ἀποκτείνειν ἔξεστιν del. Halberstma; sunt alia</appcrit>
+    <appcrit word_id="26765" word_uuid="335a6cc8-26fc-4bd6-8c86-82c4a568a30c">34.2 ἀλλὰ καὶ κελεύουσι H; ἀλλὰ καικελευκότες P</appcrit>
+    <appcrit word_id="26846" word_uuid="883f2882-a495-4240-bfa2-b1e4bf6f900f">36.3 ὥστε Baiter-Sauppe; ὡς codd.</appcrit>
+    <appcrit word_id="26850" word_uuid="9684ef0a-b921-4e22-be81-77ba700fedd2">36.3 ἐπαιρεῖσθαι καὶ φᾶσκειν H</appcrit>
+    <appcrit word_id="27049" word_uuid="e08ca706-2f61-4094-ae11-0c6aec0c3feb">40.1 {ὅτι} om. To del Reiske</appcrit>
+    <appcrit word_id="27133" word_uuid="c3a43c3e-f4cd-4ddd-b50c-374ae49b94f2">41.3 τῶν φίλων τήν Bergk; τῶν φίλων τῶν codd; τῶν φίλων τοῦ Valckenaer; τινὰ φίλων τῶν Gernet-Bizos; τῶν φίλων &lt;του&gt; Cobet</appcrit>
+    <appcrit word_id="27147" word_uuid="32e6e01d-8895-4a68-bc95-1da153cdae31">41.4 sec. οὐκ del. Taran</appcrit>
+    <appcrit word_id="27324" word_uuid="c1542d9b-602e-4934-950f-581e3c3bb0fb">44.4 διαπραξαίμην Lipsius; διεπραξάμην codd.</appcrit>
+    <appcrit word_id="27391" word_uuid="de706b4a-12d4-419a-98e8-6bf105463bf5">46.1 ἠσέβουν &lt;ἄν&gt; Halbertsma</appcrit>
+    <appcrit word_id="27510" word_uuid="3a213f5f-faa0-4a42-bf31-2b771fb244c6">49.2 εἰ κελεύουσι Reiske</appcrit>
   </appcrits>
   <words_per_page>154, 151, 137, 72, 121, 63, 85, 107, 114, 142, 109, 79, 82, 81, 122, 99, 86, 110,
 112, 151, 140, 99, 71, 117, 114, 1</words_per_page>

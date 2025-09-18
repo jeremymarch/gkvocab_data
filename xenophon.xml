@@ -2304,16 +2304,16 @@
     <word id="24757" uuid="2f3dcd85-8740-478d-a201-238ad37ec45f" type="Punctuation">.</word>
   </words>
   <appcrits>
-    <appcrit word_id="22609">3.3 ἐπεί Dindorf; ἔπειτα codd.</appcrit>
-    <appcrit word_id="22723">5.3 ἄν add. Schneider (cf. Xen.Mem.4.8.6)</appcrit>
-    <appcrit word_id="22774">6.2 ἐπιτελεῖσθαι; ἀποτελεῖσθαι codd. (cf. Xen.Mem.4.8.8)</appcrit>
-    <appcrit word_id="23011">9.3 βαρυνῶ Hirschig; βαρύνω codd.</appcrit>
-    <appcrit word_id="23429">15.5 πολλῷ (OCT, Marchant; et al.) πολλῶ Α; πολλῶν B</appcrit>
-    <appcrit word_id="23570">17.4 ἥκιστ’ἄν Bornemann; ἥκιστα codd.</appcrit>
-    <appcrit word_id="23834">20.7 ἡγῆσθε Reuchlin; ἡγεῖσθε codd.</appcrit>
-    <appcrit word_id="23891">21.3 ὅτι add. Stephanus; ὅς Castaglio</appcrit>
-    <appcrit word_id="23986">23.3 ἐγένετο (OCT, Marchant); ἐγίγνετο codd.</appcrit>
-    <appcrit word_id="24390">28.2 ὅτι ὁρῶ om. Stobaeus</appcrit>
+    <appcrit word_id="22609" word_uuid="345353f7-977d-4c2e-ba25-e2a68c61af66">3.3 ἐπεί Dindorf; ἔπειτα codd.</appcrit>
+    <appcrit word_id="22723" word_uuid="988fe302-0244-4314-ac8d-1c2e3e112665">5.3 ἄν add. Schneider (cf. Xen.Mem.4.8.6)</appcrit>
+    <appcrit word_id="22774" word_uuid="61562149-4b31-4c41-8370-b44b12762a78">6.2 ἐπιτελεῖσθαι; ἀποτελεῖσθαι codd. (cf. Xen.Mem.4.8.8)</appcrit>
+    <appcrit word_id="23011" word_uuid="4137c8f5-6249-4b66-9bbf-849baf4f50b4">9.3 βαρυνῶ Hirschig; βαρύνω codd.</appcrit>
+    <appcrit word_id="23429" word_uuid="4c34ae9b-926b-46b1-8ee9-6710d611f113">15.5 πολλῷ (OCT, Marchant; et al.) πολλῶ Α; πολλῶν B</appcrit>
+    <appcrit word_id="23570" word_uuid="25c9ce1f-79da-4628-af78-810d89569171">17.4 ἥκιστ’ἄν Bornemann; ἥκιστα codd.</appcrit>
+    <appcrit word_id="23834" word_uuid="13c514d6-6f31-4dd8-bfcc-3d655bd6cab6">20.7 ἡγῆσθε Reuchlin; ἡγεῖσθε codd.</appcrit>
+    <appcrit word_id="23891" word_uuid="af726ef1-9d0b-499b-b468-c00824aaa2c9">21.3 ὅτι add. Stephanus; ὅς Castaglio</appcrit>
+    <appcrit word_id="23986" word_uuid="a003e639-d190-4c5d-bb6b-27535bbb8eca">23.3 ἐγένετο (OCT, Marchant); ἐγίγνετο codd.</appcrit>
+    <appcrit word_id="24390" word_uuid="e6eb365f-2c82-423d-b2b1-d792e7b1fc0b">28.2 ὅτι ὁρῶ om. Stobaeus</appcrit>
   </appcrits>
   <words_per_page>142, 116, 117, 97, 81, 125, 92, 115, 84, 129, 76, 121, 142, 123, 81, 115, 109, 101,
     120, 88, 109, 1</words_per_page>

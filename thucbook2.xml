@@ -12538,32 +12538,32 @@
     <word id="59884" uuid="6c6ea614-f2a2-4e7b-8630-a29d53e76aa1" type="Punctuation">.</word>
   </words>
   <appcrits>
-    <appcrit word_id="47757">3.3 line 5 κρατήσειν Aeneas Tacticus: κρατῆσαι codd.</appcrit>
-    <appcrit word_id="48102">4.5 line 3 post αἱ add. πλησίον A B E F</appcrit>
-    <appcrit word_id="48724">7.2 line 2 ἐπετάχθη recc.: ἐπετάχθησαν codd.: ἐπετάχθη σ᾽ (διακοσίας) Herbst</appcrit>
-    <appcrit word_id="48972">8.5 line 1 ἐν add. Stephanus</appcrit>
-    <appcrit word_id="49104">9.4 line 1 μέν C &lt;G&gt;: om. cett.</appcrit>
-    <appcrit word_id="49298">10.3 line 4 παρῄνει Sintenis: παρεῖναι codd. post τοιάδε add. ἔλεξεν codd., del. Sintenis</appcrit>
-    <appcrit word_id="50156">13.4 line 2 ἦν om. recc.: secl. Albresch</appcrit>
-    <appcrit word_id="50665">15.4 line 2 post ἀκροπόλει lacunam statuit Classen, qui καὶ τὰ τῆς Ἀθηνᾶς addidit</appcrit>
-    <appcrit word_id="50820">16.1 line 1 μετεῖχον etiam Π$^8$ sed vix sanum: secl. Driessen</appcrit>
-    <appcrit word_id="51336">19.1 line 4 τῶν ἐσελθόντων Θηβαίων secl. Classen</appcrit>
-    <appcrit word_id="51679">21.2 line 1 τὴν ἀναχώρησιν non vertit Valla</appcrit>
-    <appcrit word_id="51772">21.3 line 3 ἠκροᾶτο CG ὡς om. A B E F M γρ. G ὤργητο vel ὥργητο A B F M γρ. G Hesychius, agnoscit Π$^8$</appcrit>
-    <appcrit word_id="52007">22.3 line 1 Παράσιοι om. recc.: non legit Π$^8$, sed habet Π$^9$  Πυράσιοι recc.: Πειράσιοι codd. Π$^8$ [Π$^9$]</appcrit>
-    <appcrit word_id="52838">29.3 line 3 ὁ Τηρεύς non legit Schol.</appcrit>
-    <appcrit word_id="52903">29.3 line 1 οὐδέ B: οὔτε cett. τε secl. Classen</appcrit>
-    <appcrit word_id="52971">29.5 line 3 πέμψειν A B E F M</appcrit>
-    <appcrit word_id="53994">36.4 line 1 πολέμιον Haase: πόλεμον codd.: secl. Dobree</appcrit>
-    <appcrit word_id="54090">37.1 line 2 οἰκεῖν] ἥκειν suprascr c G</appcrit>
-    <appcrit word_id="54578">40.2 line 1 ἑτέροις] ἕτερα Classen: ἑτέροις ἕτερα Richards</appcrit>
-    <appcrit word_id="55125">42.4 line 4 ἀφίεσθαι Poppo</appcrit>
-    <appcrit word_id="55149">42.4 line 6 τῷ C G$^1$: τό cett. Schol. μάλλον] κάλλιον Dobree τό om. Dion. Hal.</appcrit>
-    <appcrit word_id="55459">43.6 line 2 ἐν τῷ secl. Bredow: ἐν τῷ μετὰ τοῦ A B E F M</appcrit>
-    <appcrit word_id="55563">44.3 line 1 πειρασάμενος g: πειρασόμενος codd.</appcrit>
-    <appcrit word_id="56734">51.2 line 2 χρή C G</appcrit>
-    <appcrit word_id="58691">62.3 line 2 οὐ κηπίον c E? M: οὐχ ἥπιον C: οὐκ ἤπιον cett.</appcrit>
-    <appcrit word_id="59808">65.12 line 3 τρία] δέκα Haacke: ὀκτώ Schilleto [Π$^25$]</appcrit>
+    <appcrit word_id="47757" word_uuid="c3cd762f-8fd4-43cc-a72a-e975b19fc869">3.3 line 5 κρατήσειν Aeneas Tacticus: κρατῆσαι codd.</appcrit>
+    <appcrit word_id="48102" word_uuid="74891bc6-0c12-4bb2-9ed5-ae4fa83029e0">4.5 line 3 post αἱ add. πλησίον A B E F</appcrit>
+    <appcrit word_id="48724" word_uuid="7c1ab6da-1a23-483a-b34b-80a21138988d">7.2 line 2 ἐπετάχθη recc.: ἐπετάχθησαν codd.: ἐπετάχθη σ᾽ (διακοσίας) Herbst</appcrit>
+    <appcrit word_id="48972" word_uuid="66cd854c-a62b-4947-9e03-a505fced97b9">8.5 line 1 ἐν add. Stephanus</appcrit>
+    <appcrit word_id="49104" word_uuid="833261fc-4180-4b45-b996-7d071615bf95">9.4 line 1 μέν C &lt;G&gt;: om. cett.</appcrit>
+    <appcrit word_id="49298" word_uuid="f08d2f23-5fc6-47f6-b1d4-f5dabfa74b04">10.3 line 4 παρῄνει Sintenis: παρεῖναι codd. post τοιάδε add. ἔλεξεν codd., del. Sintenis</appcrit>
+    <appcrit word_id="50156" word_uuid="d9193c31-e7bb-4765-a633-41a51d99573c">13.4 line 2 ἦν om. recc.: secl. Albresch</appcrit>
+    <appcrit word_id="50665" word_uuid="383c6af4-3501-40af-8fb9-b0c72d55f3c1">15.4 line 2 post ἀκροπόλει lacunam statuit Classen, qui καὶ τὰ τῆς Ἀθηνᾶς addidit</appcrit>
+    <appcrit word_id="50820" word_uuid="bbbfe001-87a1-4d8b-93e2-57cf3daab2ff">16.1 line 1 μετεῖχον etiam Π$^8$ sed vix sanum: secl. Driessen</appcrit>
+    <appcrit word_id="51336" word_uuid="597f4c48-d91f-4ffb-955d-82b0151fa79a">19.1 line 4 τῶν ἐσελθόντων Θηβαίων secl. Classen</appcrit>
+    <appcrit word_id="51679" word_uuid="8d3d0288-68c2-4bde-933c-2d98f75a5228">21.2 line 1 τὴν ἀναχώρησιν non vertit Valla</appcrit>
+    <appcrit word_id="51772" word_uuid="b2643062-3428-4f5f-acd8-3a830738845c">21.3 line 3 ἠκροᾶτο CG ὡς om. A B E F M γρ. G ὤργητο vel ὥργητο A B F M γρ. G Hesychius, agnoscit Π$^8$</appcrit>
+    <appcrit word_id="52007" word_uuid="a1159f6a-758b-4adb-836f-ea70fd3490d6">22.3 line 1 Παράσιοι om. recc.: non legit Π$^8$, sed habet Π$^9$  Πυράσιοι recc.: Πειράσιοι codd. Π$^8$ [Π$^9$]</appcrit>
+    <appcrit word_id="52838" word_uuid="8eaaf876-4f74-4d60-93e7-87ecb6f85773">29.3 line 3 ὁ Τηρεύς non legit Schol.</appcrit>
+    <appcrit word_id="52903" word_uuid="f59e5f82-1edb-461c-a9cb-454a0703ec31">29.3 line 1 οὐδέ B: οὔτε cett. τε secl. Classen</appcrit>
+    <appcrit word_id="52971" word_uuid="e48e9ce7-c643-4114-a9a6-400dfe1d77c8">29.5 line 3 πέμψειν A B E F M</appcrit>
+    <appcrit word_id="53994" word_uuid="ebc06141-1417-4d3b-80bb-4671330b3293">36.4 line 1 πολέμιον Haase: πόλεμον codd.: secl. Dobree</appcrit>
+    <appcrit word_id="54090" word_uuid="fe5cea82-8e8d-4cde-ab0b-69446900a7cd">37.1 line 2 οἰκεῖν] ἥκειν suprascr c G</appcrit>
+    <appcrit word_id="54578" word_uuid="8dfbed0c-665b-49f5-9c14-3af127993470">40.2 line 1 ἑτέροις] ἕτερα Classen: ἑτέροις ἕτερα Richards</appcrit>
+    <appcrit word_id="55125" word_uuid="c8c26a8e-cc98-4ca1-bcba-e4c311894a8a">42.4 line 4 ἀφίεσθαι Poppo</appcrit>
+    <appcrit word_id="55149" word_uuid="6a27d0e0-8e1f-48e1-a5ab-10fe5b8265bc">42.4 line 6 τῷ C G$^1$: τό cett. Schol. μάλλον] κάλλιον Dobree τό om. Dion. Hal.</appcrit>
+    <appcrit word_id="55459" word_uuid="17d3b6c8-5db8-440d-89c3-e8f2e5cf02b6">43.6 line 2 ἐν τῷ secl. Bredow: ἐν τῷ μετὰ τοῦ A B E F M</appcrit>
+    <appcrit word_id="55563" word_uuid="3ad1d2a2-4a07-457d-85b0-369cddb17b21">44.3 line 1 πειρασάμενος g: πειρασόμενος codd.</appcrit>
+    <appcrit word_id="56734" word_uuid="7d56dd8e-33f3-43a9-a0f3-d5335658db4e">51.2 line 2 χρή C G</appcrit>
+    <appcrit word_id="58691" word_uuid="88c272a1-9afd-4820-b9a1-68dc11a91a11">62.3 line 2 οὐ κηπίον c E? M: οὐχ ἥπιον C: οὐκ ἤπιον cett.</appcrit>
+    <appcrit word_id="59808" word_uuid="3ea37f19-81ba-4b0a-8364-25ef35f43f25">65.12 line 3 τρία] δέκα Haacke: ὀκτώ Schilleto [Π$^25$]</appcrit>
   </appcrits>
   <words_per_page>74, 56, 102, 125, 132, 114, 92, 145, 188, 197, 98, 86, 162, 120, 71, 112, 125, 176,
                 135, 125, 115, 133, 79, 92, 117, 97, 156, 134, 115, 116, 111, 94, 130, 147, 125,
