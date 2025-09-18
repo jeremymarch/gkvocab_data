@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Sequence>
+  <sequence_id>1</sequence_id>
+  <name>LGI - UPPER LEVEL GREEK</name>
+  <start_page>24</start_page>
+  <gloss_names>../gkvocab_data/glosses.xml</gloss_names>
+  <texts>
+    <text display="false">../gkvocab_data/hq.xml</text>
+    <text display="false">../gkvocab_data/ion.xml</text>
+    <text display="false">../gkvocab_data/medea.xml</text>
+    <text>../gkvocab_data/lysias.xml</text>
+    <text>../gkvocab_data/xenophon.xml</text>
+    <text>../gkvocab_data/phaedrus.xml</text>
+    <text>../gkvocab_data/thucbook2.xml</text>
+    <text>../gkvocab_data/ajax.xml</text>
+  </texts>
+  <arrowed_words>
+  <!-- h&Q -->
+    <arrow gloss_id="1" word_id="1000000" /> <!-- 1 ἀγορ -->
+    <arrow gloss_id="2" word_id="1000001" /> <!-- 1 ἀδελφός -->
+    <arrow gloss_id="3" word_id="1000002" /> <!-- 1 ἄνθρωπος -->
+    <arrow gloss_id="4" word_id="1000003" /> <!-- 1 βιβλίον -->
+    <arrow gloss_id="5" word_id="1000004" /> <!-- 1 δῶρον -->
+    <arrow gloss_id="6" word_id="1000005" /> <!-- 1 εἰς -->
+    <arrow gloss_id="7" word_id="1000006" /> <!-- 1 ἐκ -->
+    <arrow gloss_id="8" word_id="1000007" /> <!-- 1 ἐν -->
+    <arrow gloss_id="9" word_id="1000008" /> <!-- 1 ἔργον -->
+    <arrow gloss_id="10" word_id="1000009" /> <!-- 1 θεός -->
+    <arrow gloss_id="11" word_id="1000010" /> <!-- 1 καί -->
+    <arrow gloss_id="12" word_id="1000011" /> <!-- 1 καί... καί -->
+    <arrow gloss_id="13" word_id="1000012" /> <!-- 1 λόγος -->
+    <arrow gloss_id="14" word_id="1000013" /> <!-- 1 μάχη -->
+    <arrow gloss_id="15" word_id="1000014" /> <!-- 1 νῆσος -->
+    <arrow gloss_id="16" word_id="1000015" /> <!-- 1 ὁ -->
+    <arrow gloss_id="17" word_id="1000016" /> <!-- 1 ὁδός -->
+    <arrow gloss_id="18" word_id="1000017" /> <!-- 1 οἰκίᾱ -->
+    <arrow gloss_id="19" word_id="1000018" /> <!-- 1 Ὅμηρος -->
+    <arrow gloss_id="22" word_id="1000019" /> <!-- 1 τέχνη -->
+    <arrow gloss_id="23" word_id="1000020" /> <!-- 1 χώρᾱ -->
+    <arrow gloss_id="24" word_id="1000021" /> <!-- 1 ψῡχή -->
+    <arrow gloss_id="25" word_id="1000022" /> <!-- 1 ὦ -->
+    <arrow gloss_id="26" word_id="1000023" /> <!-- 2 ἄγγελος -->
+    <arrow gloss_id="27" word_id="1000024" /> <!-- 2 ἀπό -->
+    <arrow gloss_id="28" word_id="1000025" /> <!-- 2 ἆρα -->
+    <arrow gloss_id="29" word_id="1000026" /> <!-- 2 γάρ -->
+    <arrow gloss_id="30" word_id="1000027" /> <!-- 2 δέ -->
+    <arrow gloss_id="31" word_id="1000028" /> <!-- 2 ἕξ -->
+    <arrow gloss_id="32" word_id="1000029" /> <!-- 2 εὖ -->
+    <arrow gloss_id="33" word_id="1000030" /> <!-- 2 ζῷον -->
+    <arrow gloss_id="34" word_id="1000031" /> <!-- 2 ἤ -->
+    <arrow gloss_id="35" word_id="1000032" /> <!-- 2 ἤ... ἤ -->
+    <arrow gloss_id="36" word_id="1000033" /> <!-- 2 κελεύω -->
+    <arrow gloss_id="37" word_id="1000034" /> <!-- 2 λω -->
+    <arrow gloss_id="39" word_id="1000035" /> <!-- 2 μέν... δέ -->
+    <arrow gloss_id="40" word_id="1000036" /> <!-- 2 νῦν -->
+    <arrow gloss_id="41" word_id="1000037" /> <!-- 2 ξένος -->
+    <arrow gloss_id="42" word_id="1000038" /> <!-- 2 οὐ -->
+    <arrow gloss_id="43" word_id="1000039" /> <!-- 2 παιδεύω -->
+    <arrow gloss_id="44" word_id="1000040" /> <!-- 2 παρά -->
+    <arrow gloss_id="45" word_id="1000041" /> <!-- 2 πέμπω -->
+    <arrow gloss_id="46" word_id="1000042" /> <!-- 2 πέντε -->
+    <arrow gloss_id="47" word_id="1000043" /> <!-- 2 πόλεμος -->
+    <arrow gloss_id="48" word_id="1000044" /> <!-- 2 πρό -->
+    <arrow gloss_id="49" word_id="1000045" /> <!-- 2 στέφανος -->
+    <arrow gloss_id="50" word_id="1000046" /> <!-- 2 φίλος -->
+    <arrow gloss_id="51" word_id="1000047" /> <!-- 2 φιλίᾱ -->
+    <arrow gloss_id="52" word_id="1000048" /> <!-- 2 χρῡσός -->
+    <arrow gloss_id="53" word_id="1000049" /> <!-- 3 ἆθλον -->
+    <arrow gloss_id="54" word_id="1000050" /> <!-- 3 ἀλλά -->
+    <arrow gloss_id="55" word_id="1000051" /> <!-- 3 ἀντί -->
+    <arrow gloss_id="56" word_id="1000052" /> <!-- 3 ἀρετή -->
+    <arrow gloss_id="57" word_id="1000053" /> <!-- 3 βουλή -->
+    <arrow gloss_id="58" word_id="1000054" /> <!-- 3 γράφω -->
+    <arrow gloss_id="59" word_id="1000055" /> <!-- 3 δή -->
+    <arrow gloss_id="60" word_id="1000056" /> <!-- 3 δῆμος -->
+    <arrow gloss_id="61" word_id="1000057" /> <!-- 3 διά -->
+    <arrow gloss_id="62" word_id="1000058" /> <!-- 3 εἰρήνη -->
+    <arrow gloss_id="63" word_id="1000059" /> <!-- 3 ἐκκλησίᾱ -->
+    <arrow gloss_id="64" word_id="1000060" /> <!-- 3 ἐπεί -->
+    <arrow gloss_id="65" word_id="1000061" /> <!-- 3 ἐπειδή -->
+    <arrow gloss_id="66" word_id="1000062" /> <!-- 3 θω -->
+    <arrow gloss_id="67" word_id="1000063" /> <!-- 3 θυσίᾱ -->
+    <arrow gloss_id="68" word_id="1000064" /> <!-- 3 ἵνα -->
+    <arrow gloss_id="69" word_id="1000065" /> <!-- 3 μή -->
+    <arrow gloss_id="70" word_id="1000066" /> <!-- 3 νκη -->
+    <arrow gloss_id="72" word_id="1000067" /> <!-- 3 ὀφθαλμός -->
+    <arrow gloss_id="73" word_id="1000068" /> <!-- 3 παύω -->
+    <arrow gloss_id="74" word_id="1000069" /> <!-- 3 περί -->
+    <arrow gloss_id="75" word_id="1000070" /> <!-- 3 φυλάττω -->
+    <arrow gloss_id="76" word_id="1000071" /> <!-- 3 ὡς -->
+    <arrow gloss_id="77" word_id="1000072" /> <!-- 4 ἀγαθός -->
+    <arrow gloss_id="78" word_id="1000073" /> <!-- 4 ἄν -->
+    <arrow gloss_id="79" word_id="1000074" /> <!-- 4 ἄξιος -->
+    <arrow gloss_id="80" word_id="1000075" /> <!-- 4 ἀνάξιος -->
+    <arrow gloss_id="81" word_id="1000076" /> <!-- 4 ἀρχή -->
+    <arrow gloss_id="82" word_id="1000077" /> <!-- 4 γέφῡρα -->
+    <arrow gloss_id="83" word_id="1000078" /> <!-- 4 διδάσκω -->
+    <arrow gloss_id="84" word_id="1000079" /> <!-- 4 δίκη -->
+    <arrow gloss_id="85" word_id="1000080" /> <!-- 4 ἄδικος -->
+    <arrow gloss_id="86" word_id="1000081" /> <!-- 4 δίκαιος -->
+    <arrow gloss_id="87" word_id="1000082" /> <!-- 4 ἐθέλω -->
+    <arrow gloss_id="88" word_id="1000083" /> <!-- 4 εἰ -->
+    <arrow gloss_id="89" word_id="1000084" /> <!-- 4 ἐν -->
+    <arrow gloss_id="90" word_id="1000085" /> <!-- 4 ἡμέρᾱ -->
+    <arrow gloss_id="91" word_id="1000086" /> <!-- 4 θάλαττα -->
+    <arrow gloss_id="92" word_id="1000087" /> <!-- 4 θάπτω -->
+    <arrow gloss_id="93" word_id="1000088" /> <!-- 4 καίτοι -->
+    <arrow gloss_id="94" word_id="1000089" /> <!-- 4 κακός -->
+    <arrow gloss_id="95" word_id="1000090" /> <!-- 4 καλός -->
+    <arrow gloss_id="96" word_id="1000091" /> <!-- 4 μετά -->
+    <arrow gloss_id="97" word_id="1000092" /> <!-- 4 μοῖρα -->
+    <arrow gloss_id="98" word_id="1000093" /> <!-- 4 Μοῦσα -->
+    <arrow gloss_id="99" word_id="1000094" /> <!-- 4 νεᾱνίᾱς -->
+    <arrow gloss_id="100" word_id="1000095" /> <!-- 4 ὅπλον -->
+    <arrow gloss_id="101" word_id="1000096" /> <!-- 4 ὁπλτης -->
+    <arrow gloss_id="102" word_id="1000097" /> <!-- 4 πάλαι -->
+    <arrow gloss_id="103" word_id="1000098" /> <!-- 4 ποιητής -->
+    <arrow gloss_id="104" word_id="1000099" /> <!-- 4 πολτης -->
+    <arrow gloss_id="105" word_id="1000100" /> <!-- 4 στρατιώτης -->
+    <arrow gloss_id="106" word_id="1000101" /> <!-- 4 σύν -->
+    <arrow gloss_id="107" word_id="1000102" /> <!-- 4 τάττω -->
+    <arrow gloss_id="108" word_id="1000103" /> <!-- 4 φίλος -->
+    <arrow gloss_id="109" word_id="1000104" /> <!-- 5 ἄργυρος -->
+    <arrow gloss_id="110" word_id="1000105" /> <!-- 5 ἀργύριον -->
+    <arrow gloss_id="111" word_id="1000106" /> <!-- 5 ἄρχω -->
+    <arrow gloss_id="112" word_id="1000107" /> <!-- 5 βλάπτω -->
+    <arrow gloss_id="113" word_id="1000108" /> <!-- 5 γῆ -->
+    <arrow gloss_id="115" word_id="1000109" /> <!-- 5 δόξα -->
+    <arrow gloss_id="116" word_id="1000110" /> <!-- 5 θάνατος -->
+    <arrow gloss_id="117" word_id="1000111" /> <!-- 5 ἀθάνατος -->
+    <arrow gloss_id="118" word_id="1000112" /> <!-- 5 ἱερός -->
+    <arrow gloss_id="119" word_id="1000113" /> <!-- 5 ἰερόν -->
+    <arrow gloss_id="120" word_id="1000114" /> <!-- 5 ἱκανός -->
+    <arrow gloss_id="121" word_id="1000115" /> <!-- 5 ἵππος -->
+    <arrow gloss_id="122" word_id="1000116" /> <!-- 5 κίνδῡνος -->
+    <arrow gloss_id="123" word_id="1000117" /> <!-- 5 λίθος -->
+    <arrow gloss_id="124" word_id="1000118" /> <!-- 5 μακρός -->
+    <arrow gloss_id="125" word_id="1000119" /> <!-- 5 μῑκρός -->
+    <arrow gloss_id="126" word_id="1000120" /> <!-- 5 πεδίον -->
+    <arrow gloss_id="127" word_id="1000121" /> <!-- 5 πείθω -->
+    <arrow gloss_id="128" word_id="1000122" /> <!-- 5 πολέμιος -->
+    <arrow gloss_id="129" word_id="1000123" /> <!-- 5 πρττω -->
+    <arrow gloss_id="130" word_id="1000124" /> <!-- 5 πρῶτος -->
+    <arrow gloss_id="131" word_id="1000125" /> <!-- 5 ὑπό -->
+    <arrow gloss_id="132" word_id="1000126" /> <!-- 5 φόβος -->
+    <arrow gloss_id="133" word_id="1000127" /> <!-- 5 φοβερός -->
+    <arrow gloss_id="134" word_id="1000128" /> <!-- 6 αἴξ -->
+    <arrow gloss_id="135" word_id="1000129" /> <!-- 6 γε -->
+    <arrow gloss_id="136" word_id="1000130" /> <!-- 6 γέρων -->
+    <arrow gloss_id="137" word_id="1000131" /> <!-- 6 γνώμη -->
+    <arrow gloss_id="138" word_id="1000132" /> <!-- 6 δεινός -->
+    <arrow gloss_id="139" word_id="1000133" /> <!-- 6 δοῦλος -->
+    <arrow gloss_id="140" word_id="1000134" /> <!-- 6 δουλείᾱ -->
+    <arrow gloss_id="141" word_id="1000135" /> <!-- 6 δουλεύω -->
+    <arrow gloss_id="142" word_id="1000136" /> <!-- 6 ἐλεύθερος -->
+    <arrow gloss_id="143" word_id="1000137" /> <!-- 6 ἐλευθερίᾱ -->
+    <arrow gloss_id="144" word_id="1000138" /> <!-- 6 Ἕλλην -->
+    <arrow gloss_id="145" word_id="1000139" /> <!-- 6 ἐλπίς -->
+    <arrow gloss_id="146" word_id="1000140" /> <!-- 6 κατά -->
+    <arrow gloss_id="147" word_id="1000141" /> <!-- 6 κωλω -->
+    <arrow gloss_id="148" word_id="1000142" /> <!-- 6 νύξ -->
+    <arrow gloss_id="149" word_id="1000143" /> <!-- 6 ὅς -->
+    <arrow gloss_id="150" word_id="1000144" /> <!-- 6 παλαιός -->
+    <arrow gloss_id="151" word_id="1000145" /> <!-- 6 πολῑτεύω -->
+    <arrow gloss_id="152" word_id="1000146" /> <!-- 6 πρᾶγμα -->
+    <arrow gloss_id="153" word_id="1000147" /> <!-- 6 σοφός -->
+    <arrow gloss_id="154" word_id="1000148" /> <!-- 6 σοφίᾱ -->
+    <arrow gloss_id="155" word_id="1000149" /> <!-- 6 στάδιον -->
+    <arrow gloss_id="156" word_id="1000150" /> <!-- 6 σῶμα -->
+    <arrow gloss_id="157" word_id="1000151" /> <!-- 6 τε -->
+    <arrow gloss_id="158" word_id="1000152" /> <!-- 6 τοι -->
+    <arrow gloss_id="159" word_id="1000153" /> <!-- 6 φάλαγξ -->
+    <arrow gloss_id="160" word_id="1000154" /> <!-- 6 φύλαξ -->
+    <arrow gloss_id="161" word_id="1000155" /> <!-- 6 χάρις -->
+    <arrow gloss_id="162" word_id="1000156" /> <!-- 6 χάριν -->
+    <arrow gloss_id="163" word_id="1000157" /> <!-- 6 χορός -->
+    <arrow gloss_id="164" word_id="1000158" /> <!-- 6 χορεύω -->
+    <arrow gloss_id="165" word_id="1000159" /> <!-- 6 χορευτής -->
+    <arrow gloss_id="166" word_id="1000160" /> <!-- 7 αἰσχρός -->
+    <arrow gloss_id="167" word_id="1000161" /> <!-- 7 ἄλλος -->
+    <arrow gloss_id="168" word_id="1000162" /> <!-- 7 ἄνευ -->
+    <arrow gloss_id="169" word_id="1000163" /> <!-- 7 γράμμα -->
+    <arrow gloss_id="170" word_id="1000164" /> <!-- 7 γραφή -->
+    <arrow gloss_id="171" word_id="1000165" /> <!-- 7 δῆλος -->
+    <arrow gloss_id="172" word_id="1000166" /> <!-- 7 ἄδηλος -->
+    <arrow gloss_id="173" word_id="1000167" /> <!-- 7 εἰ γάρ -->
+    <arrow gloss_id="174" word_id="1000168" /> <!-- 7 εἴθε -->
+    <arrow gloss_id="175" word_id="1000169" /> <!-- 7 ἐκεῖ -->
+    <arrow gloss_id="176" word_id="1000170" /> <!-- 7 ἐκεῖνος -->
+    <arrow gloss_id="177" word_id="1000171" /> <!-- 7 ἡγεμών -->
+    <arrow gloss_id="178" word_id="1000172" /> <!-- 7 κλέπτω -->
+    <arrow gloss_id="179" word_id="1000173" /> <!-- 7 κλέπτης -->
+    <arrow gloss_id="180" word_id="1000174" /> <!-- 7 κλοπή -->
+    <arrow gloss_id="181" word_id="1000175" /> <!-- 7 λείπω -->
+    <arrow gloss_id="182" word_id="1000176" /> <!-- 7 οὖν -->
+    <arrow gloss_id="183" word_id="1000177" /> <!-- 7 ποίημα -->
+    <arrow gloss_id="184" word_id="1000178" /> <!-- 7 ῥήτωρ -->
+    <arrow gloss_id="185" word_id="1000179" /> <!-- 7 ῥητορική -->
+    <arrow gloss_id="186" word_id="1000180" /> <!-- 7 σῴζω -->
+    <arrow gloss_id="187" word_id="1000181" /> <!-- 7 σωτήρ -->
+    <arrow gloss_id="188" word_id="1000182" /> <!-- 7 τῑμή -->
+    <arrow gloss_id="189" word_id="1000183" /> <!-- 8 ἄγω -->
+    <arrow gloss_id="190" word_id="1000184" /> <!-- 8 Ἀθηναῖος -->
+    <arrow gloss_id="191" word_id="1000185" /> <!-- 8 ἅμα -->
+    <arrow gloss_id="192" word_id="1000186" /> <!-- 8 ἅτε -->
+    <arrow gloss_id="193" word_id="1000187" /> <!-- 8 ἔπειτα -->
+    <arrow gloss_id="194" word_id="1000188" /> <!-- 8 ἥκω -->
+    <arrow gloss_id="195" word_id="1000189" /> <!-- 8 καίπερ -->
+    <arrow gloss_id="196" word_id="1000190" /> <!-- 8 μήτε... μήτε -->
+    <arrow gloss_id="197" word_id="1000191" /> <!-- 8 οἷα -->
+    <arrow gloss_id="198" word_id="1000192" /> <!-- 8 οἶνος -->
+    <arrow gloss_id="199" word_id="1000193" /> <!-- 8 ὅμως -->
+    <arrow gloss_id="200" word_id="1000194" /> <!-- 8 οὔτε... οὔτε -->
+    <arrow gloss_id="201" word_id="1000195" /> <!-- 8 πᾶς -->
+    <arrow gloss_id="202" word_id="1000196" /> <!-- 8 ἅπᾱς -->
+    <arrow gloss_id="203" word_id="1000197" /> <!-- 8 σύμπᾱς -->
+    <arrow gloss_id="204" word_id="1000198" /> <!-- 8 στρατός -->
+    <arrow gloss_id="205" word_id="1000199" /> <!-- 8 στρατηγός -->
+    <arrow gloss_id="206" word_id="1000200" /> <!-- 8 χρῆμα -->
+    <arrow gloss_id="208" word_id="1000201" /> <!-- 9 ἀγών -->
+    <arrow gloss_id="209" word_id="1000202" /> <!-- 9 ἀδικέω -->
+    <arrow gloss_id="210" word_id="1000203" /> <!-- 9 ἄλογος -->
+    <arrow gloss_id="211" word_id="1000204" /> <!-- 9 βάρβαρος -->
+    <arrow gloss_id="212" word_id="1000205" /> <!-- 9 βίος -->
+    <arrow gloss_id="213" word_id="1000206" /> <!-- 9 δαίμων -->
+    <arrow gloss_id="214" word_id="1000207" /> <!-- 9 ἐχθρός -->
+    <arrow gloss_id="215" word_id="1000208" /> <!-- 9 νῑκάω -->
+    <arrow gloss_id="216" word_id="1000209" /> <!-- 9 ὅδε -->
+    <arrow gloss_id="217" word_id="1000210" /> <!-- 9 ὄνομα -->
+    <arrow gloss_id="218" word_id="1000211" /> <!-- 9 οὗτος -->
+    <arrow gloss_id="219" word_id="1000212" /> <!-- 9 οὕτω(ς) -->
+    <arrow gloss_id="220" word_id="1000213" /> <!-- 9 πεῖρα -->
+    <arrow gloss_id="221" word_id="1000214" /> <!-- 9 ἔμπειρος -->
+    <arrow gloss_id="222" word_id="1000215" /> <!-- 9 ἐμπειρίᾱ -->
+    <arrow gloss_id="223" word_id="1000216" /> <!-- 9 ποιέω -->
+    <arrow gloss_id="224" word_id="1000217" /> <!-- 9 σῑγή -->
+    <arrow gloss_id="225" word_id="1000218" /> <!-- 9 τῑμάω -->
+    <arrow gloss_id="226" word_id="1000219" /> <!-- 9 τρόπος -->
+    <arrow gloss_id="227" word_id="1000220" /> <!-- 9 ὕδωρ -->
+    <arrow gloss_id="228" word_id="1000221" /> <!-- 9 ὑπέρ -->
+    <arrow gloss_id="229" word_id="1000222" /> <!-- 10 ἀγγέλλω -->
+    <arrow gloss_id="230" word_id="1000223" /> <!-- 10 ἀληθής -->
+    <arrow gloss_id="231" word_id="1000224" /> <!-- 10 ἀλήθεια -->
+    <arrow gloss_id="232" word_id="1000225" /> <!-- 10 ἀνήρ -->
+    <arrow gloss_id="233" word_id="1000226" /> <!-- 10 ἀξιόω -->
+    <arrow gloss_id="235" word_id="1000227" /> <!-- 10 βασιλεύς -->
+    <arrow gloss_id="236" word_id="1000228" /> <!-- 10 γένος -->
+    <arrow gloss_id="237" word_id="1000229" /> <!-- 10 εὐγενής -->
+    <arrow gloss_id="238" word_id="1000230" /> <!-- 10 δηλόω -->
+    <arrow gloss_id="239" word_id="1000231" /> <!-- 10 Δημοσθένης -->
+    <arrow gloss_id="240" word_id="1000232" /> <!-- 10 ἐκ- -->
+    <arrow gloss_id="241" word_id="1000233" /> <!-- 10 εὐδαίμων -->
+    <arrow gloss_id="242" word_id="1000234" /> <!-- 10 θυγάτηρ -->
+    <arrow gloss_id="243" word_id="1000235" /> <!-- 10 ἱερεύς -->
+    <arrow gloss_id="244" word_id="1000236" /> <!-- 10 ἱππεύς -->
+    <arrow gloss_id="245" word_id="1000237" /> <!-- 10 καλέω -->
+    <arrow gloss_id="246" word_id="1000238" /> <!-- 10 μένω -->
+    <arrow gloss_id="247" word_id="1000239" /> <!-- 10 μήτηρ -->
+    <arrow gloss_id="248" word_id="1000240" /> <!-- 10 νόμος -->
+    <arrow gloss_id="249" word_id="1000241" /> <!-- 10 πάθος -->
+    <arrow gloss_id="250" word_id="1000242" /> <!-- 10 πατήρ -->
+    <arrow gloss_id="251" word_id="1000243" /> <!-- 10 πόλις -->
+    <arrow gloss_id="252" word_id="1000244" /> <!-- 10 πότε -->
+    <arrow gloss_id="253" word_id="1000245" /> <!-- 10 ποτέ -->
+    <arrow gloss_id="254" word_id="1000246" /> <!-- 10 Σωκράτης -->
+    <arrow gloss_id="255" word_id="1000247" /> <!-- 10 σώφρων -->
+    <arrow gloss_id="256" word_id="1000248" /> <!-- 10 τέλος -->
+    <arrow gloss_id="257" word_id="1000249" /> <!-- 10 τελευτάω -->
+    <arrow gloss_id="258" word_id="1000250" /> <!-- 10 φύσις -->
+    <arrow gloss_id="259" word_id="1000251" /> <!-- 10 ὥστε -->
+    <arrow gloss_id="260" word_id="1000252" /> <!-- 11 ἀεί -->
+    <arrow gloss_id="261" word_id="1000253" /> <!-- 11 αἴτιος -->
+    <arrow gloss_id="262" word_id="1000254" /> <!-- 11 αἰτίᾱ -->
+    <arrow gloss_id="263" word_id="1000255" /> <!-- 11 ἀκούω -->
+    <arrow gloss_id="264" word_id="1000256" /> <!-- 11 αὐτός -->
+    <arrow gloss_id="265" word_id="1000257" /> <!-- 11 ἄφρων -->
+    <arrow gloss_id="266" word_id="1000258" /> <!-- 11 βάλλω -->
+    <arrow gloss_id="267" word_id="1000259" /> <!-- 11 βούλομαι -->
+    <arrow gloss_id="268" word_id="1000260" /> <!-- 11 γυνή -->
+    <arrow gloss_id="269" word_id="1000261" /> <!-- 11 δέχομαι -->
+    <arrow gloss_id="270" word_id="1000262" /> <!-- 11 ἀποδέχομαι -->
+    <arrow gloss_id="272" word_id="1000263" /> <!-- 11 ἐνταῦθα -->
+    <arrow gloss_id="273" word_id="1000264" /> <!-- 11 ἐπειδάν -->
+    <arrow gloss_id="275" word_id="1000265" /> <!-- 11 ἔρως -->
+    <arrow gloss_id="276" word_id="1000266" /> <!-- 11 καιρός -->
+    <arrow gloss_id="277" word_id="1000267" /> <!-- 11 κάλλος -->
+    <arrow gloss_id="278" word_id="1000268" /> <!-- 11 κῆρυξ -->
+    <arrow gloss_id="279" word_id="1000269" /> <!-- 11 λαμβάνω -->
+    <arrow gloss_id="280" word_id="1000270" /> <!-- 11 ὀκτώ -->
+    <arrow gloss_id="281" word_id="1000271" /> <!-- 11 ὅτε -->
+    <arrow gloss_id="282" word_id="1000272" /> <!-- 11 ὅταν -->
+    <arrow gloss_id="283" word_id="1000273" /> <!-- 11 πάσχω -->
+    <arrow gloss_id="284" word_id="1000274" /> <!-- 11 πῶς -->
+    <arrow gloss_id="285" word_id="1000275" /> <!-- 11 πως -->
+    <arrow gloss_id="286" word_id="1000276" /> <!-- 11 τότε -->
+    <arrow gloss_id="287" word_id="1000277" /> <!-- 11 τύχη -->
+    <arrow gloss_id="288" word_id="1000278" /> <!-- 11 εὐτυχής -->
+    <arrow gloss_id="289" word_id="1000279" /> <!-- 11 ὕβρις -->
+    <arrow gloss_id="290" word_id="1000280" /> <!-- 11 φόνος -->
+    <arrow gloss_id="291" word_id="1000281" /> <!-- 11 φονεύς -->
+    <arrow gloss_id="292" word_id="1000282" /> <!-- 12 — -->
+    <arrow gloss_id="293" word_id="1000283" /> <!-- 12 ἀνα- -->
+    <arrow gloss_id="294" word_id="1000284" /> <!-- 12 γραφεύς -->
+    <arrow gloss_id="295" word_id="1000285" /> <!-- 12 γραφική -->
+    <arrow gloss_id="296" word_id="1000286" /> <!-- 12 δέκα -->
+    <arrow gloss_id="297" word_id="1000287" /> <!-- 12 δημιουργός -->
+    <arrow gloss_id="298" word_id="1000288" /> <!-- 12 δίδωμι -->
+    <arrow gloss_id="299" word_id="1000289" /> <!-- 12 ἀποδίδωμι -->
+    <arrow gloss_id="300" word_id="1000290" /> <!-- 12 ἐννέα -->
+    <arrow gloss_id="301" word_id="1000291" /> <!-- 12 ἔπος -->
+    <arrow gloss_id="302" word_id="1000292" /> <!-- 12 ἑρμηνεύς -->
+    <arrow gloss_id="303" word_id="1000293" /> <!-- 12 ζωγράφος -->
+    <arrow gloss_id="304" word_id="1000294" /> <!-- 12 ἤ -->
+    <arrow gloss_id="305" word_id="1000295" /> <!-- 12 ἵστημι -->
+    <arrow gloss_id="306" word_id="1000296" /> <!-- 12 ἀφίστημι -->
+    <arrow gloss_id="307" word_id="1000297" /> <!-- 12 κατα- -->
+    <arrow gloss_id="308" word_id="1000298" /> <!-- 12 καθίστημι -->
+    <arrow gloss_id="309" word_id="1000299" /> <!-- 12 καταλω -->
+    <arrow gloss_id="310" word_id="1000300" /> <!-- 12 μᾶλλον -->
+    <arrow gloss_id="311" word_id="1000301" /> <!-- 12 μή -->
+    <arrow gloss_id="312" word_id="1000302" /> <!-- 12 μηδέ -->
+    <arrow gloss_id="313" word_id="1000303" /> <!-- 12 μόνος -->
+    <arrow gloss_id="314" word_id="1000304" /> <!-- 12 μόνον -->
+    <arrow gloss_id="315" word_id="1000305" /> <!-- 12 οὐδέ -->
+    <arrow gloss_id="316" word_id="1000306" /> <!-- 12 πόθεν -->
+    <arrow gloss_id="317" word_id="1000307" /> <!-- 12 ποῖ -->
+    <arrow gloss_id="318" word_id="1000308" /> <!-- 12 ποῦ -->
+    <arrow gloss_id="319" word_id="1000309" /> <!-- 12 που -->
+    <arrow gloss_id="320" word_id="1000310" /> <!-- 12 πρός -->
+    <arrow gloss_id="321" word_id="1000311" /> <!-- 12 προσ- -->
+    <arrow gloss_id="322" word_id="1000312" /> <!-- 12 συν- -->
+    <arrow gloss_id="323" word_id="1000313" /> <!-- 12 τίθημι -->
+    <arrow gloss_id="324" word_id="1000314" /> <!-- 12 ἀνατίθημι -->
+    <arrow gloss_id="325" word_id="1000315" /> <!-- 12 φιλέω -->
+    <arrow gloss_id="326" word_id="1000316" /> <!-- 12 φοβέομαι -->
+    <arrow gloss_id="327" word_id="1000317" /> <!-- 13 Ἀριστοφάνης -->
+    <arrow gloss_id="328" word_id="1000318" /> <!-- 13 ἄρχων -->
+    <arrow gloss_id="329" word_id="1000319" /> <!-- 13 ἀσπίς -->
+    <arrow gloss_id="330" word_id="1000320" /> <!-- 13 αὐτίκα -->
+    <arrow gloss_id="331" word_id="1000321" /> <!-- 13 γίγνομαι -->
+    <arrow gloss_id="332" word_id="1000322" /> <!-- 13 ἑορτή -->
+    <arrow gloss_id="333" word_id="1000323" /> <!-- 13 ἐπί -->
+    <arrow gloss_id="334" word_id="1000324" /> <!-- 13 ἐπί- -->
+    <arrow gloss_id="335" word_id="1000325" /> <!-- 13 ἔρχομαι -->
+    <arrow gloss_id="336" word_id="1000326" /> <!-- 13 ἑταῖρος -->
+    <arrow gloss_id="337" word_id="1000327" /> <!-- 13 Ἐυρῑπίδης -->
+    <arrow gloss_id="338" word_id="1000328" /> <!-- 13 κράτος -->
+    <arrow gloss_id="339" word_id="1000329" /> <!-- 13 μανθάνω -->
+    <arrow gloss_id="340" word_id="1000330" /> <!-- 13 μάχομαι -->
+    <arrow gloss_id="342" word_id="1000331" /> <!-- 13 μεταδίδωμι -->
+    <arrow gloss_id="343" word_id="1000332" /> <!-- 13 μετανίσταμαι -->
+    <arrow gloss_id="344" word_id="1000333" /> <!-- 13 μηχανή -->
+    <arrow gloss_id="345" word_id="1000334" /> <!-- 13 μηχανάομαι -->
+    <arrow gloss_id="346" word_id="1000335" /> <!-- 13 ξίφος -->
+    <arrow gloss_id="347" word_id="1000336" /> <!-- 13 ὅμοιος -->
+    <arrow gloss_id="348" word_id="1000337" /> <!-- 13 ὅπως -->
+    <arrow gloss_id="349" word_id="1000338" /> <!-- 13 παῖς -->
+    <arrow gloss_id="350" word_id="1000339" /> <!-- 13 πούς -->
+    <arrow gloss_id="351" word_id="1000340" /> <!-- 13 σαφής -->
+    <arrow gloss_id="352" word_id="1000341" /> <!-- 13 σύμμαχος -->
+    <arrow gloss_id="353" word_id="1000342" /> <!-- 13 τεῖχος -->
+    <arrow gloss_id="354" word_id="1000343" /> <!-- 13 τόπος -->
+    <arrow gloss_id="355" word_id="1000344" /> <!-- 13 τρόπαιον -->
+    <arrow gloss_id="356" word_id="1000345" /> <!-- 13 φεύγω -->
+    <arrow gloss_id="357" word_id="1000346" /> <!-- 13 χαλεπός -->
+    <arrow gloss_id="358" word_id="1000347" /> <!-- 13 χείρ -->
+    <arrow gloss_id="359" word_id="1000348" /> <!-- 14 ἀμαθής -->
+    <arrow gloss_id="360" word_id="1000349" /> <!-- 14 ἀμαθίᾱ -->
+    <arrow gloss_id="361" word_id="1000350" /> <!-- 14 δείκνῡμι -->
+    <arrow gloss_id="362" word_id="1000351" /> <!-- 14 ἐπιδείκνυμαι -->
+    <arrow gloss_id="363" word_id="1000352" /> <!-- 14 ἐπίδειξις -->
+    <arrow gloss_id="364" word_id="1000353" /> <!-- 14 ἐπανίσταμαι -->
+    <arrow gloss_id="365" word_id="1000354" /> <!-- 14 ἐρωτάω -->
+    <arrow gloss_id="366" word_id="1000355" /> <!-- 14 ἕτερος -->
+    <arrow gloss_id="367" word_id="1000356" /> <!-- 14 ἔτι -->
+    <arrow gloss_id="368" word_id="1000357" /> <!-- 14 μηκέτι -->
+    <arrow gloss_id="369" word_id="1000358" /> <!-- 14 οὐκέτι -->
+    <arrow gloss_id="370" word_id="1000359" /> <!-- 14 κοινός -->
+    <arrow gloss_id="371" word_id="1000360" /> <!-- 14 Λακεδαιμόνιος -->
+    <arrow gloss_id="372" word_id="1000361" /> <!-- 14 λανθάνω -->
+    <arrow gloss_id="373" word_id="1000362" /> <!-- 14 μαθητής -->
+    <arrow gloss_id="374" word_id="1000363" /> <!-- 14 μέσος -->
+    <arrow gloss_id="375" word_id="1000364" /> <!-- 14 νέος -->
+    <arrow gloss_id="376" word_id="1000365" /> <!-- 14 παρα- -->
+    <arrow gloss_id="377" word_id="1000366" /> <!-- 14 παραγίγνομαι -->
+    <arrow gloss_id="378" word_id="1000367" /> <!-- 14 παραδίδωμι -->
+    <arrow gloss_id="379" word_id="1000368" /> <!-- 14 παραμένω -->
+    <arrow gloss_id="380" word_id="1000369" /> <!-- 14 ῥͅδιος -->
+    <arrow gloss_id="381" word_id="1000370" /> <!-- 14 στάσις -->
+    <arrow gloss_id="382" word_id="1000371" /> <!-- 14 τυγχάνω -->
+    <arrow gloss_id="383" word_id="1000372" /> <!-- 14 ὑπο- -->
+    <arrow gloss_id="384" word_id="1000373" /> <!-- 14 ὑπακούω -->
+    <arrow gloss_id="385" word_id="1000374" /> <!-- 14 ὑπομένω -->
+    <arrow gloss_id="386" word_id="1000375" /> <!-- 14 φθάνω -->
+    <arrow gloss_id="387" word_id="1000376" /> <!-- 14 χαίρω -->
+    <arrow gloss_id="388" word_id="1000377" /> <!-- 15 αἱρέω -->
+    <arrow gloss_id="389" word_id="1000378" /> <!-- 15 αἰσθάνομαι -->
+    <arrow gloss_id="390" word_id="1000379" /> <!-- 15 δια- -->
+    <arrow gloss_id="391" word_id="1000380" /> <!-- 15 ἑαυτοῦ -->
+    <arrow gloss_id="392" word_id="1000381" /> <!-- 15 ἐγώ -->
+    <arrow gloss_id="393" word_id="1000382" /> <!-- 15 ἐμαυτοῦ -->
+    <arrow gloss_id="394" word_id="1000383" /> <!-- 15 ἐμός -->
+    <arrow gloss_id="395" word_id="1000384" /> <!-- 15 εἰμί -->
+    <arrow gloss_id="396" word_id="1000385" /> <!-- 15 ἔστι(ν) -->
+    <arrow gloss_id="397" word_id="1000386" /> <!-- 15 ἔξεστι(ν) -->
+    <arrow gloss_id="398" word_id="1000387" /> <!-- 15 ἕπομαι -->
+    <arrow gloss_id="399" word_id="1000388" /> <!-- 15 ἡμεῖς -->
+    <arrow gloss_id="400" word_id="1000389" /> <!-- 15 ἡμῶν αὐτῶν -->
+    <arrow gloss_id="401" word_id="1000390" /> <!-- 15 ἡμέτερος -->
+    <arrow gloss_id="402" word_id="1000391" /> <!-- 15 οἷος -->
+    <arrow gloss_id="403" word_id="1000392" /> <!-- 15 οἷός τ' εἰμί -->
+    <arrow gloss_id="404" word_id="1000393" /> <!-- 15 ὁράω -->
+    <arrow gloss_id="405" word_id="1000394" /> <!-- 15 -περ -->
+    <arrow gloss_id="406" word_id="1000395" /> <!-- 15 περι- -->
+    <arrow gloss_id="407" word_id="1000396" /> <!-- 15 ποῖος -->
+    <arrow gloss_id="408" word_id="1000397" /> <!-- 15 σύ -->
+    <arrow gloss_id="409" word_id="1000398" /> <!-- 15 σεαυτοῦ -->
+    <arrow gloss_id="410" word_id="1000399" /> <!-- 15 σός -->
+    <arrow gloss_id="411" word_id="1000400" /> <!-- 15 σφῶν αὐτῶν -->
+    <arrow gloss_id="412" word_id="1000401" /> <!-- 15 σφέτερος αὐτῶν -->
+    <arrow gloss_id="413" word_id="1000402" /> <!-- 15 τίς -->
+    <arrow gloss_id="414" word_id="1000403" /> <!-- 15 τις -->
+    <arrow gloss_id="415" word_id="1000404" /> <!-- 15 τοιοῦτος -->
+    <arrow gloss_id="416" word_id="1000405" /> <!-- 15 μεῖς -->
+    <arrow gloss_id="417" word_id="1000406" /> <!-- 15 μῶν αὐτῶν -->
+    <arrow gloss_id="418" word_id="1000407" /> <!-- 15 μέτερος -->
+    <arrow gloss_id="419" word_id="1000408" /> <!-- 15 φέρω -->
+    <arrow gloss_id="420" word_id="1000409" /> <!-- 15 διαφέρω -->
+    <arrow gloss_id="421" word_id="1000410" /> <!-- 15 συμφέρω -->
+    <arrow gloss_id="422" word_id="1000411" /> <!-- 16 βαίνω -->
+    <arrow gloss_id="423" word_id="1000412" /> <!-- 16 ἀναβαίνω -->
+    <arrow gloss_id="424" word_id="1000413" /> <!-- 16 γιγνώσκω -->
+    <arrow gloss_id="425" word_id="1000414" /> <!-- 16 ἕκαστος -->
+    <arrow gloss_id="426" word_id="1000415" /> <!-- 16 ἕνεκα -->
+    <arrow gloss_id="427" word_id="1000416" /> <!-- 16 Ζεύς -->
+    <arrow gloss_id="428" word_id="1000417" /> <!-- 16 θέατρον -->
+    <arrow gloss_id="429" word_id="1000418" /> <!-- 16 λέγω -->
+    <arrow gloss_id="430" word_id="1000419" /> <!-- 16 λιμήν -->
+    <arrow gloss_id="431" word_id="1000420" /> <!-- 16 μήποτε -->
+    <arrow gloss_id="432" word_id="1000421" /> <!-- 16 ναῦς -->
+    <arrow gloss_id="433" word_id="1000422" /> <!-- 16 νή -->
+    <arrow gloss_id="434" word_id="1000423" /> <!-- 16 νομίζω -->
+    <arrow gloss_id="435" word_id="1000424" /> <!-- 16 ὅτι -->
+    <arrow gloss_id="436" word_id="1000425" /> <!-- 16 οὔποτε -->
+    <arrow gloss_id="437" word_id="1000426" /> <!-- 16 πάνυ -->
+    <arrow gloss_id="438" word_id="1000427" /> <!-- 16 ππτω -->
+    <arrow gloss_id="439" word_id="1000428" /> <!-- 16 ἐκππτω -->
+    <arrow gloss_id="440" word_id="1000429" /> <!-- 16 πολιτείᾱ -->
+    <arrow gloss_id="441" word_id="1000430" /> <!-- 16 πολύς -->
+    <arrow gloss_id="442" word_id="1000431" /> <!-- 16 πολλάκις -->
+    <arrow gloss_id="443" word_id="1000432" /> <!-- 16 πονηρός -->
+    <arrow gloss_id="444" word_id="1000433" /> <!-- 16 προ- -->
+    <arrow gloss_id="445" word_id="1000434" /> <!-- 16 προδίδωμι -->
+    <arrow gloss_id="446" word_id="1000435" /> <!-- 16 σωφροσύνη -->
+    <arrow gloss_id="447" word_id="1000436" /> <!-- 16 φημί -->
+    <arrow gloss_id="448" word_id="1000437" /> <!-- 16 ὡς -->
+    <arrow gloss_id="449" word_id="1000438" /> <!-- 17 ἁμαρτάνω -->
+    <arrow gloss_id="450" word_id="1000439" /> <!-- 17 ἁμαρτίᾱ -->
+    <arrow gloss_id="451" word_id="1000440" /> <!-- 17 βαρύς -->
+    <arrow gloss_id="452" word_id="1000441" /> <!-- 17 δοκέω -->
+    <arrow gloss_id="454" word_id="1000442" /> <!-- 17 δύναμαι -->
+    <arrow gloss_id="455" word_id="1000443" /> <!-- 17 δύναμις -->
+    <arrow gloss_id="456" word_id="1000444" /> <!-- 17 δύο -->
+    <arrow gloss_id="457" word_id="1000445" /> <!-- 17 δεύτερος -->
+    <arrow gloss_id="458" word_id="1000446" /> <!-- 17 εἶμι -->
+    <arrow gloss_id="459" word_id="1000447" /> <!-- 17 εἷς -->
+    <arrow gloss_id="460" word_id="1000448" /> <!-- 17 ἐλαύνω -->
+    <arrow gloss_id="461" word_id="1000449" /> <!-- 17 ἐπίσταμαι -->
+    <arrow gloss_id="462" word_id="1000450" /> <!-- 17 ἐπιστήμη -->
+    <arrow gloss_id="463" word_id="1000451" /> <!-- 17 ἔχω -->
+    <arrow gloss_id="464" word_id="1000452" /> <!-- 17 ἡδύς -->
+    <arrow gloss_id="465" word_id="1000453" /> <!-- 17 μάλιστα -->
+    <arrow gloss_id="466" word_id="1000454" /> <!-- 17 μέγας -->
+    <arrow gloss_id="467" word_id="1000455" /> <!-- 17 μηδείς -->
+    <arrow gloss_id="468" word_id="1000456" /> <!-- 17 ὀρθός -->
+    <arrow gloss_id="469" word_id="1000457" /> <!-- 17 οὐδείς -->
+    <arrow gloss_id="470" word_id="1000458" /> <!-- 17 πόσος -->
+    <arrow gloss_id="471" word_id="1000459" /> <!-- 17 τοσοῦτος -->
+    <arrow gloss_id="472" word_id="1000460" /> <!-- 17 ὅσος -->
+    <arrow gloss_id="473" word_id="1000461" /> <!-- 17 πότερος -->
+    <arrow gloss_id="474" word_id="1000462" /> <!-- 17 πότερον -->
+    <arrow gloss_id="475" word_id="1000463" /> <!-- 17 ταχύς -->
+    <arrow gloss_id="476" word_id="1000464" /> <!-- 17 τέτταρες -->
+    <arrow gloss_id="477" word_id="1000465" /> <!-- 17 τέταρτος -->
+    <arrow gloss_id="478" word_id="1000466" /> <!-- 17 τρεῖς -->
+    <arrow gloss_id="479" word_id="1000467" /> <!-- 17 τρίτος -->
+    <arrow gloss_id="480" word_id="1000468" /> <!-- 17 ὑπερ- -->
+    <arrow gloss_id="481" word_id="1000469" /> <!-- 18 ἀποθνῄσκω -->
+    <arrow gloss_id="482" word_id="1000470" /> <!-- 18 ἀποκτείνω -->
+    <arrow gloss_id="483" word_id="1000471" /> <!-- 18 αὖ -->
+    <arrow gloss_id="484" word_id="1000472" /> <!-- 18 βουλεύω -->
+    <arrow gloss_id="485" word_id="1000473" /> <!-- 18 ἐπιβουλεύω -->
+    <arrow gloss_id="486" word_id="1000474" /> <!-- 18 συμβουλεύω -->
+    <arrow gloss_id="487" word_id="1000475" /> <!-- 18 εἰ -->
+    <arrow gloss_id="488" word_id="1000476" /> <!-- 18 εἴτε... εἴτε -->
+    <arrow gloss_id="489" word_id="1000477" /> <!-- 18 ζητέω -->
+    <arrow gloss_id="490" word_id="1000478" /> <!-- 18 ημι -->
+    <arrow gloss_id="491" word_id="1000479" /> <!-- 18 ἀφημι -->
+    <arrow gloss_id="492" word_id="1000480" /> <!-- 18 συνημι -->
+    <arrow gloss_id="493" word_id="1000481" /> <!-- 18 μέλλω -->
+    <arrow gloss_id="494" word_id="1000482" /> <!-- 18 ὀξύς -->
+    <arrow gloss_id="495" word_id="1000483" /> <!-- 18 ὅστις -->
+    <arrow gloss_id="496" word_id="1000484" /> <!-- 18 πιστεύω -->
+    <arrow gloss_id="497" word_id="1000485" /> <!-- 18 τράπεζα -->
+    <arrow gloss_id="498" word_id="1000486" /> <!-- 18 ψεῦδος -->
+    <arrow gloss_id="499" word_id="1000487" /> <!-- 18 ψευδής -->
+    <arrow gloss_id="500" word_id="1000488" /> <!-- 19 αἰσχνομαι -->
+    <arrow gloss_id="501" word_id="1000489" /> <!-- 19 ἀπόλλῡμι -->
+    <arrow gloss_id="502" word_id="1000490" /> <!-- 19 — -->
+    <arrow gloss_id="503" word_id="1000491" /> <!-- 19 — -->
+    <arrow gloss_id="504" word_id="1000492" /> <!-- 19 εὑρίσκω -->
+    <arrow gloss_id="505" word_id="1000493" /> <!-- 19 ἕως -->
+    <arrow gloss_id="506" word_id="1000494" /> <!-- 19 ἡγέομαι -->
+    <arrow gloss_id="507" word_id="1000495" /> <!-- 19 ἴσος -->
+    <arrow gloss_id="508" word_id="1000496" /> <!-- 19 ἴσως -->
+    <arrow gloss_id="509" word_id="1000497" /> <!-- 19 καινός -->
+    <arrow gloss_id="510" word_id="1000498" /> <!-- 19 κέρδος -->
+    <arrow gloss_id="511" word_id="1000499" /> <!-- 19 κρνω -->
+    <arrow gloss_id="512" word_id="1000500" /> <!-- 19 ἀποκρνομαι -->
+    <arrow gloss_id="513" word_id="1000501" /> <!-- 19 κριτής -->
+    <arrow gloss_id="514" word_id="1000502" /> <!-- 19 λπη -->
+    <arrow gloss_id="515" word_id="1000503" /> <!-- 19 μάλα -->
+    <arrow gloss_id="516" word_id="1000504" /> <!-- 19 μέχρι -->
+    <arrow gloss_id="517" word_id="1000505" /> <!-- 19 νόσος -->
+    <arrow gloss_id="518" word_id="1000506" /> <!-- 19 οἶδα -->
+    <arrow gloss_id="519" word_id="1000507" /> <!-- 19 σύνοιδα -->
+    <arrow gloss_id="520" word_id="1000508" /> <!-- 19 ὀλίγος -->
+    <arrow gloss_id="521" word_id="1000509" /> <!-- 19 πρίν -->
+    <arrow gloss_id="522" word_id="1000510" /> <!-- 19 πρότερος -->
+    <arrow gloss_id="523" word_id="1000511" /> <!-- 19 πρότερον -->
+    <arrow gloss_id="524" word_id="1000512" /> <!-- 19 ὕστερος -->
+    <arrow gloss_id="525" word_id="1000513" /> <!-- 19 ὕστερον -->
+    <arrow gloss_id="526" word_id="1000514" /> <!-- 19 ὕστατος -->
+    <arrow gloss_id="527" word_id="1000515" /> <!-- 19 χρόνος -->
+    <arrow gloss_id="528" word_id="1000516" /> <!-- 20 ἄστυ -->
+    <arrow gloss_id="529" word_id="1000517" /> <!-- 20 ἀφικνέομαι -->
+    <arrow gloss_id="530" word_id="1000518" /> <!-- 20 δεῖ -->
+    <arrow gloss_id="531" word_id="1000519" /> <!-- 20 ἰατρός -->
+    <arrow gloss_id="532" word_id="1000520" /> <!-- 20 κεῖμαι -->
+    <arrow gloss_id="533" word_id="1000521" /> <!-- 20 νοῦς -->
+    <arrow gloss_id="534" word_id="1000522" /> <!-- 20 πυνθάνομαι -->
+    <arrow gloss_id="535" word_id="1000523" /> <!-- 20 τρέπω -->
+    <arrow gloss_id="536" word_id="1000524" /> <!-- 20 φαίνω -->
+    <arrow gloss_id="537" word_id="1000525" /> <!-- 20 χρή -->
+    <arrow gloss_id="797" word_id="1000526" /> <!-- 5 διδάσκαλος -->
+    <arrow gloss_id="2139" word_id="1000527" /> <!-- 3 δημοκρατίᾱ -->
+    <arrow gloss_id="2145" word_id="1000528" /> <!-- 18 ὁποῖος -->
+    <arrow gloss_id="2147" word_id="1000529" /> <!-- 18 ὅποι -->
+    <arrow gloss_id="2288" word_id="1000530" /> <!-- 19 ἥκιστα -->
+    <arrow gloss_id="2551" word_id="1000531" /> <!-- 18 ποθέν -->
+    <arrow gloss_id="2552" word_id="1000532" /> <!-- 18 ὅπου -->
+    <arrow gloss_id="5705" word_id="1000533" /> <!-- 11 ἑπτά -->
+    <arrow gloss_id="5706" word_id="1000534" /> <!-- 11 εἰσ- -->
+    <arrow gloss_id="5707" word_id="1000535" /> <!-- 13 μετα- -->
+    <arrow gloss_id="3842" word_id="1000536" /> <!-- ὁπόσος -->
+    <arrow gloss_id="2150" word_id="1000537" /> <!-- ὁπότε -->
+    <arrow gloss_id="2248" word_id="1000538" /> <!-- ὁπότε -->
+    <arrow gloss_id="2310" word_id="1000540" /> <!-- ὁπότερος -->
+    <!-- Ion -->
+    <arrow gloss_id="538" word_id="56" /> <!-- ἠγωνίζου -->
+    <arrow gloss_id="539" word_id="133" /> <!-- ἀναγκαῖον -->
+    <arrow gloss_id="547" word_id="102" /> <!-- ἐζήλωσα -->
+    <arrow gloss_id="549" word_id="1521" /> <!-- θεία -->
+    <arrow gloss_id="550" word_id="4" /> <!-- Ἴωνα -->
+    <arrow gloss_id="551" word_id="3751" /> <!-- Καὶ -->
+    <arrow gloss_id="553" word_id="290" /> <!-- Καὶ -->
+    <arrow gloss_id="554" word_id="119" /> <!-- κεκοσμῆσθαι -->
+    <arrow gloss_id="555" word_id="99" /> <!-- μὴν -->
+    <arrow gloss_id="559" word_id="19" /> <!-- Οὐδαμῶς -->
+    <arrow gloss_id="561" word_id="4018" /> <!-- πρέπει -->
+    <arrow gloss_id="562" word_id="34" /> <!-- ῥαψῳδῶν -->
+    <arrow gloss_id="564" word_id="976" /> <!-- ἀδυνατῶ -->
+    <arrow gloss_id="566" word_id="343" /> <!-- Ἀρχιλόχου -->
+    <arrow gloss_id="568" word_id="4117" /> <!-- γοῦν -->
+    <arrow gloss_id="569" word_id="441" /> <!-- διαφόρως -->
+    <arrow gloss_id="570" word_id="453" /> <!-- ἐξηγήσαιο -->
+    <arrow gloss_id="571" word_id="341" /> <!-- Ἡσιόδου -->
+    <arrow gloss_id="576" word_id="306" /> <!-- οἶμαι -->
+    <arrow gloss_id="577" word_id="2877" /> <!-- οἷον -->
+    <arrow gloss_id="581" word_id="313" /> <!-- στεφανωθῆναι -->
+    <arrow gloss_id="586" word_id="2316" /> <!-- χρυσοῖσι -->
+    <arrow gloss_id="591" word_id="697" /> <!-- δήπου -->
+    <arrow gloss_id="592" word_id="537" /> <!-- διελήλυθεν -->
+    <arrow gloss_id="596" word_id="616" /> <!-- Ναί -->
+    <arrow gloss_id="598" word_id="2796" /> <!-- μέντοι -->
+    <arrow gloss_id="601" word_id="651" /> <!-- Οὐκοῦν -->
+    <arrow gloss_id="609" word_id="4390" /> <!-- ἀμφότερα -->
+    <arrow gloss_id="610" word_id="1985" /> <!-- ἀτεχνῶς -->
+    <arrow gloss_id="611" word_id="969" /> <!-- διαλέγηται -->
+    <arrow gloss_id="612" word_id="997" /> <!-- ἐγρήγορα -->
+    <arrow gloss_id="615" word_id="995" /> <!-- εὐθύς -->
+    <arrow gloss_id="616" word_id="1462" /> <!-- εὐπορῶ -->
+    <arrow gloss_id="618" word_id="993" /> <!-- μνησθῇ -->
+    <arrow gloss_id="620" word_id="1054" /> <!-- ὅλον -->
+    <arrow gloss_id="621" word_id="926" /> <!-- ὁμολογῇ -->
+    <arrow gloss_id="623" word_id="1292" /> <!-- προσέχει -->
+    <arrow gloss_id="624" word_id="1271" /> <!-- συμβάληται -->
+    <arrow gloss_id="625" word_id="1979" /> <!-- σχεδόν -->
+    <arrow gloss_id="628" word_id="1138" /> <!-- ᾄδετε -->
+    <arrow gloss_id="631" word_id="1266" /> <!-- ἀπορεῖ -->
+    <arrow gloss_id="634" word_id="1089" /> <!-- δέῃ -->
+    <arrow gloss_id="635" word_id="3054" /> <!-- δῆτα -->
+    <arrow gloss_id="641" word_id="2162" /> <!-- θεωμένους -->
+    <arrow gloss_id="645" word_id="1099" /> <!-- μὰ -->
+    <arrow gloss_id="656" word_id="1216" /> <!-- φαῦλοι -->
+    <arrow gloss_id="660" word_id="1588" /> <!-- ἤρτηται -->
+    <arrow gloss_id="662" word_id="2440" /> <!-- δακτυλίων -->
+    <arrow gloss_id="663" word_id="1606" /> <!-- ἐνθέους -->
+    <arrow gloss_id="673" word_id="1543" /> <!-- καὶ -->
+    <arrow gloss_id="679" word_id="1518" /> <!-- νυνδὴ -->
+    <arrow gloss_id="681" word_id="1536" /> <!-- ὠνόμασεν -->
+    <arrow gloss_id="682" word_id="2501" /> <!-- ὁρμαθὸς -->
+    <arrow gloss_id="683" word_id="1412" /> <!-- Ὀρφέως -->
+    <arrow gloss_id="685" word_id="1434" /> <!-- ῥαψῳδεῖ -->
+    <arrow gloss_id="699" word_id="1776" /> <!-- ἔκφρων -->
+    <arrow gloss_id="700" word_id="1656" /> <!-- ἔμφρονες -->
+    <arrow gloss_id="701" word_id="1712" /> <!-- ἐργάζεται -->
+    <arrow gloss_id="704" word_id="1637" /> <!-- κατεχόμενοι -->
+    <arrow gloss_id="713" word_id="1664" /> <!-- μελοποιοὶ -->
+    <arrow gloss_id="714" word_id="1670" /> <!-- μέλη -->
+    <arrow gloss_id="716" word_id="1837" /> <!-- ὥρμησεν -->
+    <arrow gloss_id="719" word_id="1748" /> <!-- πετόμενοι -->
+    <arrow gloss_id="727" word_id="2148" /> <!-- ἀποκρύψῃ -->
+    <arrow gloss_id="748" word_id="1980" /> <!-- τι -->
+    <arrow gloss_id="754" word_id="1902" /> <!-- χρῆται -->
+    <arrow gloss_id="761" word_id="2418" /> <!-- γελάσομαι -->
+    <arrow gloss_id="770" word_id="2271" /> <!-- ἐμπίμπλανταί -->
+    <arrow gloss_id="783" word_id="2318" /> <!-- κλάῃ -->
+    <arrow gloss_id="803" word_id="2756" /> <!-- θαυμάζοιμι -->
+    <arrow gloss_id="822" word_id="2687" /> <!-- φροντίζουσιν -->
+    <arrow gloss_id="826" word_id="2934" /> <!-- ἀριστερὰ -->
+    <arrow gloss_id="827" word_id="2977" /> <!-- Ἀρκεῖ -->
+    <arrow gloss_id="841" word_id="3001" /> <!-- ἡνίοχος -->
+    <arrow gloss_id="843" word_id="3050" /> <!-- ἰατρικῇ -->
+    <arrow gloss_id="851" word_id="2904" /> <!-- Νέστωρ -->
+    <arrow gloss_id="856" word_id="2909" /> <!-- παραινῶν -->
+    <arrow gloss_id="860" word_id="2872" /> <!-- πολλαχοῦ -->
+    <arrow gloss_id="864" word_id="2887" /> <!-- φράσω -->
+    <arrow gloss_id="866" word_id="3371" /> <!-- ἄρα -->
+    <arrow gloss_id="878" word_id="3400" /> <!-- πίνειν -->
+    <arrow gloss_id="885" word_id="4053" /> <!-- βοῶν -->
+    <arrow gloss_id="891" word_id="3554" /> <!-- διαγιγνώσκειν -->
+    <arrow gloss_id="892" word_id="3533" /> <!-- διακρίνειν -->
+    <arrow gloss_id="910" word_id="3578" /> <!-- Ὀδυσσείᾳ -->
+    <arrow gloss_id="917" word_id="3531" /> <!-- προσήκει -->
+    <arrow gloss_id="919" word_id="3563" /> <!-- σκέψαι -->
+    <arrow gloss_id="937" word_id="3796" /> <!-- ἔκλεξον -->
+    <arrow gloss_id="940" word_id="3874" /> <!-- ἐπιλανθάνομαι -->
+    <arrow gloss_id="941" word_id="3864" /> <!-- ἐπιλήσμονα -->
+    <arrow gloss_id="950" word_id="3777" /> <!-- Ἰλιάδος -->
+    <arrow gloss_id="985" word_id="4017" /> <!-- κάμνοντος -->
+    <arrow gloss_id="994" word_id="4311" /> <!-- Ἀλλ' -->
+    <arrow gloss_id="997" word_id="4351" /> <!-- Ἦ -->
+    <arrow gloss_id="1002" word_id="4444" /> <!-- στρατηγεῖται -->
+    <arrow gloss_id="1013" word_id="4600" /> <!-- ἐξαπατᾷς -->
+    <arrow gloss_id="1022" word_id="4656" /> <!-- μὲν -->
+    <arrow gloss_id="1027" word_id="4631" /> <!-- στρεφόμενος -->
+    <arrow gloss_id="1028" word_id="4658" /> <!-- τεχνικὸς -->
+    <arrow gloss_id="1030" word_id="4667" /> <!-- ὑποσχόμενος -->
+    <arrow gloss_id="1137" word_id="1430" /> <!-- συμβαλέσθαι -->
+    <arrow gloss_id="728" word_id="2081" /> <!-- ἅπτει -->
+    <arrow gloss_id="541" word_id="160" /> <!-- διάνοιαν -->
+    <!-- Medea -->
+    <arrow gloss_id="548" word_id="19362" /> <!-- ζηλωτὸν -->
+    <arrow gloss_id="579" word_id="14291" /> <!-- παρασχὼν -->
+    <arrow gloss_id="637" word_id="18052" /> <!-- εἰκός -->
+    <arrow gloss_id="640" word_id="17395" /> <!-- ἤδη -->
+    <arrow gloss_id="731" word_id="11288" /> <!-- ἐκπλαγεῖσ' -->
+    <arrow gloss_id="762" word_id="18322" /> <!-- δακρύων -->
+    <arrow gloss_id="781" word_id="17970" /> <!-- καρδίαι -->
+    <arrow gloss_id="782" word_id="14679" /> <!-- κατεῖδον -->
+    <arrow gloss_id="818" word_id="19396" /> <!-- σχῆμ' -->
+    <arrow gloss_id="1035" word_id="11238" /> <!-- Ἀργοῦς -->
+    <arrow gloss_id="1036" word_id="11241" /> <!-- σκάφος -->
+    <arrow gloss_id="1037" word_id="11243" /> <!-- Κόλχων -->
+    <arrow gloss_id="1038" word_id="11244" /> <!-- ἐς -->
+    <arrow gloss_id="1043" word_id="11253" /> <!-- Πηλίου -->
+    <arrow gloss_id="1047" word_id="11262" /> <!-- χέρας -->
+    <arrow gloss_id="1050" word_id="11271" /> <!-- Πελίαι -->
+    <arrow gloss_id="1054" word_id="11280" /> <!-- Μήδεια -->
+    <arrow gloss_id="1058" word_id="11284" /> <!-- Ἰωλκίας -->
+    <arrow gloss_id="1059" word_id="18003" /> <!-- θυμῶι -->
+    <arrow gloss_id="1061" word_id="11289" /> <!-- Ἰάσονος -->
+    <arrow gloss_id="1062" word_id="11294" /> <!-- κτανεῖν -->
+    <arrow gloss_id="1064" word_id="11297" /> <!-- κόρας -->
+    <arrow gloss_id="1066" word_id="11303" /> <!-- Κορινθίαν -->
+    <arrow gloss_id="1067" word_id="11308" /> <!-- τέκνοισιν -->
+    <arrow gloss_id="1068" word_id="11305" /> <!-- ξὺν -->
+    <arrow gloss_id="1071" word_id="11317" /> <!-- χθόνα -->
+    <arrow gloss_id="1077" word_id="11358" /> <!-- γάμοις -->
+    <arrow gloss_id="1079" word_id="11364" /> <!-- γήμας -->
+    <arrow gloss_id="1080" word_id="11365" /> <!-- Κρέοντος -->
+    <arrow gloss_id="1082" word_id="11376" /> <!-- δύστηνος -->
+    <arrow gloss_id="1083" word_id="21909" /> <!-- ἀτιμάσας -->
+    <arrow gloss_id="1085" word_id="15053" /> <!-- ὅρκων -->
+    <arrow gloss_id="1087" word_id="18271" /> <!-- δεξιᾶς -->
+    <arrow gloss_id="1092" word_id="21996" /> <!-- ἐκύρσατε -->
+    <arrow gloss_id="1098" word_id="11417" /> <!-- πρὸς -->
+    <arrow gloss_id="1099" word_id="17981" /> <!-- ὄμματα -->
+    <arrow gloss_id="1101" word_id="18109" /> <!-- ἀπαλλαχθήσομαι -->
+    <arrow gloss_id="1107" word_id="11444" /> <!-- ἢν -->
+    <arrow gloss_id="1111" word_id="18085" /> <!-- γαίας -->
+    <arrow gloss_id="1112" word_id="11460" /> <!-- οἴκους -->
+    <arrow gloss_id="1113" word_id="17669" /> <!-- σφ' -->
+    <arrow gloss_id="1115" word_id="11479" /> <!-- τάλαινα -->
+    <arrow gloss_id="1116" word_id="11480" /> <!-- συμφορᾶς -->
+    <arrow gloss_id="1118" word_id="11484" /> <!-- πατρώιας -->
+    <arrow gloss_id="1120" word_id="14819" /> <!-- στυγεῖς -->
+    <arrow gloss_id="1123" word_id="13214" /> <!-- φρὴν -->
+    <arrow gloss_id="1132" word_id="12783" /> <!-- δόμων -->
+    <arrow gloss_id="1135" word_id="15031" /> <!-- λέχη -->
+    <arrow gloss_id="1136" word_id="11543" /> <!-- τύραννον -->
+    <arrow gloss_id="1143" word_id="18139" /> <!-- ἐννοηθεῖσ' -->
+    <arrow gloss_id="1149" word_id="12793" /> <!-- βροτῶν -->
+    <arrow gloss_id="1151" word_id="12796" /> <!-- γεγῶτας -->
+    <arrow gloss_id="1156" word_id="15030" /> <!-- ἐκτήσω -->
+    <arrow gloss_id="1170" word_id="12875" /> <!-- διέφθαρκ' -->
+    <arrow gloss_id="1176" word_id="12905" /> <!-- πόσις -->
+    <arrow gloss_id="1178" word_id="17773" /> <!-- ἀθλιωτάτη -->
+    <arrow gloss_id="1183" word_id="15000" /> <!-- ἄλγιστον -->
+    <arrow gloss_id="1199" word_id="13016" /> <!-- θανεῖν -->
+    <arrow gloss_id="1203" word_id="14897" /> <!-- μολών -->
+    <arrow gloss_id="1208" word_id="17670" /> <!-- ἀνάγκη -->
+    <arrow gloss_id="1211" word_id="17607" /> <!-- ζῆν -->
+    <arrow gloss_id="1216" word_id="13075" /> <!-- φρονοῦντες -->
+    <arrow gloss_id="1218" word_id="18531" /> <!-- ἔτικτον -->
+    <arrow gloss_id="1219" word_id="13084" /> <!-- θέλοιμ' -->
+    <arrow gloss_id="1221" word_id="13092" /> <!-- ἀλλ' -->
+    <arrow gloss_id="1229" word_id="13143" /> <!-- οὐχὶ -->
+    <arrow gloss_id="1241" word_id="13206" /> <!-- εὐνὴν -->
+    <arrow gloss_id="1245" word_id="14033" /> <!-- δράσεις -->
+    <arrow gloss_id="1251" word_id="14703" /> <!-- βουλεύματα -->
+    <arrow gloss_id="1253" word_id="18147" /> <!-- θυμουμένη -->
+    <arrow gloss_id="1274" word_id="13962" /> <!-- ἔφυ -->
+    <arrow gloss_id="1276" word_id="21968" /> <!-- λυπῆι -->
+    <arrow gloss_id="1277" word_id="21862" /> <!-- λέκτρων -->
+    <arrow gloss_id="1292" word_id="18596" /> <!-- δυσμενὴς -->
+    <arrow gloss_id="1312" word_id="21951" /> <!-- ὤικησεν -->
+    <arrow gloss_id="1314" word_id="19507" /> <!-- μαλθακοὺς -->
+    <arrow gloss_id="1323" word_id="15102" /> <!-- γονάτων -->
+    <arrow gloss_id="1337" word_id="21615" /> <!-- πόνου -->
+    <arrow gloss_id="1343" word_id="17423" /> <!-- αἰτήσομαι -->
+    <arrow gloss_id="1376" word_id="14078" /> <!-- ἄπορόν -->
+    <arrow gloss_id="1383" word_id="14106" /> <!-- πω -->
+    <arrow gloss_id="1387" word_id="14120" /> <!-- σμικροὶ -->
+    <arrow gloss_id="1391" word_id="14137" /> <!-- τεχνωμένην -->
+    <arrow gloss_id="1393" word_id="14146" /> <!-- χεροῖν -->
+    <arrow gloss_id="1397" word_id="21607" /> <!-- νεκροὺς -->
+    <arrow gloss_id="1413" word_id="14253" /> <!-- γέλων -->
+    <arrow gloss_id="1416" word_id="17539" /> <!-- φαρμάκοις -->
+    <arrow gloss_id="1427" word_id="14329" /> <!-- ἀμήχανος -->
+    <arrow gloss_id="1443" word_id="18158" /> <!-- κῆδος -->
+    <arrow gloss_id="1446" word_id="17788" /> <!-- εἶα -->
+    <arrow gloss_id="1457" word_id="17789" /> <!-- χώρει -->
+    <arrow gloss_id="1496" word_id="17528" /> <!-- ὀλεῖται -->
+    <arrow gloss_id="1508" word_id="18049" /> <!-- ὀργὰς -->
+    <arrow gloss_id="1513" word_id="14708" /> <!-- οὕνεκ' -->
+    <arrow gloss_id="1521" word_id="14772" /> <!-- τοιγὰρ -->
+    <arrow gloss_id="1532" word_id="17961" /> <!-- θράσος -->
+    <arrow gloss_id="1561" word_id="14983" /> <!-- Ἰωλκὸν -->
+    <arrow gloss_id="1565" word_id="18316" /> <!-- ἐξαιρουμένη -->
+    <arrow gloss_id="1581" word_id="18146" /> <!-- μάτην -->
+    <arrow gloss_id="1604" word_id="17337" /> <!-- Ζηνὸς -->
+    <arrow gloss_id="1609" word_id="17363" /> <!-- τείσειν -->
+    <arrow gloss_id="1624" word_id="19593" /> <!-- καθυβρίσαι -->
+    <arrow gloss_id="1626" word_id="18181" /> <!-- νύμφην -->
+    <arrow gloss_id="1650" word_id="21675" /> <!-- ἔτλης -->
+    <arrow gloss_id="1677" word_id="21835" /> <!-- δάκοιμι -->
+    <arrow gloss_id="1748" word_id="18002" /> <!-- τλάμονι -->
+    <arrow gloss_id="1786" word_id="18200" /> <!-- οὔκουν -->
+    <arrow gloss_id="1791" word_id="18214" /> <!-- παριέμεσθα -->
+    <arrow gloss_id="1797" word_id="18253" /> <!-- πρόσθεν -->
+    <arrow gloss_id="1806" word_id="18282" /> <!-- κεκρυμμένων -->
+    <arrow gloss_id="1861" word_id="18614" /> <!-- ἐκτραφῶσι -->
+    <arrow gloss_id="1907" word_id="19339" /> <!-- ἦ -->
+    <arrow gloss_id="2553" word_id="12965" /> <!-- οἷόν -->
+    <!-- Lysias -->
+    <arrow gloss_id="773" word_id="27154" /> <!-- ἔξω -->
+    <arrow gloss_id="799" word_id="25411" /> <!-- εἷλκες -->
+    <arrow gloss_id="989" word_id="24978" /> <!-- πλὴν -->
+    <arrow gloss_id="1009" word_id="25978" /> <!-- δέομαι -->
+    <arrow gloss_id="1171" word_id="25521" /> <!-- ᾠχόμην -->
+    <arrow gloss_id="1200" word_id="27175" /> <!-- ἔνδον -->
+    <arrow gloss_id="1226" word_id="24962" /> <!-- ὕβρισεν -->
+    <arrow gloss_id="1349" word_id="26661" /> <!-- βιαζομένους -->
+    <arrow gloss_id="1424" word_id="27205" /> <!-- ἀσφαλέστατα -->
+    <arrow gloss_id="1664" word_id="24864" /> <!-- ἀσθενεστάτοις -->
+    <arrow gloss_id="1676" word_id="27077" /> <!-- ἐτόλμησεν -->
+    <arrow gloss_id="1843" word_id="25382" /> <!-- ἀσμένη -->
+    <arrow gloss_id="2176" word_id="26780" /> <!-- ἰσχυροὺς -->
+    <arrow gloss_id="2216" word_id="27225" /> <!-- μαρτύρων -->
+    <arrow gloss_id="2249" word_id="24944" /> <!-- Ἐρατοσθένης -->
+    <arrow gloss_id="2250" word_id="24913" /> <!-- διακεῖσθαι -->
+    <arrow gloss_id="2417" word_id="25402" /> <!-- «πειρᾷς -->
+    <arrow gloss_id="2442" word_id="27022" /> <!-- ἀπαντήσας -->
+    <arrow gloss_id="2480" word_id="27119" /> <!-- ἐπιτηδείοις -->
+    <arrow gloss_id="2549" word_id="26638" /> <!-- βλάβην -->
+    <arrow gloss_id="2597" word_id="25438" /> <!-- ἐνθυμούμενος -->
+    <arrow gloss_id="2599" word_id="27303" /> <!-- ἰδίας -->
+    <arrow gloss_id="2603" word_id="25425" /> <!-- θύραν -->
+    <arrow gloss_id="2615" word_id="25134" /> <!-- ἀκριβῶς -->
+    <arrow gloss_id="2771" word_id="24817" /> <!-- ἀγανακτοίη -->
+    <arrow gloss_id="2806" word_id="25239" /> <!-- κινδυνεύῃ -->
+    <arrow gloss_id="3167" word_id="27151" /> <!-- καταλήψομαι -->
+    <arrow gloss_id="3721" word_id="25290" /> <!-- οὐδέποτε -->
+    <arrow gloss_id="3725" word_id="25323" /> <!-- ἀγροῦ -->
+    <arrow gloss_id="3772" word_id="27296" /> <!-- ἐκβάλλειν -->
+    <arrow gloss_id="3773" word_id="27326" /> <!-- ἤλπιζόν -->
+    <arrow gloss_id="3775" word_id="26898" /> <!-- δεδιέναι -->
+    <arrow gloss_id="3817" word_id="25790" /> <!-- μηδέποτε -->
+    <!-- xenophon -->
+    <arrow gloss_id="580" word_id="24256" /> <!-- πώποτε -->
+    <arrow gloss_id="802" word_id="23675" /> <!-- ἐπαινοίμην -->
+    <arrow gloss_id="863" word_id="24465" /> <!-- υἱὸν -->
+    <arrow gloss_id="1034" word_id="23598" /> <!-- ὀφείλειν -->
+    <arrow gloss_id="5552" word_id="24242" /> <!-- μαρτυρήσεται -->
+    <arrow gloss_id="1119" word_id="24665" /> <!-- ἀπέλιπε -->
+    <arrow gloss_id="1259" word_id="22633" /> <!-- πάλιν -->
+    <arrow gloss_id="1289" word_id="24642" /> <!-- φθόνον -->
+    <arrow gloss_id="1311" word_id="24005" /> <!-- εἴασεν -->
+    <arrow gloss_id="1356" word_id="23374" /> <!-- εἰκότως -->
+    <arrow gloss_id="1390" word_id="23024" /> <!-- κερδᾶναι -->
+    <arrow gloss_id="1590" word_id="23863" /> <!-- θαυμαστὸν -->
+    <arrow gloss_id="1618" word_id="23737" /> <!-- ἡδονῆς -->
+    <arrow gloss_id="1782" word_id="24588" /> <!-- ἡσθεὶς -->
+    <arrow gloss_id="1900" word_id="24374" /> <!-- ἄλλως -->
+    <arrow gloss_id="2074" word_id="22489" /> <!-- τελευτῆς -->
+    <arrow gloss_id="2149" word_id="22486" /> <!-- ἀπολογίας -->
+    <arrow gloss_id="2164" word_id="23013" /> <!-- δικαστάς -->
+    <arrow gloss_id="2166" word_id="23081" /> <!-- Μελήτου -->
+    <arrow gloss_id="2167" word_id="22674" /> <!-- ἐπιχειρήσαντός -->
+    <arrow gloss_id="2171" word_id="23263" /> <!-- ψεύδομαι -->
+    <arrow gloss_id="2173" word_id="23138" /> <!-- σημαίνουσα -->
+    <arrow gloss_id="2179" word_id="22887" /> <!-- παρόντων -->
+    <arrow gloss_id="2192" word_id="22942" /> <!-- διεπραξάμην -->
+    <arrow gloss_id="2202" word_id="23992" /> <!-- κατεψηφίσθη -->
+    <arrow gloss_id="2206" word_id="24556" /> <!-- παρεσκεύακεν -->
+    <arrow gloss_id="2211" word_id="24149" /> <!-- ζημία -->
+    <arrow gloss_id="2219" word_id="23912" /> <!-- διώκεσθαι -->
+    <arrow gloss_id="2226" word_id="23688" /> <!-- ἐπιτηδεύοντα -->
+    <arrow gloss_id="2286" word_id="23464" /> <!-- ἐπιθυμίαις -->
+    <arrow gloss_id="2300" word_id="23801" /> <!-- φρονιμώτατα -->
+    <arrow gloss_id="2329" word_id="22946" /> <!-- ἡτοιμασάμην -->
+    <arrow gloss_id="2335" word_id="23043" /> <!-- κατηγόρησαν -->
+    <arrow gloss_id="1726" word_id="22735" /> <!-- ὁσίως -->
+    <arrow gloss_id="2239" word_id="1000539" /> <!-- κρείττων -->
+    <!--phaedrus 228-269-->
+    <arrow gloss_id="574" word_id="33387" /> <!-- μαντικόν -->
+    <arrow gloss_id="583" word_id="39554" /> <!-- Σχολὴ -->
+    <arrow gloss_id="584" word_id="40024" /> <!-- τοσόνδε -->
+    <arrow gloss_id="585" word_id="32419" /> <!-- φθονεῖν -->
+    <arrow gloss_id="594" word_id="27966" /> <!-- ἰδιώτην -->
+    <arrow gloss_id="595" word_id="30387" /> <!-- κεφαλῆς -->
+    <arrow gloss_id="600" word_id="32335" /> <!-- ὁμιλία -->
+    <arrow gloss_id="604" word_id="42784" /> <!-- ποίησιν -->
+    <arrow gloss_id="614" word_id="27735" /> <!-- ἔοικεν -->
+    <arrow gloss_id="632" word_id="45537" /> <!-- ἀποφήνασθαι -->
+    <arrow gloss_id="676" word_id="34512" /> <!-- κινοῦν -->
+    <arrow gloss_id="708" word_id="39623" /> <!-- κρήνην -->
+    <arrow gloss_id="720" word_id="33303" /> <!-- ποταμὸν -->
+    <arrow gloss_id="726" word_id="34185" /> <!-- ἀνθρωπίνῃ -->
+    <arrow gloss_id="742" word_id="40486" /> <!-- Ὀδυσσέως -->
+    <arrow gloss_id="745" word_id="40452" /> <!-- παντάπασιν -->
+    <arrow gloss_id="749" word_id="29950" /> <!-- τεκμήρια -->
+    <arrow gloss_id="771" word_id="36461" /> <!-- ἐναργέστατα -->
+    <arrow gloss_id="780" word_id="28318" /> <!-- καθιζόμενοι -->
+    <arrow gloss_id="786" word_id="46555" /> <!-- ποικίλῃ -->
+    <arrow gloss_id="789" word_id="30092" /> <!-- σφόδρα -->
+    <arrow gloss_id="792" word_id="33654" /> <!-- Τροίας -->
+    <arrow gloss_id="793" word_id="29405" /> <!-- φιλίας -->
+    <arrow gloss_id="801" word_id="39176" /> <!-- ἐπαινέτης -->
+    <arrow gloss_id="807" word_id="34004" /> <!-- μαίνεται -->
+    <arrow gloss_id="817" word_id="44250" /> <!-- ῥήματα -->
+    <arrow gloss_id="828" word_id="27730" /> <!-- ἀτὰρ -->
+    <arrow gloss_id="834" word_id="37759" /> <!-- εἴξαντε -->
+    <arrow gloss_id="844" word_id="33652" /> <!-- ἵκεο -->
+    <arrow gloss_id="850" word_id="35387" /> <!-- κύκλῳ -->
+    <arrow gloss_id="868" word_id="36721" /> <!-- ἄρτι -->
+    <arrow gloss_id="881" word_id="28189" /> <!-- τοίνυν -->
+    <arrow gloss_id="888" word_id="30332" /> <!-- Δαιμονίως -->
+    <arrow gloss_id="915" word_id="42712" /> <!-- ποτέ -->
+    <arrow gloss_id="938" word_id="46062" /> <!-- εἴδωλον -->
+    <arrow gloss_id="962" word_id="40053" /> <!-- Οὔπω -->
+    <arrow gloss_id="963" word_id="36142" /> <!-- ὄρνιθος -->
+    <arrow gloss_id="964" word_id="34641" /> <!-- οὐρανὸν -->
+    <arrow gloss_id="1006" word_id="36145" /> <!-- ἄνω -->
+    <arrow gloss_id="1007" word_id="33604" /> <!-- ἀρχαῖος -->
+    <arrow gloss_id="1011" word_id="40868" /> <!-- διαφεύγειν -->
+    <arrow gloss_id="1019" word_id="36148" /> <!-- κάτω -->
+    <arrow gloss_id="1029" word_id="32515" /> <!-- ὑπάρχει -->
+    <arrow gloss_id="1044" word_id="42279" /> <!-- τεμνόμενος -->
+    <arrow gloss_id="1075" word_id="28089" /> <!-- νοσοῦντι -->
+    <arrow gloss_id="1122" word_id="29413" /> <!-- δέδοικας -->
+    <arrow gloss_id="1124" word_id="32034" /> <!-- ἀνέξεται -->
+    <arrow gloss_id="1150" word_id="39068" /> <!-- σεμνότατοι -->
+    <arrow gloss_id="1182" word_id="42055" /> <!-- δεσπότην -->
+    <arrow gloss_id="1184" word_id="41662" /> <!-- Χρηστὸς -->
+    <arrow gloss_id="1189" word_id="46396" /> <!-- ἤθεσι -->
+    <arrow gloss_id="1194" word_id="37706" /> <!-- βίᾳ -->
+    <arrow gloss_id="1209" word_id="31313" /> <!-- βλέπων -->
+    <arrow gloss_id="1217" word_id="30536" /> <!-- τρὶς -->
+    <arrow gloss_id="1236" word_id="46044" /> <!-- σιγᾶν -->
+    <arrow gloss_id="5569" word_id="32085" /> <!-- στέρεσθαι -->
+    <arrow gloss_id="1284" word_id="41395" /> <!-- Φεῦ -->
+    <arrow gloss_id="1287" word_id="36790" /> <!-- χωρὶς -->
+    <arrow gloss_id="1308" word_id="29330" /> <!-- σωφρονεῖν -->
+    <arrow gloss_id="1317" word_id="34221" /> <!-- τόσῳ -->
+    <arrow gloss_id="1327" word_id="38054" /> <!-- αἰδουμένην -->
+    <arrow gloss_id="1338" word_id="29455" /> <!-- πεπόνηται -->
+    <arrow gloss_id="1340" word_id="33216" /> <!-- τάχα -->
+    <arrow gloss_id="1344" word_id="46721" /> <!-- ὄχλος -->
+    <arrow gloss_id="1357" word_id="38157" /> <!-- εὔνοια -->
+    <arrow gloss_id="1365" word_id="35149" /> <!-- ἐντὸς -->
+    <arrow gloss_id="1367" word_id="31358" /> <!-- μύθου -->
+    <arrow gloss_id="1378" word_id="27680" /> <!-- πορεύομαι -->
+    <arrow gloss_id="1417" word_id="30390" /> <!-- Εἶεν -->
+    <arrow gloss_id="1432" word_id="36537" /> <!-- σέβεται -->
+    <arrow gloss_id="1468" word_id="36911" /> <!-- ἔληξεν -->
+    <arrow gloss_id="1471" word_id="37055" /> <!-- ὑμνοῦσι -->
+    <arrow gloss_id="1489" word_id="32279" /> <!-- ὁρισαμένους -->
+    <arrow gloss_id="1517" word_id="47091" /> <!-- ἀφαιρῶν -->
+    <arrow gloss_id="1529" word_id="37997" /> <!-- γλῶτταν -->
+    <arrow gloss_id="1547" word_id="46135" /> <!-- σπείρας -->
+    <arrow gloss_id="1563" word_id="29222" /> <!-- προθύμως -->
+    <arrow gloss_id="1570" word_id="27866" /> <!-- ἐρῶντι -->
+    <arrow gloss_id="1593" word_id="34118" /> <!-- ὄνειδος -->
+    <arrow gloss_id="1605" word_id="40711" /> <!-- φῶς -->
+    <arrow gloss_id="1620" word_id="32655" /> <!-- ὄψιν -->
+    <arrow gloss_id="1632" word_id="32255" /> <!-- κόσμοις -->
+    <arrow gloss_id="1637" word_id="35005" /> <!-- τοιάδε -->
+    <arrow gloss_id="1656" word_id="33297" /> <!-- Ἡνίκ' -->
+    <arrow gloss_id="1658" word_id="30991" /> <!-- λοιπῶν -->
+    <arrow gloss_id="1670" word_id="29708" /> <!-- ὠφελεῖσθαι -->
+    <arrow gloss_id="1675" word_id="46191" /> <!-- σπέρματα -->
+    <arrow gloss_id="1683" word_id="33444" /> <!-- ἐκόμισας -->
+    <arrow gloss_id="1701" word_id="46381" /> <!-- φυτεύσαντι -->
+    <arrow gloss_id="1709" word_id="42046" /> <!-- μετρίως -->
+    <arrow gloss_id="1730" word_id="35531" /> <!-- ἦρεν -->
+    <arrow gloss_id="1732" word_id="31798" /> <!-- πάντως -->
+    <arrow gloss_id="1759" word_id="37883" /> <!-- ἐλοιδόρησεν -->
+    <arrow gloss_id="1769" word_id="43494" /> <!-- πορίζεσθαι -->
+    <arrow gloss_id="2969" word_id="46272" /> <!-- μετιόντι -->
+    <arrow gloss_id="1787" word_id="40698" /> <!-- ὁμοιοῦν -->
+    <arrow gloss_id="1788" word_id="37737" /> <!-- ἀντιτείνετον -->
+    <arrow gloss_id="1792" word_id="36112" /> <!-- δεῦρο -->
+    <arrow gloss_id="1840" word_id="37582" /> <!-- λευκὸς -->
+    <arrow gloss_id="1863" word_id="36761" /> <!-- ἐκεῖθεν -->
+    <arrow gloss_id="1871" word_id="28624" /> <!-- αὖθις -->
+    <arrow gloss_id="1883" word_id="34851" /> <!-- θνητόν -->
+    <arrow gloss_id="1913" word_id="39092" /> <!-- Γλυκὺς -->
+    <arrow gloss_id="1930" word_id="30534" /> <!-- δὶς -->
+    <arrow gloss_id="1937" word_id="38147" /> <!-- προσεμένου -->
+    <arrow gloss_id="1956" word_id="33511" /> <!-- στόματος -->
+    <arrow gloss_id="1959" word_id="38515" /> <!-- ἐνθάδε -->
+    <arrow gloss_id="1963" word_id="38238" /> <!-- πνεῦμα -->
+    <arrow gloss_id="1969" word_id="42245" /> <!-- διπλᾶ -->
+    <arrow gloss_id="1987" word_id="32230" /> <!-- τεθραμμένον -->
+    <arrow gloss_id="2002" word_id="34338" /> <!-- μυρία -->
+    <arrow gloss_id="2088" word_id="42818" /> <!-- γῆρας -->
+    <arrow gloss_id="2098" word_id="38109" /> <!-- ἀπωθῇ -->
+    <arrow gloss_id="2146" word_id="31930" /> <!-- κἂν -->
+    <arrow gloss_id="2158" word_id="40406" /> <!-- δικαστηρίοις -->
+    <arrow gloss_id="2159" word_id="45198" /> <!-- μελετᾶν -->
+    <arrow gloss_id="2160" word_id="41279" /> <!-- κατανενοηκὼς -->
+    <arrow gloss_id="2161" word_id="30773" /> <!-- γενναιότατε -->
+    <arrow gloss_id="2169" word_id="38120" /> <!-- ἡλικία -->
+    <arrow gloss_id="2170" word_id="33327" /> <!-- φωνὴν -->
+    <arrow gloss_id="2184" word_id="28122" /> <!-- ἐπιθυμῶν -->
+    <arrow gloss_id="2190" word_id="39077" /> <!-- καταλείπειν -->
+    <arrow gloss_id="2205" word_id="33358" /> <!-- σπουδαῖος -->
+    <arrow gloss_id="2218" word_id="31012" /> <!-- Ἐσπούδακας -->
+    <arrow gloss_id="2230" word_id="30742" /> <!-- ἀλλοτρίων -->
+    <arrow gloss_id="2236" word_id="34409" /> <!-- θορυβείτω -->
+    <arrow gloss_id="2237" word_id="30827" /> <!-- Δελφοὺς -->
+    <arrow gloss_id="2240" word_id="31103" /> <!-- ἄπιμεν -->
+    <arrow gloss_id="2283" word_id="41988" /> <!-- Ἀπόλλωνος -->
+    <arrow gloss_id="2301" word_id="44369" /> <!-- πράξεσιν -->
+    <arrow gloss_id="2302" word_id="42857" /> <!-- κράτιστος -->
+    <arrow gloss_id="2336" word_id="29201" /> <!-- παρεληλυθότας -->
+    <arrow gloss_id="2349" word_id="30556" /> <!-- μέλον -->
+    <arrow gloss_id="2356" word_id="34069" /> <!-- βραχέα -->
+    <arrow gloss_id="2383" word_id="46842" /> <!-- ἐνῇ -->
+    <arrow gloss_id="2396" word_id="27663" /> <!-- Φαῖδρε -->
+    <arrow gloss_id="2397" word_id="27672" /> <!-- Λυσίου -->
+    <arrow gloss_id="2398" word_id="27678" /> <!-- Κεφάλου -->
+    <arrow gloss_id="2400" word_id="27687" /> <!-- συχνὸν -->
+    <arrow gloss_id="2411" word_id="27779" /> <!-- προϊόντι -->
+    <arrow gloss_id="2415" word_id="27821" /> <!-- ἀκοή -->
+    <arrow gloss_id="2416" word_id="27837" /> <!-- ἐρωτικός -->
+    <arrow gloss_id="2418" word_id="27851" /> <!-- ἐραστοῦ -->
+    <arrow gloss_id="2420" word_id="29228" /> <!-- χαριεῖσθαι -->
+    <arrow gloss_id="2423" word_id="30124" /> <!-- πρεσβυτέρῳ -->
+    <arrow gloss_id="2424" word_id="35414" /> <!-- πρόσεστιν -->
+    <arrow gloss_id="2431" word_id="27957" /> <!-- συνέθηκε -->
+    <arrow gloss_id="2434" word_id="32151" /> <!-- ἀγνοῶν -->
+    <arrow gloss_id="2445" word_id="31142" /> <!-- ἑκὼν -->
+    <arrow gloss_id="2452" word_id="41165" /> <!-- διενοήθημεν -->
+    <arrow gloss_id="2456" word_id="28319" /> <!-- ἀναγνῶμεν -->
+    <arrow gloss_id="2460" word_id="28330" /> <!-- εἶτα -->
+    <arrow gloss_id="2473" word_id="36521" /> <!-- ἐνθένδε -->
+    <arrow gloss_id="2481" word_id="30395" /> <!-- παίζειν -->
+    <arrow gloss_id="2483" word_id="33304" /> <!-- διαβαίνειν -->
+    <arrow gloss_id="2485" word_id="41468" /> <!-- αὐτόθι -->
+    <arrow gloss_id="2486" word_id="34493" /> <!-- νοῆσαι -->
+    <arrow gloss_id="2497" word_id="28620" /> <!-- εἶδος -->
+    <arrow gloss_id="2506" word_id="39014" /> <!-- Γελοῖόν -->
+    <arrow gloss_id="2507" word_id="32104" /> <!-- ὅθεν -->
+    <arrow gloss_id="2511" word_id="46104" /> <!-- ἡμέραισιν -->
+    <arrow gloss_id="2512" word_id="36390" /> <!-- ἁπλᾶ -->
+    <arrow gloss_id="2514" word_id="36181" /> <!-- μετέχων -->
+    <arrow gloss_id="2522" word_id="43364" /> <!-- παγκάλων -->
+    <arrow gloss_id="2535" word_id="39573" /> <!-- τέττιγες -->
+    <arrow gloss_id="2539" word_id="33234" /> <!-- θαυμάσιος -->
+    <arrow gloss_id="2546" word_id="31020" /> <!-- παιδικῶν -->
+    <arrow gloss_id="2547" word_id="30408" /> <!-- Μηδαμῶς -->
+    <arrow gloss_id="2548" word_id="32494" /> <!-- βλαβερὸν -->
+    <arrow gloss_id="2550" word_id="29906" /> <!-- ὠφελίαν -->
+    <arrow gloss_id="5546" word_id="42032" /> <!-- ἄλλοσε -->
+    <arrow gloss_id="2563" word_id="41092" /> <!-- μεταμέλει -->
+    <arrow gloss_id="2565" word_id="29139" /> <!-- οἰκείων -->
+    <arrow gloss_id="2573" word_id="29253" /> <!-- ἕτοιμοί -->
+    <arrow gloss_id="2575" word_id="29342" /> <!-- κρατεῖν -->
+    <arrow gloss_id="2578" word_id="29487" /> <!-- ἀκολουθοῦντας -->
+    <arrow gloss_id="2581" word_id="29512" /> <!-- συνεῖναι -->
+    <arrow gloss_id="2592" word_id="29872" /> <!-- ἀναγκάζει -->
+    <arrow gloss_id="2593" word_id="32199" /> <!-- θεραπεύσει -->
+    <arrow gloss_id="2594" word_id="29926" /> <!-- βραδέως -->
+    <arrow gloss_id="2598" word_id="37273" /> <!-- ἐπιτηδεύματι -->
+    <arrow gloss_id="2602" word_id="39140" /> <!-- ἀγαπῶσι -->
+    <arrow gloss_id="2604" word_id="32365" /> <!-- εὔξαιτ' -->
+    <arrow gloss_id="2608" word_id="37829" /> <!-- ἄμφω -->
+    <arrow gloss_id="2616" word_id="30483" /> <!-- συγχωρητέον -->
+    <arrow gloss_id="2626" word_id="30811" /> <!-- ἀπεχόμενος -->
+    <arrow gloss_id="2629" word_id="34667" /> <!-- οὐσίαν -->
+    <arrow gloss_id="2636" word_id="32048" /> <!-- δειλὸς -->
+    <arrow gloss_id="2641" word_id="31442" /> <!-- ὧδε— -->
+    <arrow gloss_id="2645" word_id="30271" /> <!-- δυνατόν -->
+    <arrow gloss_id="2648" word_id="30909" /> <!-- ψέγειν -->
+    <arrow gloss_id="2673" word_id="31317" /> <!-- αἰσχύνης -->
+    <arrow gloss_id="2685" word_id="34744" /> <!-- ἰδέας -->
+    <arrow gloss_id="2688" word_id="40584" /> <!-- τοτὲ -->
+    <arrow gloss_id="2702" word_id="42946" /> <!-- ἐρρωμένην -->
+    <arrow gloss_id="2706" word_id="31992" /> <!-- συμβήσεται -->
+    <arrow gloss_id="2725" word_id="32240" /> <!-- ἱδρώτων -->
+    <arrow gloss_id="2744" word_id="34803" /> <!-- μέμεικται -->
+    <arrow gloss_id="2752" word_id="32550" /> <!-- ὁμοιότητα -->
+    <arrow gloss_id="2755" word_id="36457" /> <!-- αἰσθήσεως -->
+    <arrow gloss_id="2772" word_id="34064" /> <!-- Ἑλλάδα -->
+    <arrow gloss_id="2773" word_id="32793" /> <!-- μανίας -->
+    <arrow gloss_id="2775" word_id="46112" /> <!-- παιδιᾶς -->
+    <arrow gloss_id="2780" word_id="35109" /> <!-- μέρη -->
+    <arrow gloss_id="2781" word_id="42235" /> <!-- κοινῇ -->
+    <arrow gloss_id="2791" word_id="39937" /> <!-- πλήθει -->
+    <arrow gloss_id="2795" word_id="43010" /> <!-- προσφέρειν -->
+    <arrow gloss_id="2799" word_id="42556" /> <!-- ὑπέμνησας -->
+    <arrow gloss_id="2807" word_id="43465" /> <!-- τελέως -->
+    <arrow gloss_id="2811" word_id="43451" /> <!-- μαθήματα -->
+    <arrow gloss_id="2812" word_id="36674" /> <!-- τροφῆς -->
+    <arrow gloss_id="2816" word_id="43979" /> <!-- μέθοδος -->
+    <arrow gloss_id="2818" word_id="37508" /> <!-- διείλομεν -->
+    <arrow gloss_id="2827" word_id="39492" /> <!-- μέτρῳ -->
+    <arrow gloss_id="2829" word_id="32242" /> <!-- ἄπειρον -->
+    <arrow gloss_id="2832" word_id="44499" /> <!-- ἐλλείπῃ -->
+    <arrow gloss_id="2836" word_id="39475" /> <!-- ἐξετάσαι -->
+    <arrow gloss_id="2843" word_id="34447" /> <!-- ἀποδεικτέον -->
+    <arrow gloss_id="2844" word_id="33137" /> <!-- τἀναντία -->
+    <arrow gloss_id="2855" word_id="45646" /> <!-- ἔξωθεν -->
+    <arrow gloss_id="2857" word_id="45652" /> <!-- ἔνδοθεν -->
+    <arrow gloss_id="2863" word_id="34062" /> <!-- δημοσίᾳ -->
+    <arrow gloss_id="2874" word_id="34884" /> <!-- ἐπτερωμένη -->
+    <arrow gloss_id="2887" word_id="34992" /> <!-- πτερῶν -->
+    <arrow gloss_id="2888" word_id="39869" /> <!-- ὅπῃ -->
+    <arrow gloss_id="2900" word_id="35101" /> <!-- στρατιὰ -->
+    <arrow gloss_id="2915" word_id="36316" /> <!-- μόγις -->
+    <arrow gloss_id="2931" word_id="38228" /> <!-- ἔδυ -->
+    <arrow gloss_id="2951" word_id="37848" /> <!-- ἀπελθόντε -->
+    <arrow gloss_id="2953" word_id="44069" /> <!-- σπουδῇ -->
+    <arrow gloss_id="2961" word_id="45634" /> <!-- λήθην -->
+    <arrow gloss_id="2997" word_id="32931" /> <!-- ἐνδοῦναι -->
+    <arrow gloss_id="3016" word_id="45801" /> <!-- Θηβαῖος -->
+    <arrow gloss_id="3020" word_id="33378" /> <!-- ἁμάρτημα -->
+    <arrow gloss_id="3098" word_id="43860" /> <!-- συμφωνεῖ -->
+    <arrow gloss_id="3109" word_id="39122" /> <!-- πολιτικῶν -->
+    <arrow gloss_id="3128" word_id="40368" /> <!-- φιλοσοφήσῃ -->
+    <arrow gloss_id="3136" word_id="38608" /> <!-- αἵρεσιν -->
+    <arrow gloss_id="3146" word_id="36130" /> <!-- ἀναμιμνῃσκόμενος -->
+    <arrow gloss_id="3148" word_id="36150" /> <!-- ἀμελῶν -->
+    <arrow gloss_id="3150" word_id="36191" /> <!-- καθάπερ -->
+    <arrow gloss_id="3172" word_id="36522" /> <!-- ἐκεῖσε -->
+    <arrow gloss_id="3179" word_id="36578" /> <!-- μεμιμημένον -->
+    <arrow gloss_id="3190" word_id="47196" /> <!-- κεκρᾶσθαι -->
+    <arrow gloss_id="3195" word_id="42432" /> <!-- Θρασύμαχός -->
+    <arrow gloss_id="3201" word_id="42657" /> <!-- Τεισίαν -->
+    <arrow gloss_id="3231" word_id="43424" /> <!-- χαλεπαίνειν -->
+    <arrow gloss_id="3287" word_id="37948" /> <!-- ἐγγὺς -->
+    <arrow gloss_id="3332" word_id="37637" /> <!-- ὦτα -->
+    <arrow gloss_id="3340" word_id="37593" /> <!-- αἰδοῦς -->
+    <arrow gloss_id="3362" word_id="44827" /> <!-- προσποιούμενοι -->
+    <arrow gloss_id="3364" word_id="42992" /> <!-- προσελθὼν -->
+    <arrow gloss_id="3433" word_id="40770" /> <!-- ἀπατήσειν -->
+    <arrow gloss_id="3436" word_id="45977" /> <!-- ἀμύνασθαι -->
+    <arrow gloss_id="3452" word_id="40497" /> <!-- συνεγραψάτην -->
+    <arrow gloss_id="3460" word_id="40950" /> <!-- ψιλῶς -->
+    <arrow gloss_id="3461" word_id="40957" /> <!-- παραδείγματα -->
+    <arrow gloss_id="3466" word_id="41019" /> <!-- γέρας -->
+    <arrow gloss_id="3475" word_id="41262" /> <!-- πλανᾶσθαι -->
+    <arrow gloss_id="3496" word_id="41404" /> <!-- Πᾶνα -->
+    <arrow gloss_id="3523" word_id="35295" /> <!-- τῇδε -->
+    <arrow gloss_id="3536" word_id="38992" /> <!-- ὠνείδιζε -->
+    <arrow gloss_id="3543" word_id="39078" /> <!-- συγγράμματα -->
+    <arrow gloss_id="3551" word_id="39258" /> <!-- ἐμμένῃ -->
+    <arrow gloss_id="3571" word_id="39711" /> <!-- σίτων -->
+    <arrow gloss_id="3590" word_id="44302" /> <!-- τοῖα -->
+    <arrow gloss_id="3605" word_id="46986" /> <!-- ἔλεγχον -->
+    <arrow gloss_id="3606" word_id="45070" /> <!-- πανταχοῦ -->
+    <arrow gloss_id="3620" word_id="45400" /> <!-- Αἰγύπτου -->
+    <arrow gloss_id="3622" word_id="45424" /> <!-- Θεύθ -->
+    <arrow gloss_id="3628" word_id="45470" /> <!-- Αἰγυπτίας -->
+    <arrow gloss_id="3632" word_id="45504" /> <!-- διεξιόντος -->
+    <arrow gloss_id="3649" word_id="45821" /> <!-- βέβαιον -->
+    <arrow gloss_id="3656" word_id="45979" /> <!-- βοηθῆσαι -->
+    <arrow gloss_id="3661" word_id="46095" /> <!-- θέρους -->
+    <arrow gloss_id="3672" word_id="46551" /> <!-- διακοσμῇ -->
+    <arrow gloss_id="3682" word_id="46932" /> <!-- ἐπέστελλον -->
+    <arrow gloss_id="3683" word_id="47024" /> <!-- νέμεις -->
+    <arrow gloss_id="3717" word_id="46920" /> <!-- καταβάντε -->
+    <arrow gloss_id="3732" word_id="39965" /> <!-- Οὔτοι -->
+    <arrow gloss_id="2561" word_id="34872" /> <!-- ἄλλοτ' -->
+
+    <!--thuc2 270-295 -->
+    <arrow gloss_id="658" word_id="59646" /> <!-- ἀντειπεῖν -->
+    <arrow gloss_id="753" word_id="57835" /> <!-- Χαλκιδέας -->
+    <arrow gloss_id="757" word_id="57103" /> <!-- ἄνωθεν -->
+    <arrow gloss_id="927" word_id="59430" /> <!-- ἤλγει -->
+    <arrow gloss_id="959" word_id="59413" /> <!-- ὅμιλος -->
+    <arrow gloss_id="967" word_id="57022" /> <!-- πλέα -->
+    <arrow gloss_id="1031" word_id="57309" /> <!-- φάσκοντες -->
+    <arrow gloss_id="1056" word_id="53342" /> <!-- πλεύσαντας -->
+    <arrow gloss_id="1148" word_id="59174" /> <!-- μέμψαιτ' -->
+    <arrow gloss_id="1169" word_id="49577" /> <!-- προσπίπτει -->
+    <arrow gloss_id="1281" word_id="58890" /> <!-- ἀπήχθεσθε -->
+    <arrow gloss_id="1296" word_id="54187" /> <!-- λυπηρὰς -->
+    <arrow gloss_id="1302" word_id="56341" /> <!-- ἄγαν -->
+    <arrow gloss_id="1307" word_id="58503" /> <!-- μισεῖν -->
+    <arrow gloss_id="1326" word_id="59107" /> <!-- ἀνηλωκέναι -->
+    <arrow gloss_id="1329" word_id="55058" /> <!-- πατρίδος -->
+    <arrow gloss_id="1347" word_id="55995" /> <!-- ἱκέτευσαν -->
+    <arrow gloss_id="1428" word_id="54643" /> <!-- τολμᾶν -->
+    <arrow gloss_id="1525" word_id="49368" /> <!-- ἐνδεεστέρους -->
+    <arrow gloss_id="1592" word_id="50932" /> <!-- ἐρῆμα -->
+    <arrow gloss_id="1671" word_id="57412" /> <!-- ξυλλήψεσθαι -->
+    <arrow gloss_id="1738" word_id="53079" /> <!-- προσηγάγοντο -->
+    <arrow gloss_id="1800" word_id="56135" /> <!-- μεταστῆσαι -->
+    <arrow gloss_id="1819" word_id="56345" /> <!-- χλωρόν -->
+    <arrow gloss_id="1844" word_id="50060" /> <!-- θαρσεῖν -->
+    <arrow gloss_id="1867" word_id="58328" /> <!-- εὐτυχοῦσι -->
+    <arrow gloss_id="1873" word_id="55290" /> <!-- σφαλεῖεν -->
+    <arrow gloss_id="1895" word_id="58853" /> <!-- ἀγάλλεσθε -->
+    <arrow gloss_id="1961" word_id="51132" /> <!-- προσβολὰς -->
+    <arrow gloss_id="1972" word_id="47537" /> <!-- πύλας -->
+    <arrow gloss_id="2217" word_id="48542" /> <!-- Ἀττικῇ -->
+    <arrow gloss_id="2223" word_id="54475" /> <!-- ἡσσῆσθαι -->
+    <arrow gloss_id="2256" word_id="54275" /> <!-- μέγεθος -->
+    <arrow gloss_id="2268" word_id="58952" /> <!-- ἄπραγμον -->
+    <arrow gloss_id="2340" word_id="57402" /> <!-- ἀνεῖλε -->
+    <arrow gloss_id="2352" word_id="49436" /> <!-- προσδέχεσθαι -->
+    <arrow gloss_id="2357" word_id="59254" /> <!-- προγνόντες -->
+    <arrow gloss_id="2389" word_id="51252" /> <!-- ἐπελθόντες -->
+    <arrow gloss_id="2401" word_id="51498" /> <!-- καθήμενος -->
+    <arrow gloss_id="2466" word_id="56983" /> <!-- ὥρᾳ -->
+    <arrow gloss_id="2556" word_id="49231" /> <!-- ἔξοδον -->
+    <arrow gloss_id="2570" word_id="59859" /> <!-- διαφορὰς -->
+    <arrow gloss_id="2580" word_id="54203" /> <!-- δέος -->
+    <arrow gloss_id="2632" word_id="49744" /> <!-- ὅρων -->
+    <arrow gloss_id="2637" word_id="54374" /> <!-- ἀνδρεῖον -->
+    <arrow gloss_id="2638" word_id="57781" /> <!-- ἐξελθεῖν -->
+    <arrow gloss_id="2642" word_id="58809" /> <!-- ξύνεσις -->
+    <arrow gloss_id="2700" word_id="50754" /> <!-- φανερῶν -->
+    <arrow gloss_id="2713" word_id="57225" /> <!-- ἀπεῖργε -->
+    <arrow gloss_id="2750" word_id="55683" /> <!-- τέρπει -->
+    <arrow gloss_id="2909" word_id="56539" /> <!-- ἄκρας -->
+    <arrow gloss_id="2976" word_id="49651" /> <!-- φυλακὴν -->
+    <arrow gloss_id="3007" word_id="58838" /> <!-- πρόνοια -->
+    <arrow gloss_id="3017" word_id="54863" /> <!-- σημείων -->
+    <arrow gloss_id="3045" word_id="56377" /> <!-- γυμνοὶ -->
+    <arrow gloss_id="3065" word_id="54957" /> <!-- ἐμήκυνα -->
+    <arrow gloss_id="3083" word_id="48072" /> <!-- ἐπεγένετο -->
+    <arrow gloss_id="3095" word_id="49872" /> <!-- Περικλῆς -->
+    <arrow gloss_id="3103" word_id="56477" /> <!-- νοσήματος -->
+    <arrow gloss_id="3143" word_id="58895" /> <!-- ἐκστῆναι -->
+    <arrow gloss_id="3410" word_id="58099" /> <!-- ξυνήγαγον -->
+    <arrow gloss_id="3718" word_id="54380" /> <!-- διαιτώμενοι -->
+    <arrow gloss_id="3731" word_id="52582" /> <!-- Ἀνέστησαν -->
+    <arrow gloss_id="3750" word_id="47535" /> <!-- ἀνέῳξαν -->
+    <arrow gloss_id="3756" word_id="59782" /> <!-- ἐταράχθησαν -->
+    <arrow gloss_id="3758" word_id="56314" /> <!-- ἐνέπιπτε -->
+    <arrow gloss_id="3782" word_id="55121" /> <!-- τιμωρεῖσθαι -->
+    <arrow gloss_id="3846" word_id="50021" /> <!-- ναυτικόν -->
+    <arrow gloss_id="3854" word_id="47410" /> <!-- Πελοποννησίων -->
+    <arrow gloss_id="3859" word_id="47427" /> <!-- ἐπολέμουν -->
+    <arrow gloss_id="3861" word_id="47438" /> <!-- χειμῶνα -->
+    <arrow gloss_id="3863" word_id="47454" /> <!-- Εὐβοίας -->
+    <arrow gloss_id="3871" word_id="47490" /> <!-- Ποτειδαίᾳ -->
+    <arrow gloss_id="3877" word_id="47524" /> <!-- Πλάταιαν -->
+    <arrow gloss_id="3878" word_id="47538" /> <!-- Πλαταιῶν -->
+    <arrow gloss_id="3882" word_id="51937" /> <!-- Βοιωτῶν -->
+    <arrow gloss_id="3888" word_id="50026" /> <!-- ἐξαρτύεσθαι -->
+    <arrow gloss_id="3891" word_id="47886" /> <!-- τάχος -->
+    <arrow gloss_id="3893" word_id="47878" /> <!-- προσέβαλόν -->
+    <arrow gloss_id="3901" word_id="55323" /> <!-- τάφον -->
+    <arrow gloss_id="3905" word_id="54542" /> <!-- πλούτῳ -->
+    <arrow gloss_id="3906" word_id="54549" /> <!-- κόμπῳ -->
+    <arrow gloss_id="3909" word_id="54445" /> <!-- ἐπιμέλειαν -->
+    <arrow gloss_id="3920" word_id="54851" /> <!-- ὑπηκόῳ -->
+    <arrow gloss_id="3954" word_id="56424" /> <!-- ἡσυχάζειν -->
+    <arrow gloss_id="3956" word_id="49270" /> <!-- ξυνειλεγμένον -->
+    <arrow gloss_id="3961" word_id="56388" /> <!-- ῥίπτειν -->
+    <arrow gloss_id="3973" word_id="51907" /> <!-- ἐσπίπτοντας -->
+    <arrow gloss_id="3979" word_id="54259" /> <!-- κατασκευαῖς -->
+    <arrow gloss_id="3985" word_id="48203" /> <!-- προχωροίη -->
+    <arrow gloss_id="3986" word_id="48397" /> <!-- ἀναχωρησάντων -->
+    <arrow gloss_id="3991" word_id="52088" /> <!-- ἑκατὸν -->
+    <arrow gloss_id="3992" word_id="49688" /> <!-- Ἀθήνας -->
+    <arrow gloss_id="3999" word_id="49106" /> <!-- ξυμμαχία -->
+    <arrow gloss_id="4000" word_id="48771" /> <!-- Πελοπόννησον -->
+    <arrow gloss_id="4009" word_id="49352" /> <!-- στρατεύοντες -->
+    <arrow gloss_id="4024" word_id="49336" /> <!-- παρασκευὴν -->
+    <arrow gloss_id="4026" word_id="52673" /> <!-- Ἀργείας -->
+    <arrow gloss_id="4038" word_id="49100" /> <!-- πεζὸν -->
+    <arrow gloss_id="4043" word_id="49126" /> <!-- Κερκυραῖοι -->
+    <arrow gloss_id="4046" word_id="49137" /> <!-- ἔθνεσι -->
+    <arrow gloss_id="4054" word_id="49155" /> <!-- Θρᾴκης -->
+    <arrow gloss_id="4055" word_id="49162" /> <!-- Κρήτης -->
+    <arrow gloss_id="4059" word_id="49213" /> <!-- περιήγγελλον -->
+    <arrow gloss_id="4061" word_id="51126" /> <!-- ἐσβαλεῖν -->
+    <arrow gloss_id="4062" word_id="49269" /> <!-- στράτευμα -->
+    <arrow gloss_id="4063" word_id="49273" /> <!-- Ἀρχίδαμος -->
+    <arrow gloss_id="4064" word_id="49285" /> <!-- ξυγκαλέσας -->
+    <arrow gloss_id="4073" word_id="49556" /> <!-- δῃοῦντάς -->
+    <arrow gloss_id="4074" word_id="49560" /> <!-- φθείροντας -->
+    <arrow gloss_id="4075" word_id="49612" /> <!-- πέλας -->
+    <arrow gloss_id="4087" word_id="51416" /> <!-- στρατόπεδόν -->
+    <arrow gloss_id="4090" word_id="51447" /> <!-- ἐσβολῇ -->
+    <arrow gloss_id="4092" word_id="58826" /> <!-- ἰσχύς -->
+    <arrow gloss_id="4098" word_id="50945" /> <!-- ἀκροπόλεως -->
+    <arrow gloss_id="4105" word_id="51500" /> <!-- ἐπεξίασιν -->
+    <arrow gloss_id="4118" word_id="58058" /> <!-- θαρσῦναί -->
+    <arrow gloss_id="4122" word_id="53273" /> <!-- φρούριον -->
+    <arrow gloss_id="4126" word_id="51076" /> <!-- Πειραιῶς -->
+    <arrow gloss_id="4134" word_id="52095" /> <!-- χιλίους -->
+    <arrow gloss_id="4143" word_id="52617" /> <!-- ἐπικειμένην -->
+    <arrow gloss_id="4148" word_id="47688" /> <!-- - -->
+    <arrow gloss_id="4152" word_id="50550" /> <!-- ἐβασίλευσε -->
+    <arrow gloss_id="4158" word_id="56514" /> <!-- ἱδρυθὲν -->
+    <arrow gloss_id="4170" word_id="52715" /> <!-- ἥλιος -->
+    <arrow gloss_id="4171" word_id="50818" /> <!-- αὐτονόμῳ -->
+    <arrow gloss_id="4192" word_id="52671" /> <!-- μεθορία -->
+    <arrow gloss_id="4193" word_id="51154" /> <!-- ἐτετείχιστο -->
+    <arrow gloss_id="4202" word_id="51742" /> <!-- περιορᾶν -->
+    <arrow gloss_id="4206" word_id="51377" /> <!-- τροπήν -->
+    <arrow gloss_id="4211" word_id="51435" /> <!-- Ἀχαρνὰς -->
+    <arrow gloss_id="4221" word_id="57326" /> <!-- ἔρις -->
+    <arrow gloss_id="4224" word_id="51349" /> <!-- ἀκμάζοντος -->
+    <arrow gloss_id="4231" word_id="51948" /> <!-- Θεσσαλοί -->
+    <arrow gloss_id="4290" word_id="52585" /> <!-- Αἰγινήτας -->
+    <arrow gloss_id="4291" word_id="52591" /> <!-- Αἰγίνης -->
+    <arrow gloss_id="4294" word_id="52631" /> <!-- οἰκήτορας -->
+    <arrow gloss_id="4301" word_id="52680" /> <!-- καθήκουσα -->
+    <arrow gloss_id="4311" word_id="52746" /> <!-- Σιτάλκης -->
+    <arrow gloss_id="4314" word_id="52766" /> <!-- Τήρεω -->
+    <arrow gloss_id="4324" word_id="52937" /> <!-- Περδίκκαν -->
+    <arrow gloss_id="4332" word_id="53020" /> <!-- Ἀλεξάνδρου -->
+    <arrow gloss_id="4334" word_id="53003" /> <!-- Φορμίωνος -->
+    <arrow gloss_id="4335" word_id="53021" /> <!-- Μακεδόνων -->
+    <arrow gloss_id="4340" word_id="53063" /> <!-- ἐξελάσαντες -->
+    <arrow gloss_id="4342" word_id="53088" /> <!-- Ἀκαρνανίαν -->
+    <arrow gloss_id="4352" word_id="53173" /> <!-- ξυνεμείχθησαν -->
+    <arrow gloss_id="4353" word_id="53181" /> <!-- ἁθρόον -->
+    <arrow gloss_id="4372" word_id="57567" /> <!-- ἀνήγετο -->
+    <arrow gloss_id="4382" word_id="56315" /> <!-- κενή -->
+    <arrow gloss_id="4427" word_id="54497" /> <!-- περιγίγνεται -->
+    <arrow gloss_id="4428" word_id="56203" /> <!-- προύκαμνέ -->
+    <arrow gloss_id="4430" word_id="59569" /> <!-- κατορθούμενα -->
+    <arrow gloss_id="4431" word_id="59422" /> <!-- ἐπέτρεψαν -->
+    <arrow gloss_id="4432" word_id="55302" /> <!-- στερίσκειν -->
+    <arrow gloss_id="4465" word_id="55957" /> <!-- λοιμὸς -->
+    <arrow gloss_id="4467" word_id="55962" /> <!-- οὐδαμοῦ -->
+    <arrow gloss_id="4506" word_id="56421" /> <!-- ἀπορία -->
+    <arrow gloss_id="4511" word_id="56447" /> <!-- ἀντεῖχε -->
+    <arrow gloss_id="4542" word_id="57285" /> <!-- ἐπιέζοντο -->
+    <arrow gloss_id="4568" word_id="59860" /> <!-- περιπεσόντες -->
+    <arrow gloss_id="4570" word_id="57340" /> <!-- λιμόν -->
+    <arrow gloss_id="4587" word_id="57697" /> <!-- ἐπόρθησαν -->
+    <arrow gloss_id="4591" word_id="57842" /> <!-- πολιορκουμένην -->
+    <arrow gloss_id="4593" word_id="57906" /> <!-- ὑγιαίνοντας -->
+    <arrow gloss_id="4606" word_id="58353" /> <!-- ὑποστάντος -->
+    <arrow gloss_id="4614" word_id="59660" /> <!-- κατέπλησσεν -->
+    <arrow gloss_id="4619" word_id="58722" /> <!-- ἐλασσοῦσθαι -->
+    <arrow gloss_id="4643" word_id="59451" /> <!-- προύστη -->
+    <arrow gloss_id="4645" word_id="59735" /> <!-- πλοῦς -->
+    <arrow gloss_id="4649" word_id="59838" /> <!-- προσγενομένῳ -->
+    <arrow gloss_id="5440" word_id="53292" /> <!-- ἐκπλέοντας -->
+    <!--ajax 296-314 -->
+    <arrow gloss_id="557" word_id="74625" /> <!-- μῶν -->
+    <arrow gloss_id="587" word_id="72536" /> <!-- Ἅιδου -->
+    <arrow gloss_id="599" word_id="73465" /> <!-- ὁμιλεῖ -->
+    <arrow gloss_id="759" word_id="71905" /> <!-- Ἀχιλλεὺς -->
+    <arrow gloss_id="767" word_id="73625" /> <!-- Ἕκτορος -->
+    <arrow gloss_id="914" word_id="71335" /> <!-- πῆμα -->
+    <arrow gloss_id="935" word_id="74664" /> <!-- εἴργειν -->
+    <arrow gloss_id="1053" word_id="68858" /> <!-- δέσποινα -->
+    <arrow gloss_id="1127" word_id="69237" /> <!-- νιν -->
+    <arrow gloss_id="1129" word_id="78732" /> <!-- ὠθεῖς -->
+    <arrow gloss_id="1160" word_id="68558" /> <!-- δέδορκά -->
+    <arrow gloss_id="1161" word_id="70503" /> <!-- κάρτ' -->
+    <arrow gloss_id="1168" word_id="73509" /> <!-- ἄελπτον -->
+    <arrow gloss_id="1214" word_id="78436" /> <!-- δορί -->
+    <arrow gloss_id="1239" word_id="73534" /> <!-- σίδηρος -->
+    <arrow gloss_id="5692" word_id="78534" /> <!-- ἔνδικα -->
+    <arrow gloss_id="1249" word_id="69933" /> <!-- ἄναξ -->
+    <arrow gloss_id="1261" word_id="71398" /> <!-- Αἰαῖ -->
+    <arrow gloss_id="1264" word_id="69634" /> <!-- ἄτῃ -->
+    <arrow gloss_id="1279" word_id="69835" /> <!-- κλύων -->
+    <arrow gloss_id="1315" word_id="69468" /> <!-- ἔσω -->
+    <arrow gloss_id="1318" word_id="68825" /> <!-- πάρος -->
+    <arrow gloss_id="1334" word_id="69877" /> <!-- ἕρπει -->
+    <arrow gloss_id="1355" word_id="72470" /> <!-- οἴκτιρε -->
+    <arrow gloss_id="1374" word_id="70152" /> <!-- ἄχος -->
+    <arrow gloss_id="1398" word_id="72537" /> <!-- θανασίμους -->
+    <arrow gloss_id="1401" word_id="69147" /> <!-- δωμάτων -->
+    <arrow gloss_id="1403" word_id="78491" /> <!-- πυρὸς -->
+    <arrow gloss_id="1425" word_id="76366" /> <!-- δόλοισιν -->
+    <arrow gloss_id="1451" word_id="79074" /> <!-- ἐσθλόν -->
+    <arrow gloss_id="1490" word_id="73716" /> <!-- πόντον -->
+    <arrow gloss_id="1499" word_id="71890" /> <!-- ἄτιμος -->
+    <arrow gloss_id="1636" word_id="79656" /> <!-- θιγὼν -->
+    <arrow gloss_id="1640" word_id="73626" /> <!-- δώρημα -->
+    <arrow gloss_id="1673" word_id="78873" /> <!-- συγγνώμην -->
+    <arrow gloss_id="1696" word_id="68578" /> <!-- ἔνθα -->
+    <arrow gloss_id="1746" word_id="71264" /> <!-- φοινίας -->
+    <arrow gloss_id="1803" word_id="70307" /> <!-- Ὤιμοι -->
+    <arrow gloss_id="1826" word_id="79702" /> <!-- λῴονι -->
+    <arrow gloss_id="1886" word_id="79563" /> <!-- πορσυνῶ -->
+    <arrow gloss_id="2009" word_id="71830" /> <!-- αἰάζειν -->
+    <arrow gloss_id="2035" word_id="79555" /> <!-- ἄλγος -->
+    <arrow gloss_id="2048" word_id="72037" /> <!-- ἐχθαίρομαι -->
+    <arrow gloss_id="2075" word_id="76526" /> <!-- Ἐρινὺς -->
+    <arrow gloss_id="2112" word_id="69772" /> <!-- φθιμένης -->
+    <arrow gloss_id="2200" word_id="71691" /> <!-- φωνεῖν -->
+    <arrow gloss_id="2270" word_id="79537" /> <!-- δυσχερὲς -->
+    <arrow gloss_id="2441" word_id="69301" /> <!-- ἐκτὸς -->
+    <arrow gloss_id="2468" word_id="78101" /> <!-- ὑψήλ' -->
+    <arrow gloss_id="2583" word_id="69339" /> <!-- παρέστης -->
+    <arrow gloss_id="2739" word_id="73513" /> <!-- ἁλίσκεται -->
+    <arrow gloss_id="2788" word_id="71879" /> <!-- σθένει -->
+    <arrow gloss_id="2837" word_id="70300" /> <!-- τὰν -->
+    <arrow gloss_id="1729" word_id="70651" /> <!-- πληγή -->
+    <arrow gloss_id="2943" word_id="78990" /> <!-- πατεῖν -->
+    <arrow gloss_id="4993" word_id="73577" /> <!-- θεᾶς -->
+    <arrow gloss_id="3025" word_id="74413" /> <!-- ἠμείψατο -->
+    <arrow gloss_id="3151" word_id="73704" /> <!-- φέγγος -->
+    <arrow gloss_id="3250" word_id="74366" /> <!-- βλαστὼν -->
+    <arrow gloss_id="3297" word_id="73966" /> <!-- Ἄρης -->
+    <arrow gloss_id="3335" word_id="73669" /> <!-- ὑπεικτέον -->
+    <arrow gloss_id="3348" word_id="69730" /> <!-- βάθρον -->
+    <arrow gloss_id="3506" word_id="72288" /> <!-- Φρυγῶν -->
+    <arrow gloss_id="3531" word_id="79527" /> <!-- ὀκνῶ -->
+    <arrow gloss_id="3580" word_id="76687" /> <!-- προθείς -->
+    <arrow gloss_id="3581" word_id="76576" /> <!-- τεῖνε -->
+    <arrow gloss_id="3663" word_id="79671" /> <!-- μέλαν -->
+    <arrow gloss_id="3843" word_id="68556" /> <!-- Λαρτίου -->
+    <arrow gloss_id="3845" word_id="70266" /> <!-- σκηνῆς -->
+    <arrow gloss_id="3847" word_id="68576" /> <!-- Αἴαντος -->
+    <arrow gloss_id="3852" word_id="68799" /> <!-- ᾄσσω -->
+    <arrow gloss_id="4027" word_id="72942" /> <!-- Ἀχαιῶν -->
+    <arrow gloss_id="4106" word_id="79652" /> <!-- ἰσχύεις -->
+    <arrow gloss_id="4273" word_id="79612" /> <!-- κοίλην -->
+    <arrow gloss_id="4660" word_id="68661" /> <!-- Ἀθάνας -->
+    <arrow gloss_id="4672" word_id="68751" /> <!-- ἀρτίως -->
+    <arrow gloss_id="4683" word_id="68889" /> <!-- Ἀχιλλείων -->
+    <arrow gloss_id="4684" word_id="68997" /> <!-- ποίμνας -->
+    <arrow gloss_id="4700" word_id="69023" /> <!-- Ἀτρείδας -->
+    <arrow gloss_id="4715" word_id="74569" /> <!-- θροεῖ -->
+    <arrow gloss_id="4729" word_id="73591" /> <!-- ἔγχος -->
+    <arrow gloss_id="4743" word_id="79012" /> <!-- ἔμπας -->
+    <arrow gloss_id="4753" word_id="72972" /> <!-- τανῦν -->
+    <arrow gloss_id="4756" word_id="69728" /> <!-- Σαλαμῖνος -->
+    <arrow gloss_id="4760" word_id="69751" /> <!-- Δαναῶν -->
+    <arrow gloss_id="4764" word_id="71997" /> <!-- βοτοῖς -->
+    <arrow gloss_id="4783" word_id="69973" /> <!-- ῥά -->
+    <arrow gloss_id="4797" word_id="72951" /> <!-- λώβαις -->
+    <arrow gloss_id="4799" word_id="70046" /> <!-- Τελαμῶνος -->
+    <arrow gloss_id="4809" word_id="73706" /> <!-- φλέγειν -->
+    <arrow gloss_id="4826" word_id="70223" /> <!-- στέρξας -->
+    <arrow gloss_id="4871" word_id="70455" /> <!-- ἴσχει -->
+    <arrow gloss_id="4872" word_id="70463" /> <!-- ἄτερ -->
+    <arrow gloss_id="4890" word_id="79685" /> <!-- σούσθω -->
+    <arrow gloss_id="4891" word_id="70810" /> <!-- ὁμοῦ -->
+    <arrow gloss_id="4893" word_id="70832" /> <!-- ἔσφαζε -->
+    <arrow gloss_id="4896" word_id="76785" /> <!-- ἀμφὶ -->
+    <arrow gloss_id="4921" word_id="71065" /> <!-- ἐστάλην -->
+    <arrow gloss_id="4922" word_id="71068" /> <!-- ἀρήξατ' -->
+    <arrow gloss_id="4923" word_id="77553" /> <!-- βοήν -->
+    <arrow gloss_id="4926" word_id="71129" /> <!-- Ἰώ -->
+    <arrow gloss_id="4928" word_id="71180" /> <!-- Τεῦκρον -->
+    <arrow gloss_id="4953" word_id="71415" /> <!-- δύσμορος -->
+    <arrow gloss_id="4957" word_id="78721" /> <!-- αἵματος -->
+    <arrow gloss_id="4968" word_id="79380" /> <!-- μῶρός -->
+    <arrow gloss_id="4980" word_id="71815" /> <!-- ἐπώνυμον -->
+    <arrow gloss_id="5008" word_id="72181" /> <!-- ἦμαρ -->
+    <arrow gloss_id="5026" word_id="72564" /> <!-- μνῆστιν -->
+    <arrow gloss_id="5069" word_id="73033" /> <!-- κίχωσι -->
+    <arrow gloss_id="5070" word_id="73040" /> <!-- τἀμὰ -->
+    <arrow gloss_id="5074" word_id="78198" /> <!-- ἀρκέσει -->
+    <arrow gloss_id="5083" word_id="73775" /> <!-- αἰὲν -->
+    <arrow gloss_id="5151" word_id="74427" /> <!-- κατακτήσαιτ' -->
+    <arrow gloss_id="5171" word_id="76031" /> <!-- ξύναιμον -->
+    <arrow gloss_id="5205" word_id="77687" /> <!-- σπεῦσον -->
+    <arrow gloss_id="5244" word_id="78285" /> <!-- πλευρὰ -->
+    <arrow gloss_id="5239" word_id="77668" /> <!-- μυθουμένου -->
+    <arrow gloss_id="5304" word_id="76272" /> <!-- ἀνίας -->
+    <arrow gloss_id="5338" word_id="79673" /> <!-- μένος -->
+    <arrow gloss_id="5350" word_id="79236" /> <!-- Σκληρὰν -->
+    <arrow gloss_id="5360" word_id="79600" /> <!-- Ἅλις -->
+    <arrow gloss_id="5363" word_id="79494" /> <!-- μνήμων -->
+    <arrow gloss_id="5368" word_id="79195" /> <!-- νέκυν -->
+    <arrow gloss_id="5369" word_id="78733" /> <!-- ἀθάπτους -->
+    <arrow gloss_id="5370" word_id="77666" /> <!-- φλαῦρ' -->
+    <arrow gloss_id="5403" word_id="77901" /> <!-- στυγερῶν -->
+    <arrow gloss_id="5503" word_id="70157" /> <!-- Ναὸς -->
+    <arrow gloss_id="5510" word_id="71933" /> <!-- φωτὶ -->
+    <arrow gloss_id="2449" word_id="79655" /> <!-- φιλότητι -->
+    <arrow gloss_id="1952" word_id="70414" /> <!-- κρᾶτα -->
+  </arrowed_words>
+</Sequence>
