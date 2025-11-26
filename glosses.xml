@@ -12421,8 +12421,8 @@ passive) appear</gloss>
     <updated_user />
   </gloss>
   <gloss gloss_id="1122" uuid="c11344f2-e433-4512-a614-f14d308de8fb">
-    <lemma>—,  —,  ἔδεισα,  δέδοικα,  —,  —</lemma>
-    <sort_alpha>ἔδεισα</sort_alpha>
+    <lemma>—, —, ἔδεισα, δέδοικα, —, —</lemma>
+    <sort_alpha>εδεισα</sort_alpha>
     <gloss>fear &lt;i&gt;(perf. has present meaning)&lt;/i&gt;</gloss>
     <pos>verb</pos>
     <unit>41</unit>
@@ -21628,7 +21628,7 @@ gen.)&lt;/i&gt;</gloss>
     <unit>48</unit>
     <note />
     <updated>2021-01-05 19:21:38</updated>
-    <status>1</status>
+    <status>0</status>
     <updated_user />
   </gloss>
   <gloss gloss_id="1937" uuid="a0bb566c-1930-4c6d-ab72-34aec5eee5d5">
@@ -63893,7 +63893,7 @@ gen.)&lt;/i&gt;</gloss>
     <unit>0</unit>
     <note>noteeexe</note>
     <updated>1680925813</updated>
-    <status>1</status>
+    <status>0</status>
     <updated_user>3</updated_user>
   </gloss>
   <gloss gloss_id="5712" uuid="31717e29-0f5d-489e-a2c7-80a1c04deb6b">
