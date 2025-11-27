@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Text text_id="1" text_name="Ion">
   <words>
     <word uuid="f1cd94f0-eff1-4eb4-82d0-ad9a17bad886" type="Section">530a</word>
@@ -24,7 +23,7 @@
     <word uuid="dc52ba7d-3175-4ed8-985d-4e1d6c9e88a8" gloss_uuid="979c7515-ab6a-44c7-a371-27c2596eb16c" type="Word">ὦ</word>
     <word uuid="13379b11-1630-4b69-a955-6cc84070f669" gloss_uuid="6921fdb9-c1c3-4675-922a-2b3a205df1b6" type="Word">Σώκρατες</word>
     <word uuid="3a6555b2-9521-4b18-84c1-8376b66088ed" type="Punctuation">,</word>
-    <word uuid="720b6ae2-bab9-41ce-ab79-a26ba5fe941c" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="720b6ae2-bab9-41ce-ab79-a26ba5fe941c" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="c19ae52e-94c3-429f-9150-d69d4af08a33" gloss_uuid="71c7a9d0-adca-4cb6-9322-e53aa9aa192e" type="Word">ἐξ</word>
     <word uuid="c95999f8-78aa-4a4f-be6d-9bd324a55e15" gloss_uuid="7089e252-ba03-4410-9c3c-848a8d2d02b8" type="Word">Ἐπιδαύρου</word>
     <word uuid="1fb90290-3982-4b90-a788-5d4384ddcacc" gloss_uuid="71c7a9d0-adca-4cb6-9322-e53aa9aa192e" type="Word">ἐκ</word>
@@ -89,7 +88,7 @@
     <word uuid="5bd8e3c2-b70c-411d-9476-0ad7d25367c7" gloss_uuid="81f4cbd2-1dee-41d2-ae56-36d7abda5760" type="Word">νικήσομεν</word>
     <word uuid="ccbefb1a-d1c3-4be8-a29a-c562eed648a9" type="Punctuation">.</word>
     <word uuid="682b6df7-cfd2-4523-9377-0463c7ed2d40" type="InlineSpeaker">ΙΩΝ.</word>
-    <word uuid="7ccbbe18-597a-471f-9653-4cc0f31dda4b" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">Ἀλλ'</word>
+    <word uuid="7ccbbe18-597a-471f-9653-4cc0f31dda4b" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">Ἀλλ&apos;</word>
     <word uuid="97375135-06c7-4596-ae34-363b05eca509" gloss_uuid="4853a165-f0a5-4624-b317-9eff30fb4f5c" type="Word">ἔσται</word>
     <word uuid="24f65b6f-4c66-4f7a-b9c3-67e4bab63ea2" gloss_uuid="4c54e9d7-d013-4df3-bfe5-39607a5b36f7" type="Word">ταῦτα</word>
     <word uuid="44d31f46-d12d-4382-bf4f-04450ed9545d" type="Punctuation">,</word>
@@ -480,7 +479,7 @@
     <word uuid="e4b0b2fb-1927-45cc-872b-4fd9d6302e44" gloss_uuid="766ebb1f-ffc8-43bc-8b4e-4fbc89380e9e" type="Word">ὁμοίως</word>
     <word uuid="ba513942-08d8-4eb6-81e6-c34fb7f044f9" gloss_uuid="7a698165-8215-43d6-923b-d4443cd640ce" type="Word">λεγομένων</word>
     <word uuid="633590b3-d386-4a37-bac0-d283c9ae80ef" gloss_uuid="83ea009d-a71b-4912-9665-ca633e4bee7e" type="Word">οἷός</word>
-    <word uuid="625e406b-1f13-433d-8dbb-069a7d7f4ff5" gloss_uuid="c3fe1661-72a9-4d95-9e89-70cc509c6499" type="Word">τ'</word>
+    <word uuid="625e406b-1f13-433d-8dbb-069a7d7f4ff5" gloss_uuid="c3fe1661-72a9-4d95-9e89-70cc509c6499" type="Word">τ&apos;</word>
     <word uuid="8a015bc1-b613-4c25-876a-856cad4fdcda" gloss_uuid="4853a165-f0a5-4624-b317-9eff30fb4f5c" type="Word">ἦσθα</word>
     <word uuid="04de2483-629a-48ae-b276-b22ea1205469" gloss_uuid="09fdbb9f-5a35-473a-be79-77b0876d6285" type="Word">ἐξηγήσασθαι</word>
     <word uuid="678a9416-ad69-477c-ab1d-3506ba83191c" type="Punctuation">,</word>
@@ -618,7 +617,7 @@
     <word uuid="e4bec19c-7077-4cc0-beae-85653dc4f758" type="InlineSpeaker">ΙΩΝ.</word>
     <word uuid="596b1d27-a519-4b88-8f90-3b381b277a3c" gloss_uuid="fe3a91a0-c003-4519-b5cb-492c46c526c1" type="Word">Ναί</word>
     <word uuid="62d35ff0-5295-4f4a-833c-d5b6158bd0e4" type="Punctuation">,</word>
-    <word uuid="43dba658-0b8f-405f-8fc1-7af0efcd6e71" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="43dba658-0b8f-405f-8fc1-7af0efcd6e71" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="099f8a87-236a-4257-8ef7-46c1ae95b58f" type="Punctuation">,</word>
     <word uuid="a119c017-731e-492d-a7c4-4ab38f0ee26d" gloss_uuid="979c7515-ab6a-44c7-a371-27c2596eb16c" type="Word">ὦ</word>
     <word uuid="54630c42-1614-4ed4-8cdb-cb119760c410" gloss_uuid="6921fdb9-c1c3-4675-922a-2b3a205df1b6" type="Word">Σώκρατες</word>
@@ -714,7 +713,7 @@
     <word uuid="0c423fbb-e131-4e6d-8219-9421b23c4b70" type="Punctuation">.</word>
     <word uuid="2d36f113-f02a-4165-baba-cf09b72f6bbf" type="InlineSpeaker">—ΣΩ.</word>
     <word uuid="d53436f6-0d6a-4bfe-9387-f11ba1efecf1" gloss_uuid="a7c1ad01-1806-4b38-97c4-d090a73374b5" type="Word">Τί</word>
-    <word uuid="c91ad91b-6a5a-411a-acdf-c4ec39898254" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="c91ad91b-6a5a-411a-acdf-c4ec39898254" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="7b10fa7c-4131-415d-95f4-c5c167dd254d" type="Punctuation">;</word>
     <word uuid="3817bf5f-571e-43c9-89e0-49b7006b5cc4" gloss_uuid="a6583052-2520-46ab-9fc2-45a547388bde" type="Word">ὅταν</word>
     <word uuid="c66993ae-5231-4a8c-9e73-14ed70aba849" gloss_uuid="836f72d8-c327-4587-a194-5e6b4dba33cc" type="Word">πολλῶν</word>
@@ -857,7 +856,7 @@
     <word uuid="609e9957-ab37-4790-a958-6618249c55e8" gloss_uuid="f802e981-dfec-4f7d-824c-1dd57b421589" type="Word">αὐτῶν</word>
     <word uuid="dd71e77e-a219-4cb2-8327-0d2166ac3399" gloss_uuid="7a698165-8215-43d6-923b-d4443cd640ce" type="Word">λέγειν</word>
     <word uuid="d4c6b1aa-beb3-414f-bb89-7b639a9e2c59" type="Punctuation">,</word>
-    <word uuid="0aba50ec-4d48-4800-95f6-8c12a7d5bab5" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="0aba50ec-4d48-4800-95f6-8c12a7d5bab5" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="16e9cc07-0953-4421-a47e-30492d57ae49" gloss_uuid="54175f33-fa38-4085-bf68-4aedcb18b573" type="Word">οὐχ</word>
     <word uuid="376f9bab-a337-4250-ab6b-cc4931d923f8" gloss_uuid="766ebb1f-ffc8-43bc-8b4e-4fbc89380e9e" type="Word">ὁμοίως</word>
     <word uuid="f7c22458-0ed7-4299-ba07-15488e29208e" type="Punctuation">,</word>
@@ -984,7 +983,7 @@
     <word uuid="1004fa05-3650-4746-bdbb-e24028f9613d" gloss_uuid="02666b3e-39b9-4cf0-ad00-a6881142f776" type="Word">λόγου</word>
     <word uuid="5bef7619-caa2-498d-ac57-91be7f779023" gloss_uuid="ea25d12d-6202-4de5-9b85-8ad844cdf1c2" type="Word">ἄξιον</word>
     <word uuid="6e5deee3-0e47-4ee1-af51-90297d36a7a0" type="Punctuation">,</word>
-    <word uuid="2e801a20-3a6c-49d3-9fc9-b283f513cbbe" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="2e801a20-3a6c-49d3-9fc9-b283f513cbbe" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="3307037e-208d-4b11-9faa-5fc1c8ddeea7" gloss_uuid="02e557ab-1116-4be9-8ee2-4ed24305745c" type="Word">ἀτεχνῶς</word>
     <word uuid="8d559739-023f-489c-a620-8135ec5eff4f" gloss_uuid="6581bdad-d6c3-4e6b-b7e3-874d129b2422" type="Word">νυστάζω</word>
     <word uuid="7573ae11-feb0-492c-aad7-1579819854b4" type="Punctuation">,</word>
@@ -1045,7 +1044,7 @@
     <word uuid="c68c8760-3b9f-4cbe-9683-019d41f4c0c2" gloss_uuid="0acbb9bf-1fab-451f-9ab9-27ce58a7cb8b" type="Word">ἁπάντων</word>
     <word uuid="b1ed3a66-4c1f-43fc-ba3d-30d25ab1062f" gloss_uuid="7a698165-8215-43d6-923b-d4443cd640ce" type="Word">λέγειν</word>
     <word uuid="46d35ba2-4049-47fe-9d99-1e51a3e22c8e" gloss_uuid="83ea009d-a71b-4912-9665-ca633e4bee7e" type="Word">οἷός</word>
-    <word uuid="91513ebb-1160-40a6-96ce-cf44d1cb14a7" gloss_uuid="c3fe1661-72a9-4d95-9e89-70cc509c6499" type="Word">τ'</word>
+    <word uuid="91513ebb-1160-40a6-96ce-cf44d1cb14a7" gloss_uuid="c3fe1661-72a9-4d95-9e89-70cc509c6499" type="Word">τ&apos;</word>
     <word uuid="b0199c37-b7ec-4223-b632-0e16d473abef" gloss_uuid="cdb183fe-4fa0-48e5-bcff-e00a2e41f8b8" type="Word">ἂν</word>
     <word uuid="9f7ba9ef-17ed-483d-b527-b258b568587c" gloss_uuid="4853a165-f0a5-4624-b317-9eff30fb4f5c" type="Word">ἦσθα</word>
     <word uuid="addda936-1d26-4673-9b9f-078963bc7ae9" type="Punctuation">·</word>
@@ -1317,7 +1316,7 @@
     <word uuid="23fc5963-798c-4422-8cac-1ecbdf96cbcb" gloss_uuid="25ddcba1-b1ca-48c0-b12a-8708e10d3016" type="Word">ἐν</word>
     <word uuid="ab27cc07-db92-4637-9298-8fc09b9c68f1" gloss_uuid="8b87eaf4-8d5b-460b-9aa1-abf988554db0" type="Word">ἀνδριαντοποιίᾳ</word>
     <word uuid="914b06f3-ac20-4805-90fd-71bf8353e60e" gloss_uuid="f9e36c84-9f61-4cdd-a1ad-7241beedd8a9" type="Word">ἤδη</word>
-    <word uuid="b58e8280-55a2-43cf-b484-0c6ff9191f05" gloss_uuid="78d3af74-9d5b-4a19-9c3b-bced3f6d8a4f" type="Word">τιν'</word>
+    <word uuid="b58e8280-55a2-43cf-b484-0c6ff9191f05" gloss_uuid="78d3af74-9d5b-4a19-9c3b-bced3f6d8a4f" type="Word">τιν&apos;</word>
     <word uuid="c8352a78-f733-4770-b964-421f1697a9a5" gloss_uuid="52bb1dcf-a138-42aa-b83d-665870d29119" type="Word">εἶδες</word>
     <word uuid="13592549-7b5d-4e75-920f-9a659b513aaa" gloss_uuid="cf3bdeae-46c2-4d23-94fb-e164c5eae8aa" type="Word">ὅστις</word>
     <word uuid="e828c605-c8dc-4c60-ae00-25877e4c13ae" gloss_uuid="565de2e3-bf50-49b0-bf71-757ccf34080f" type="Word">περὶ</word>
@@ -1379,11 +1378,11 @@
     <word uuid="3496b017-b15e-491b-a0fb-25ccbf31c2ef" gloss_uuid="f3f53e3d-4ade-49cc-bef2-c5fee5c8fde8" type="Word">μήν</word>
     <word uuid="dffb2dca-eece-4372-b982-d15e2c8b9fb8" type="Punctuation">,</word>
     <word uuid="49137ddf-e186-4395-8e6e-ce6c16c3b119" gloss_uuid="8b78fd22-3d93-4d15-81dc-5b4a88502006" type="Word">ὥς</word>
-    <word uuid="67aabae0-423b-4825-833b-c79f3394b347" gloss_uuid="f282a76d-503b-406d-9ed2-86ba07f550cc" type="Word">γ'</word>
+    <word uuid="67aabae0-423b-4825-833b-c79f3394b347" gloss_uuid="f282a76d-503b-406d-9ed2-86ba07f550cc" type="Word">γ&apos;</word>
     <word uuid="74ead701-158d-4843-be88-fa6fcd1fc96e" gloss_uuid="2c2cc0af-e628-4eaf-ad9a-810d20be4fa7" type="Word">ἐγὼ</word>
     <word uuid="0588eff0-6209-4272-9208-c4ade4c27f10" gloss_uuid="6889c813-ef9d-40a3-afa8-3753379c89ae" type="Word">οἶμαι</word>
     <word uuid="f5c56c4c-ea6b-4d83-b7c3-750c788936dd" type="Punctuation">,</word>
-    <word uuid="26d46bca-0cb5-40b7-af64-6ee9e4ba169c" gloss_uuid="2fc23cf9-b440-4822-b7ab-9dea8ac26d15" type="Word">οὐδ'</word>
+    <word uuid="26d46bca-0cb5-40b7-af64-6ee9e4ba169c" gloss_uuid="2fc23cf9-b440-4822-b7ab-9dea8ac26d15" type="Word">οὐδ&apos;</word>
     <word uuid="0a53f173-f852-4518-820e-ad06e78bd4fb" gloss_uuid="25ddcba1-b1ca-48c0-b12a-8708e10d3016" type="Word">ἐν</word>
     <word uuid="41ae51da-745e-4b65-a2db-89c8f25608d3" gloss_uuid="3e776fab-55d9-4dfe-adaa-ed001c90717b" type="Word">αὐλήσει</word>
     <word uuid="41e47748-c31e-446a-9413-97c58e1d3bfc" gloss_uuid="f282a76d-503b-406d-9ed2-86ba07f550cc" type="Word">γε</word>
@@ -1396,7 +1395,7 @@
     <word uuid="88f876bc-8da6-4c47-a00d-ec41895128e7" gloss_uuid="2fc23cf9-b440-4822-b7ab-9dea8ac26d15" type="Word">οὐδὲ</word>
     <word uuid="5c9fff5e-86d4-4444-b4ea-7db59f78e574" gloss_uuid="25ddcba1-b1ca-48c0-b12a-8708e10d3016" type="Word">ἐν</word>
     <word uuid="3be21111-3702-4bd0-8c5d-f7e401c78b77" gloss_uuid="05813914-95a0-48ac-a510-e073471a8a9e" type="Word">ῥαψῳδίᾳ</word>
-    <word uuid="36316a31-5924-4316-9f9c-bb325f5ac778" gloss_uuid="552dfa12-d3d5-4c7d-9ade-026d2fddc022" type="Word">οὐδεπώποτ'</word>
+    <word uuid="36316a31-5924-4316-9f9c-bb325f5ac778" gloss_uuid="552dfa12-d3d5-4c7d-9ade-026d2fddc022" type="Word">οὐδεπώποτ&apos;</word>
     <word uuid="f4ee831e-71cb-4abe-93c3-d1cf64de071a" gloss_uuid="52bb1dcf-a138-42aa-b83d-665870d29119" type="Word">εἶδες</word>
     <word uuid="b22f9ffb-a1e4-42de-bf90-1d12f4151700" gloss_uuid="07de0f75-c39a-4e2b-9b93-cbbc7db56510" type="Word">ἄνδρα</word>
     <word uuid="5c726f21-352b-40d8-b482-e052f46b496e" gloss_uuid="cf3bdeae-46c2-4d23-94fb-e164c5eae8aa" type="Word">ὅστις</word>
@@ -1450,7 +1449,7 @@
     <word uuid="6459baea-3d82-43b7-a098-e113a9e8d024" gloss_uuid="979c7515-ab6a-44c7-a371-27c2596eb16c" type="Word">ὦ</word>
     <word uuid="1566be7f-8331-43b6-8391-bf3708f8ca73" gloss_uuid="6921fdb9-c1c3-4675-922a-2b3a205df1b6" type="Word">Σώκρατες</word>
     <word uuid="c52b9378-053e-4269-9568-42b8c3769fd1" type="Punctuation">·</word>
-    <word uuid="920d8924-e64a-429b-b1bd-5cae88ae152b" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="920d8924-e64a-429b-b1bd-5cae88ae152b" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="98dc6a58-f7da-439e-8724-d22f0bb6f4db" gloss_uuid="7dbc1dae-daee-47d4-9152-1b9d74963dc8" type="Word">ἐκεῖνο</word>
     <word uuid="ee4fedb3-5769-480f-8e23-254112f11eca" gloss_uuid="7d1b2ed7-1571-4179-82b0-9f714a581ed5" type="Word">ἐμαυτῷ</word>
     <word uuid="caedaebb-01a1-4606-b11c-f89bb1c33430" gloss_uuid="7c516450-e9e3-46eb-b9d3-e7f1ad7f3c32" type="Word">σύνοιδα</word>
@@ -1458,7 +1457,7 @@
     <word uuid="62694478-1334-47ec-8649-536c56b65a8a" gloss_uuid="9df04194-ddf7-494c-b4a9-5c325843af5c" type="Word">ὅτι</word>
     <word uuid="483b2227-9694-45e7-8db7-6970c07acba7" gloss_uuid="565de2e3-bf50-49b0-bf71-757ccf34080f" type="Word">περὶ</word>
     <word uuid="fff58d5c-0c86-4ebc-b030-1311234d2a14" gloss_uuid="b3cc6e64-b53c-48ea-b745-5d9805a4b314" type="Word">Ὁμήρου</word>
-    <word uuid="daa0e6be-a977-4c66-ae17-89f74a264285" gloss_uuid="fc8462ab-3c3b-48b6-b39c-7ae8c150b3b1" type="Word">κάλλιστ'</word>
+    <word uuid="daa0e6be-a977-4c66-ae17-89f74a264285" gloss_uuid="fc8462ab-3c3b-48b6-b39c-7ae8c150b3b1" type="Word">κάλλιστ&apos;</word>
     <word uuid="ab673aa6-00f2-4775-bbf2-d24fc446e003" gloss_uuid="995bcea6-194a-48ee-9153-cc519890e79c" type="Word">ἀνθρώπων</word>
     <word uuid="41366b20-f9f0-45c3-a20a-c281e8b375c0" gloss_uuid="7a698165-8215-43d6-923b-d4443cd640ce" type="Word">λέγω</word>
     <word uuid="2a113ff0-4c7e-4011-8442-939b265e18d6" gloss_uuid="1e0b9b98-6e6f-4914-a620-f532104e16f0" type="Word">καὶ</word>
@@ -1563,7 +1562,7 @@
     <word uuid="603d7121-6d9b-4aca-b194-c25d6131aa73" gloss_uuid="d7ad9a3a-e2db-4ad1-a285-3cdd8990995c" type="Word">ἐντίθησι</word>
     <word uuid="16d451b4-6d5f-4ed8-b9a5-9bf6d5b0f5c1" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">τοῖς</word>
     <word uuid="ec0f1ec1-fe70-4e3e-ab6f-2996f0b4e9c3" gloss_uuid="973d2c23-d73c-4b1b-b263-2893307fcfed" type="Word">δακτυλίοις</word>
-    <word uuid="5f73b991-06c2-472f-a143-36139f53afc8" gloss_uuid="808d1a96-a6d6-4a63-8738-3fe62b3fb1a3" type="Word">ὥστ'</word>
+    <word uuid="5f73b991-06c2-472f-a143-36139f53afc8" gloss_uuid="808d1a96-a6d6-4a63-8738-3fe62b3fb1a3" type="Word">ὥστ&apos;</word>
     <word uuid="442cc932-0cca-48a6-bbc4-71ebf00278dd" gloss_uuid="ddba1435-1f1d-40e0-b64b-30cbdf302044" type="Word">αὖ</word>
     <word uuid="f7e4ab99-41e5-49a1-975a-9ab0c7338b47" gloss_uuid="2c71dd5d-7153-4148-9b54-8f5e30cf5c73" type="Word">δύνασθαι</word>
     <word uuid="cf6c7f16-b696-4419-94ec-0a744143b93e" gloss_uuid="f802e981-dfec-4f7d-824c-1dd57b421589" type="Word">ταὐτὸν</word>
@@ -1578,7 +1577,7 @@
     <word uuid="2e835a6a-a2ad-42d5-b7ce-b962cb36d0a0" gloss_uuid="521e22e4-c4b5-4e08-9f08-c83abaa9ca16" type="Word">ἄγειν</word>
     <word uuid="e3f04aad-5d9f-479c-94e7-1a2890d04b5c" gloss_uuid="973d2c23-d73c-4b1b-b263-2893307fcfed" type="Word">δακτυλίους</word>
     <word uuid="b0b884d1-b788-414f-8224-4facac4d605c" type="Punctuation">,</word>
-    <word uuid="5c817071-e594-43cf-b4b5-ca76ef5f62ce" gloss_uuid="808d1a96-a6d6-4a63-8738-3fe62b3fb1a3" type="Word">ὥστ'</word>
+    <word uuid="5c817071-e594-43cf-b4b5-ca76ef5f62ce" gloss_uuid="808d1a96-a6d6-4a63-8738-3fe62b3fb1a3" type="Word">ὥστ&apos;</word>
     <word uuid="3ba335da-ab83-4ecd-a8a7-755f33d2c7a2" gloss_uuid="e510c250-c269-4806-9e8c-facbe67b4b93" type="Word">ἐνίοτε</word>
     <word uuid="9df598ca-8008-48bb-b984-de61b718073b" gloss_uuid="44c5180c-cd88-4c1f-81fe-5fedf4368ac8" type="Word">ὁρμαθὸς</word>
     <word uuid="ed8e7b98-068b-4598-b708-bb22baabfd00" gloss_uuid="fb8dd183-8f08-4bea-ad58-6830469a2bf4" type="Word">μακρὸς</word>
@@ -1633,7 +1632,7 @@
     <word uuid="0aac3712-a5e1-4721-922f-e3a6afa303f1" gloss_uuid="54175f33-fa38-4085-bf68-4aedcb18b573" type="Word">οὐκ</word>
     <word uuid="2e118e67-5750-488f-8d80-71dc6fdf23df" gloss_uuid="71c7a9d0-adca-4cb6-9322-e53aa9aa192e" type="Word">ἐκ</word>
     <word uuid="ba95653f-8d92-4091-a4a7-2d10c33f1272" gloss_uuid="66bb8692-2720-4cab-a6ac-8976e862f811" type="Word">τέχνης</word>
-    <word uuid="16279b10-a868-47bd-9afb-d580f1034b86" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="16279b10-a868-47bd-9afb-d580f1034b86" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="5ad10cc2-1cb4-4430-ac51-aa3f52eaedea" gloss_uuid="39e34c42-82fe-4b22-a291-52af648cdedc" type="Word">ἔνθεοι</word>
     <word uuid="de9ca7cc-2d9b-454d-b3e3-ba2ed883edd1" gloss_uuid="4853a165-f0a5-4624-b317-9eff30fb4f5c" type="Word">ὄντες</word>
     <word uuid="6ff14374-20df-4aed-add5-995030781d3d" gloss_uuid="1e0b9b98-6e6f-4914-a620-f532104e16f0" type="Word">καὶ</word>
@@ -1674,7 +1673,7 @@
     <word uuid="0c72a1f9-d6e1-4b55-a162-ccdfe0999b34" gloss_uuid="4c54e9d7-d013-4df3-bfe5-39607a5b36f7" type="Word">ταῦτα</word>
     <word uuid="909344cc-8c97-4a75-a0f4-ab38eec2bfb5" gloss_uuid="bb5502e9-a181-4633-abdd-f74c8dcd8360" type="Word">ποιοῦσιν</word>
     <word uuid="73fd5079-12cd-4ada-899f-7e3fa29f7e2e" type="Punctuation">,</word>
-    <word uuid="bb41b5be-0344-400a-a384-4c7402a3fade" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="bb41b5be-0344-400a-a384-4c7402a3fade" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="a887ed19-30de-4cba-beae-ca505acfc1c7" gloss_uuid="606abadc-d5ef-4cb2-8ee2-7d7fc6e1c8d4" type="Word">ἐπειδὰν</word>
     <word uuid="235360bc-61b6-4f12-8dff-2603596a079e" gloss_uuid="d46b9a42-f7e1-4474-9f02-b22f5a00fb08" type="Word">ἐμβῶσιν</word>
     <word uuid="b7430d0f-396c-4489-a6f0-67a516cf92b8" gloss_uuid="325f1d6a-acb2-4566-8dc9-b7ca9f32871c" type="Word">εἰς</word>
@@ -1786,7 +1785,7 @@
     <word uuid="7e0e8566-efff-41ba-b91a-28f10023ca9d" gloss_uuid="dd88bc08-acc6-4162-a3e0-761abac63522" type="Word">ἐνῇ</word>
     <word uuid="87a7cb24-84b0-4ba1-bcf7-88412c8f2551" type="Punctuation">·</word>
     <word uuid="6c0b3efd-2386-44b5-aab1-e2188839de6c" gloss_uuid="d2eef587-edbb-4f32-8fb7-02df74c6b3ee" type="Word">ἕως</word>
-    <word uuid="25fcb310-9d8c-4b9f-a54d-a13d284080a6" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="25fcb310-9d8c-4b9f-a54d-a13d284080a6" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="d12c1214-0821-439f-8856-313e4a2147bc" gloss_uuid="cdb183fe-4fa0-48e5-bcff-e00a2e41f8b8" type="Word">ἂν</word>
     <word uuid="96379de8-09d7-48aa-9b7b-e8781414148f" gloss_uuid="eac5a9f2-f995-419a-8ccf-91d6eb12213f" type="Word">τουτὶ</word>
     <word uuid="d3f3dab6-5d5b-4a03-b0ea-fab6e6270ccb" gloss_uuid="f3169d23-e9f2-4666-a13d-f0897de43c20" type="Word">ἔχῃ</word>
@@ -1832,7 +1831,7 @@
     <word uuid="33435665-11c1-4ea2-9b87-79be76ab0878" gloss_uuid="54ecb31d-9c76-4bfa-8fbd-2aef9b25e20d" type="Word">ἕκαστος</word>
     <word uuid="4b963f63-ec07-4b35-8ecb-53d6b19f826e" gloss_uuid="bb5502e9-a181-4633-abdd-f74c8dcd8360" type="Word">ποιεῖν</word>
     <word uuid="21f3118a-8e1a-4da3-abbf-03cc7bce2c25" gloss_uuid="fc8462ab-3c3b-48b6-b39c-7ae8c150b3b1" type="Word">καλῶς</word>
-    <word uuid="eb0c208d-cd68-45e8-ad05-4154547f26cf" gloss_uuid="5d62f6f4-bc1f-426a-a39c-868a231ce523" type="Word">ἐφ'</word>
+    <word uuid="eb0c208d-cd68-45e8-ad05-4154547f26cf" gloss_uuid="5d62f6f4-bc1f-426a-a39c-868a231ce523" type="Word">ἐφ&apos;</word>
     <word uuid="745673e1-53d8-4025-bea6-95c54b5ceb4d" gloss_uuid="e09d2698-4526-439c-a431-5305413fbfd7" type="Word">ὃ</word>
     <word uuid="2b149e3f-0ad1-4fbe-86d5-c62a416b92bb" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">ἡ</word>
     <word uuid="2c5f1e94-fc77-4a64-8170-63b7ac53f1b4" gloss_uuid="e508ce0f-f28a-4c12-8041-42a78a7ba079" type="Word">Μοῦσα</word>
@@ -1852,15 +1851,15 @@
     <word uuid="64b04a95-db1f-454a-a432-efe74c785e14" gloss_uuid="7dabc3c5-ce75-4205-82e6-c834263914bd" type="Word">ὑπορχήματα</word>
     <word uuid="119f9aa2-2aa8-4958-8f04-29d974f0a473" type="Punctuation">,</word>
     <word uuid="1a6a43f2-ecd5-4642-b149-525e9d1a7181" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">ὁ</word>
-    <word uuid="303c722e-c4f8-4862-b910-03c33701bd20" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="303c722e-c4f8-4862-b910-03c33701bd20" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="574782ab-60f8-4786-b201-fe6a690179da" gloss_uuid="169bf5ab-1eee-4540-93a1-c79dc67c2bba" type="Word">ἔπη</word>
     <word uuid="4ef23473-7615-4c60-ae89-d41ae66c398f" type="Punctuation">,</word>
     <word uuid="be7ea04c-4b37-4efc-adb4-2dc1331158d8" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">ὁ</word>
-    <word uuid="5f888f5e-9994-4cef-812c-43e17e48c6c9" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="5f888f5e-9994-4cef-812c-43e17e48c6c9" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="679c4e08-edce-413e-9cbc-aea72382bed1" gloss_uuid="0106bbf4-610d-4e45-8cff-7c5ea3fd5fc0" type="Word">ἰάμβους</word>
     <word uuid="effc5df6-2db9-431f-b4aa-82adfb283aef" type="Punctuation">·</word>
     <word uuid="5da547c9-2b11-4cc2-b060-b1d78a125dfd" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">τὰ</word>
-    <word uuid="21f5793f-2893-453e-960d-1fb346b688cc" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="21f5793f-2893-453e-960d-1fb346b688cc" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="ba5b13bc-f152-4611-9770-9e197b18d947" gloss_uuid="92db6cab-4b06-4e84-86b3-64c71c8dde4e" type="Word">ἄλλα</word>
     <word uuid="c1dfc73b-2ddf-49de-95fb-daec0f9d599a" gloss_uuid="8f5713b8-569e-401d-a554-187e0baec333" type="Word">φαῦλος</word>
     <word uuid="fa29598d-7ce2-4194-bddf-1004fd56cb43" gloss_uuid="f802e981-dfec-4f7d-824c-1dd57b421589" type="Word">αὐτῶν</word>
@@ -1935,7 +1934,7 @@
     <word uuid="c136cbf2-9e07-4e1d-a044-7b4bb4651b09" gloss_uuid="11ae6002-78d0-477b-b933-02d77127ee3d" type="Word">μὴ</word>
     <word uuid="420e969c-af87-4af8-be2b-efc96547a038" gloss_uuid="ce910690-16be-41f4-80c4-4c45d616249f" type="Word">πάρεστιν</word>
     <word uuid="9a36234d-993f-4bdd-9c57-671fb33f1ad9" type="Punctuation">,</word>
-    <word uuid="81ba9a05-c776-4014-9bf1-66aeb071d9b3" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="81ba9a05-c776-4014-9bf1-66aeb071d9b3" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="aded3ff8-47d5-4d1f-841e-7f3567543854" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">ὁ</word>
     <word uuid="05dc4c4a-d2e6-4718-9b90-e51f00dba6b4" gloss_uuid="7d5dda6a-578b-48f2-bf5f-c7c865dd4a4a" type="Word">θεὸς</word>
     <word uuid="e731b5a9-ed47-4fd6-ba5b-38dce2d25cee" gloss_uuid="f802e981-dfec-4f7d-824c-1dd57b421589" type="Word">αὐτός</word>
@@ -2034,7 +2033,7 @@
     <word uuid="4c88cd2a-387a-4513-af38-f441b9fca93c" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δὲ</word>
     <word uuid="7ec297ea-a683-4111-a61e-0ed889dfcb03" gloss_uuid="09cac5fd-d1c4-4a5e-893c-3fe392ae0bb8" type="Word">ποιηταὶ</word>
     <word uuid="668ed642-0bc5-4ba0-bd03-d99a30cdbd95" gloss_uuid="d8a6090e-5499-4c45-b5ff-9dd5cf114ce2" type="Word">οὐδὲν</word>
-    <word uuid="c7f301fa-bfaf-4c87-9fc8-d4373f2a4a76" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="c7f301fa-bfaf-4c87-9fc8-d4373f2a4a76" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="63f4acef-fae1-4525-b85f-2a7f3c9f2f26" gloss_uuid="18deb8cf-fa35-4d4f-b620-93f38b3e3334" type="Word">ἢ</word>
     <word uuid="9133aa7c-f155-4d6f-9417-8eae88ca9f34" gloss_uuid="18101530-f321-49e7-9f9a-602a4a155f18" type="Word">ἑρμηνῆς</word>
     <word uuid="fee1b6dd-1ff7-4d1a-a889-2f17057152ff" gloss_uuid="4853a165-f0a5-4624-b317-9eff30fb4f5c" type="Word">εἰσιν</word>
@@ -2319,7 +2318,7 @@
     <word uuid="8326707c-0c37-4bcf-9edd-ca15782630f5" gloss_uuid="a8d9b57b-27c4-4bfb-bb8a-a27d498d43e0" type="Word">χρυσοῖσι</word>
     <word uuid="54180b70-393d-47d9-94bb-84b4b8fb6528" gloss_uuid="201a3a42-507e-4702-ac28-66431b7dd117" type="Word">στεφάνοις</word>
     <word uuid="ba9f190b-64e8-4447-b643-41bffe2ba56d" gloss_uuid="ac94d64f-1b9a-4521-a7b9-1753818183b0" type="Word">κλάῃ</word>
-    <word uuid="7276733f-a2b9-45e1-b2ed-f8fd07c7cf23" gloss_uuid="c3fe1661-72a9-4d95-9e89-70cc509c6499" type="Word">τ'</word>
+    <word uuid="7276733f-a2b9-45e1-b2ed-f8fd07c7cf23" gloss_uuid="c3fe1661-72a9-4d95-9e89-70cc509c6499" type="Word">τ&apos;</word>
     <word uuid="cf22967b-db63-4fa0-ab2b-6ae1f5986c86" gloss_uuid="25ddcba1-b1ca-48c0-b12a-8708e10d3016" type="Word">ἐν</word>
     <word uuid="8c037eff-8e4f-4806-99d9-cf2ffd62875b" gloss_uuid="9b65050c-5c51-4ca9-8340-8199e2eb7769" type="Word">θυσίαις</word>
     <word uuid="31a6d7d2-53bf-4497-bc44-c119c0fe2ee0" gloss_uuid="1e0b9b98-6e6f-4914-a620-f532104e16f0" type="Word">καὶ</word>
@@ -2404,7 +2403,7 @@
     <word uuid="b1af774c-8577-4cc3-94dd-cbcc016b3346" gloss_uuid="9f7f505d-be74-40a6-bcff-caa009ad45e5" type="Word">γάρ</word>
     <word uuid="7a9d4cbd-d644-4c4b-9e9a-219744e53f9b" gloss_uuid="2c2cc0af-e628-4eaf-ad9a-810d20be4fa7" type="Word">με</word>
     <word uuid="c89c2d48-92fa-4795-bfe3-9d49ef1e3f14" gloss_uuid="1e0b9b98-6e6f-4914-a620-f532104e16f0" type="Word">καὶ</word>
-    <word uuid="7865c016-4e9d-4a64-b0e1-cc73c4070639" gloss_uuid="13f8523c-f05a-459b-8f88-0c09c330c0da" type="Word">σφόδρ'</word>
+    <word uuid="7865c016-4e9d-4a64-b0e1-cc73c4070639" gloss_uuid="13f8523c-f05a-459b-8f88-0c09c330c0da" type="Word">σφόδρ&apos;</word>
     <word uuid="373bbcc2-dc3d-407f-8a4d-152bade2d8b0" gloss_uuid="f802e981-dfec-4f7d-824c-1dd57b421589" type="Word">αὐτοῖς</word>
     <word uuid="21fa6e55-295d-417a-90b5-e5c1f4f17644" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">τὸν</word>
     <word uuid="be2e380e-5276-47c7-be6b-b24e0bdaecfa" gloss_uuid="651f3604-d2b6-4abc-917e-56ccc3f813f1" type="Word">νοῦν</word>
@@ -2451,7 +2450,7 @@
     <word uuid="bec4acb1-ed90-4e8f-8b06-e364a027e31a" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">τῆς</word>
     <word uuid="5d4e4df6-7582-4491-9360-d723d09ee442" gloss_uuid="c2b6e3e1-4cd1-43ca-859e-df58ca0dbf65" type="Word">Ἡρακλειώτιδος</word>
     <word uuid="1ae32a2a-b2f6-491d-9003-b1d10ed88b2c" gloss_uuid="f3652b23-46ad-434e-a9d6-b63ffc6e1617" type="Word">λίθου</word>
-    <word uuid="30b65263-58ae-44b4-9de1-87c6c72d862a" gloss_uuid="2c9b812b-65ac-461e-b299-4f1bea9a7059" type="Word">ἀπ'</word>
+    <word uuid="30b65263-58ae-44b4-9de1-87c6c72d862a" gloss_uuid="2c9b812b-65ac-461e-b299-4f1bea9a7059" type="Word">ἀπ&apos;</word>
     <word uuid="3d9b5fe1-520a-431f-bb31-e1d3227eed13" gloss_uuid="792232f1-bb65-49c6-aa86-b23a987e69cc" type="Word">ἀλλήλων</word>
     <word uuid="a7d8259a-ef5e-4d04-bf09-66f7fa450fa8" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">τὴν</word>
     <word uuid="ee564548-05ce-4dcd-8ee0-0d0479a16ba3" gloss_uuid="f820a450-29ff-4b3a-aeee-662a43ed567f" type="Word">δύναμιν</word>
@@ -2639,7 +2638,7 @@
     <word uuid="7855ffdb-5b92-4d25-b6f9-764c22644155" gloss_uuid="54175f33-fa38-4085-bf68-4aedcb18b573" type="Word">οὐ</word>
     <word uuid="97b7d94b-d2a8-4101-8b39-8ca6059746af" gloss_uuid="9f7f505d-be74-40a6-bcff-caa009ad45e5" type="Word">γὰρ</word>
     <word uuid="fb2f09af-f168-4d11-b7cd-d4a89e510298" gloss_uuid="66bb8692-2720-4cab-a6ac-8976e862f811" type="Word">τέχνῃ</word>
-    <word uuid="64f8e716-1972-4669-a7bf-4c95d9444bfb" gloss_uuid="2fc23cf9-b440-4822-b7ab-9dea8ac26d15" type="Word">οὐδ'</word>
+    <word uuid="64f8e716-1972-4669-a7bf-4c95d9444bfb" gloss_uuid="2fc23cf9-b440-4822-b7ab-9dea8ac26d15" type="Word">οὐδ&apos;</word>
     <word uuid="22fedaf2-0f9b-41e3-a4da-c53b731650ad" gloss_uuid="a0eaaa49-ff21-4f40-916c-6b8759013d9b" type="Word">ἐπιστήμῃ</word>
     <word uuid="8bb48c5f-a4e9-4425-9439-7dc6d329fd7b" gloss_uuid="565de2e3-bf50-49b0-bf71-757ccf34080f" type="Word">περὶ</word>
     <word uuid="24710b49-2e4c-4e9c-940c-96347182ac74" gloss_uuid="b3cc6e64-b53c-48ea-b745-5d9805a4b314" type="Word">Ὁμήρου</word>
@@ -2713,16 +2712,16 @@
     <word uuid="425ba1ba-ffa0-4486-b514-c5a0c4fc0e97" type="Punctuation">·</word>
     <word uuid="ca14dbf3-0940-430e-a027-9f30d1abf0c7" type="Section">536d</word>
     <word uuid="bc5d49e5-efc4-48ce-9e38-1671f1c5b8d7" gloss_uuid="4c54e9d7-d013-4df3-bfe5-39607a5b36f7" type="Word">τούτου</word>
-    <word uuid="5b23e413-464c-47b8-8ce3-8ec7d7272561" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="5b23e413-464c-47b8-8ce3-8ec7d7272561" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="823a1fe0-e0c3-4c3d-b18f-8324d291edd5" gloss_uuid="4853a165-f0a5-4624-b317-9eff30fb4f5c" type="Word">ἐστὶ</word>
     <word uuid="8435ebc3-4fab-4228-979f-57b867684f92" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">τὸ</word>
     <word uuid="3c7b9c8d-b32c-4a68-a453-38b25fc24e97" gloss_uuid="da63ea8e-593b-4e04-a8fc-65d7c2de9400" type="Word">αἴτιον</word>
     <word uuid="1b6a8003-58b6-4df4-a8ec-c742b84545b4" type="Punctuation">,</word>
     <word uuid="0fcf8fc6-ea30-4a06-8f86-12617954516a" gloss_uuid="cf3bdeae-46c2-4d23-94fb-e164c5eae8aa" type="Word">ὅ</word>
-    <word uuid="0f453bd6-e7b9-4811-a448-00d4386a0532" gloss_uuid="2c2cc0af-e628-4eaf-ad9a-810d20be4fa7" type="Word">μ'</word>
+    <word uuid="0f453bd6-e7b9-4811-a448-00d4386a0532" gloss_uuid="2c2cc0af-e628-4eaf-ad9a-810d20be4fa7" type="Word">μ&apos;</word>
     <word uuid="d77df691-c5ce-45e3-a4a8-2a6ab9f157e9" gloss_uuid="22279cb1-e623-4403-a615-3ffef169314d" type="Word">ἐρωτᾷς</word>
     <word uuid="90b08a35-682e-43e2-bbb9-45d61fc3cc0a" type="Punctuation">,</word>
-    <word uuid="2f831af9-fef0-4713-b37b-16bd6249e089" gloss_uuid="96d05d51-a633-435f-9b88-5b2cf9244925" type="Word">δι'</word>
+    <word uuid="2f831af9-fef0-4713-b37b-16bd6249e089" gloss_uuid="96d05d51-a633-435f-9b88-5b2cf9244925" type="Word">δι&apos;</word>
     <word uuid="31a7c4ce-dece-4ad3-8662-a16adfe41138" gloss_uuid="9df04194-ddf7-494c-b4a9-5c325843af5c" type="Word">ὅτι</word>
     <word uuid="a4c7ec6b-8cd0-4fd0-8dff-79b7e70c71e1" gloss_uuid="9f0a9092-e780-438a-a964-b0c316fa5f5f" type="Word">σὺ</word>
     <word uuid="affc1b21-8b09-4a33-b7f2-6a88540ec84f" gloss_uuid="565de2e3-bf50-49b0-bf71-757ccf34080f" type="Word">περὶ</word>
@@ -2776,7 +2775,7 @@
     <word uuid="d9a60450-90b8-4651-9739-9b548379a075" type="Punctuation">.</word>
     <word uuid="5fccc0f2-c982-45d1-ae92-5cdc24b84018" gloss_uuid="6889c813-ef9d-40a3-afa8-3753379c89ae" type="Word">οἶμαι</word>
     <word uuid="065315e3-5272-440d-8641-e984be332552" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δὲ</word>
-    <word uuid="57725a01-052d-4a9c-9b27-3db4c143997f" gloss_uuid="2fc23cf9-b440-4822-b7ab-9dea8ac26d15" type="Word">οὐδ'</word>
+    <word uuid="57725a01-052d-4a9c-9b27-3db4c143997f" gloss_uuid="2fc23cf9-b440-4822-b7ab-9dea8ac26d15" type="Word">οὐδ&apos;</word>
     <word uuid="7d733ab1-3dbf-4de6-887b-3936fd8555fe" gloss_uuid="cdb183fe-4fa0-48e5-bcff-e00a2e41f8b8" type="Word">ἂν</word>
     <word uuid="2c56dcef-99a5-40ea-9c20-6a46e737b181" gloss_uuid="9f0a9092-e780-438a-a964-b0c316fa5f5f" type="Word">σοὶ</word>
     <word uuid="d32aff8f-57ea-41b0-855b-83f6b33f26bd" gloss_uuid="9c67dd2a-27b8-49bb-a81c-fa55ec6e6564" type="Word">δόξαιμι</word>
@@ -2890,7 +2889,7 @@
     <word uuid="a303c0af-0897-41b0-882b-52d5ae36769e" gloss_uuid="955b009b-cb84-44f7-9742-22874e6955af" type="Word">φράσω</word>
     <word uuid="5c1ed232-8e8e-49bc-8784-ac4eb53da494" type="Punctuation">.</word>
     <word uuid="6631d4ab-5531-41f8-b11b-8fded4395ab9" type="InlineSpeaker">ΙΩΝ.</word>
-    <word uuid="a9402abd-3fa8-4fd2-ae51-2fc9c5e65807" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">Ἀλλ'</word>
+    <word uuid="a9402abd-3fa8-4fd2-ae51-2fc9c5e65807" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">Ἀλλ&apos;</word>
     <word uuid="448cef23-fe01-4086-aaab-e1c3362ad262" gloss_uuid="2c2cc0af-e628-4eaf-ad9a-810d20be4fa7" type="Word">ἐγὼ</word>
     <word uuid="7a24a4f7-c7ab-44eb-bf83-834758a7aa51" gloss_uuid="7a698165-8215-43d6-923b-d4443cd640ce" type="Word">ἐρῶ</word>
     <word uuid="7198ac7a-332a-42dc-85cd-b6279ecfd39a" type="Punctuation">·</word>
@@ -2932,8 +2931,8 @@
     <word uuid="647e8637-074b-4cdf-bd92-1fa4c88aa2e1" gloss_uuid="6e4c8968-68a9-4b27-9bb7-6baba41fe07c" type="Word">ἐυξέστῳ</word>
     <word uuid="6e55fae0-0a5e-47a2-a6d4-e0651ecea438" gloss_uuid="25ddcba1-b1ca-48c0-b12a-8708e10d3016" type="Word">ἐνὶ</word>
     <word uuid="34fb0493-22b6-4f10-a80e-c59b8e5a728d" gloss_uuid="a13bacbd-a5fe-4260-9ec1-b8c4d7881569" type="Word">δίφρῳ</word>
-    <word uuid="008abb6a-9fcc-4eed-916f-f3aae226de4c" gloss_uuid="9080bd93-9c95-4e7a-b523-702db63050ba" type="Word">ἦκ'</word>
-    <word uuid="c944602c-9945-4834-a1cb-b822722953eb" gloss_uuid="5d62f6f4-bc1f-426a-a39c-868a231ce523" type="Word">ἐπ'</word>
+    <word uuid="008abb6a-9fcc-4eed-916f-f3aae226de4c" gloss_uuid="9080bd93-9c95-4e7a-b523-702db63050ba" type="Word">ἦκ&apos;</word>
+    <word uuid="c944602c-9945-4834-a1cb-b822722953eb" gloss_uuid="5d62f6f4-bc1f-426a-a39c-868a231ce523" type="Word">ἐπ&apos;</word>
     <word uuid="a17363c8-9e96-4741-a1e1-7c0ef4e04c66" gloss_uuid="49f6edc6-1177-4592-a806-47df6880867c" type="Word">ἀριστερὰ</word>
     <word uuid="b78f2f54-213a-47db-ae30-b474c7aa47c7" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">τοῖιν</word>
     <word uuid="ef6d3678-19e7-4418-b775-6611238a7cbe" type="Punctuation">·</word>
@@ -2971,7 +2970,7 @@
     <word uuid="abb89f1f-a1dc-4c57-940d-4dd2a95022cb" gloss_uuid="3aa33108-03c4-41a3-88d0-2b1e31d2db95" type="Word">ποιητοῖο</word>
     <word uuid="63a9709b-2664-464c-921f-1b94513998cf" type="Punctuation">·</word>
     <word uuid="b21b4237-edea-42a0-accb-d4b3bc29f784" gloss_uuid="f3652b23-46ad-434e-a9d6-b63ffc6e1617" type="Word">λίθου</word>
-    <word uuid="f5d90832-daf9-4800-9ef8-f5deccfc8e12" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="f5d90832-daf9-4800-9ef8-f5deccfc8e12" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="f88e4650-5917-457c-bc28-c98123194038" gloss_uuid="d9ff4f0f-192f-4352-abd8-d27b26f3296e" type="Word">ἀλέασθαι</word>
     <word uuid="f0721e29-1057-46a6-a1fe-0f89a8b0f587" gloss_uuid="d07841b1-3070-4ad0-9300-307d3540d842" type="Word">ἐπαυρεῖν</word>
     <word uuid="f0efdcd8-0dff-429d-831b-69e1de44f231" type="Punctuation">.</word>
@@ -3014,14 +3013,14 @@
     <word uuid="2e5e1083-4814-4fb1-8574-c68307aeedcb" gloss_uuid="4c54e9d7-d013-4df3-bfe5-39607a5b36f7" type="Word">ταύτην</word>
     <word uuid="c58708e5-ea87-40dc-b722-cd0b9c51a719" gloss_uuid="f3169d23-e9f2-4666-a13d-f0897de43c20" type="Word">ἔχει</word>
     <word uuid="f9445649-76fd-46d1-9a2a-9f3b58b71102" gloss_uuid="18deb8cf-fa35-4d4f-b620-93f38b3e3334" type="Word">ἢ</word>
-    <word uuid="168fa6c2-fc04-4591-ab95-d4b03ce0d692" gloss_uuid="155af10e-a6e9-4b02-a389-6c9e72557d0c" type="Word">κατ'</word>
+    <word uuid="168fa6c2-fc04-4591-ab95-d4b03ce0d692" gloss_uuid="155af10e-a6e9-4b02-a389-6c9e72557d0c" type="Word">κατ&apos;</word>
     <word uuid="47a66a36-fa37-46be-8ef3-c1d75dad4ac6" gloss_uuid="92db6cab-4b06-4e84-86b3-64c71c8dde4e" type="Word">ἄλλο</word>
     <word uuid="cf21d535-e511-4ca9-a7e2-788f8681d051" gloss_uuid="78d3af74-9d5b-4a19-9c3b-bced3f6d8a4f" type="Word">τι</word>
     <word uuid="1b78cb2b-c820-4837-aa65-82ea6fcdd07f" type="Punctuation">;</word>
     <word uuid="da950992-ea0e-4d62-9b70-e033ae1b88df" type="InlineSpeaker">—ΙΩΝ.</word>
     <word uuid="27b9a9c6-1e49-4819-944e-14c162b9dd58" gloss_uuid="54175f33-fa38-4085-bf68-4aedcb18b573" type="Word">Οὔκ</word>
     <word uuid="b9493889-600b-4b0b-9198-5343dfede794" type="Punctuation">,</word>
-    <word uuid="bf509ccf-04fe-4add-8deb-a505adc15806" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="bf509ccf-04fe-4add-8deb-a505adc15806" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="ad6df3a2-ae22-49dc-9bbd-fad024670368" gloss_uuid="9df04194-ddf7-494c-b4a9-5c325843af5c" type="Word">ὅτι</word>
     <word uuid="0b3b9e64-526a-4d19-8b6d-5953cecc8734" gloss_uuid="66bb8692-2720-4cab-a6ac-8976e862f811" type="Word">τέχνην</word>
     <word uuid="54c4e004-ee94-411e-aede-7b7a53d5efe1" type="Punctuation">.</word>
@@ -3107,7 +3106,7 @@
     <word uuid="d79a8301-00a4-4580-a40a-017731e483a3" gloss_uuid="66bb8692-2720-4cab-a6ac-8976e862f811" type="Word">τέχνην</word>
     <word uuid="3d482a08-c310-43ef-a6f9-76034224b203" type="Punctuation">,</word>
     <word uuid="de89571b-1f9c-44c3-8f82-0ad55a2b2e2b" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">τὴν</word>
-    <word uuid="31391434-789c-498a-bfc1-30be3c7fe8ba" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="31391434-789c-498a-bfc1-30be3c7fe8ba" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="76bf3405-58cd-48c9-a3e6-1164736045d2" gloss_uuid="c1cfa2c0-608f-4f50-9915-ea1fadb7bd71" type="Word">ἑτέραν</word>
     <word uuid="f36b3094-b712-43b4-89cd-108a6ad8b9af" type="Punctuation">;</word>
     <word uuid="8e0388ea-c209-4565-959b-978c944db8ae" type="InlineSpeaker">—ΙΩΝ.</word>
@@ -3128,7 +3127,7 @@
     <word uuid="12280f56-5ab6-42e9-9079-71e193ffad05" gloss_uuid="a0eaaa49-ff21-4f40-916c-6b8759013d9b" type="Word">ἐπιστήμη</word>
     <word uuid="d618ac1a-5f13-4939-853e-9806d81038c8" type="Punctuation">,</word>
     <word uuid="84766552-d73f-4cf9-803a-6503b5427e57" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">ἡ</word>
-    <word uuid="c9bff69d-160c-4a21-bb9d-a232bf8590cd" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="c9bff69d-160c-4a21-bb9d-a232bf8590cd" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="6b3eb3dc-0e9b-41f5-ba9e-a2fe111bbe61" gloss_uuid="c1cfa2c0-608f-4f50-9915-ea1fadb7bd71" type="Word">ἑτέρων</word>
     <word uuid="623d3b3c-c8c6-4a72-9cc8-2d3f60598d69" type="Punctuation">,</word>
     <word uuid="aee7bf8a-19c8-47ff-9123-8f557c9c37f6" gloss_uuid="927febf6-bab2-49bc-8355-85e3b2a2acec" type="Word">οὕτω</word>
@@ -3171,7 +3170,7 @@
     <word uuid="3e84a44a-ec93-4461-bcaf-5575dd8087d7" gloss_uuid="4853a165-f0a5-4624-b317-9eff30fb4f5c" type="Word">εἶναι</word>
     <word uuid="b59d14ff-0b52-41b0-968e-4726f91737e0" type="Punctuation">,</word>
     <word uuid="73586726-c0ef-409e-9b0d-d56405177be8" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">τὴν</word>
-    <word uuid="f70df028-7c42-4835-84f0-b2e44f6529d5" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="f70df028-7c42-4835-84f0-b2e44f6529d5" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="edb30eb2-0ca2-4a7d-9814-a9509778d40d" gloss_uuid="c1cfa2c0-608f-4f50-9915-ea1fadb7bd71" type="Word">ἑτέραν</word>
     <word uuid="c03320e3-94c9-4fc0-89f2-53750715a94c" type="Punctuation">,</word>
     <word uuid="24fc7e19-8c70-4945-83a3-b90388be176a" gloss_uuid="028fb778-03e6-4c28-9052-281021ec67fe" type="Word">ὁπότε</word>
@@ -3179,7 +3178,7 @@
     <word uuid="a2a0f9ca-96a2-4950-a212-adc7cbe95876" gloss_uuid="f802e981-dfec-4f7d-824c-1dd57b421589" type="Word">ταὐτὰ</word>
     <word uuid="48df481e-b892-4cb5-b1bd-bc50a8170973" gloss_uuid="4853a165-f0a5-4624-b317-9eff30fb4f5c" type="Word">εἴη</word>
     <word uuid="ac50af20-5524-45c7-a556-f62c8a7b7299" gloss_uuid="52bb1dcf-a138-42aa-b83d-665870d29119" type="Word">εἰδέναι</word>
-    <word uuid="b2cbd434-7505-47bc-81b0-15231b9477a0" gloss_uuid="2c9b812b-65ac-461e-b299-4f1bea9a7059" type="Word">ἀπ'</word>
+    <word uuid="b2cbd434-7505-47bc-81b0-15231b9477a0" gloss_uuid="2c9b812b-65ac-461e-b299-4f1bea9a7059" type="Word">ἀπ&apos;</word>
     <word uuid="8e2098e5-584e-4a30-907a-bf786ebfa8a6" gloss_uuid="db1fb7c4-82eb-4073-96e6-55a22a86b49d" type="Word">ἀμφοτέρων</word>
     <word uuid="4e0042fe-235c-4257-9cdd-82f63baa58a4" type="Punctuation">;</word>
     <word uuid="bc55f612-a57c-424d-b7d3-892cad80ee84" gloss_uuid="8b78fd22-3d93-4d15-81dc-5b4a88502006" type="Word">ὥσπερ</word>
@@ -3266,13 +3265,13 @@
     <word uuid="be1527f8-8d20-4b8b-ae69-ec324d4a3918" gloss_uuid="b3525767-2539-44b9-be88-cde01c582774" type="Word">γιγνώσκειν</word>
     <word uuid="bdecc3c9-e869-4e71-9f4f-900415afd028" type="Punctuation">,</word>
     <word uuid="cc064d78-6b7f-42c2-8eaf-6d1f7c6532c6" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">τῇ</word>
-    <word uuid="508cc38e-ebab-461c-84ab-162cbb538eee" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="508cc38e-ebab-461c-84ab-162cbb538eee" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="b0c3d49e-a26a-4d38-bce3-be9561d46466" gloss_uuid="c1cfa2c0-608f-4f50-9915-ea1fadb7bd71" type="Word">ἑτέρᾳ</word>
     <word uuid="06096e92-4b15-48c0-8d61-5879f25a8510" gloss_uuid="11ae6002-78d0-477b-b933-02d77127ee3d" type="Word">μὴ</word>
     <word uuid="5ac40d20-648b-49fa-9579-0c801586570f" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">τὰ</word>
     <word uuid="d298a925-0d62-492a-a2e5-320b98259cc1" gloss_uuid="f802e981-dfec-4f7d-824c-1dd57b421589" type="Word">αὐτά</word>
     <word uuid="dfbaeb4c-dd3b-48b2-b308-ffb63f4e52b8" type="Punctuation">,</word>
-    <word uuid="ca3b3ac4-88ba-445a-aa24-8d46d6029721" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="ca3b3ac4-88ba-445a-aa24-8d46d6029721" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="84a4ac45-55e8-44f7-b7fd-7ae92918842a" gloss_uuid="68faa2e1-dc7a-4e41-95c2-1bc2f2f11297" type="Word">εἴπερ</word>
     <word uuid="1531960c-e705-4c5d-8f1f-b50b63090e7b" gloss_uuid="92db6cab-4b06-4e84-86b3-64c71c8dde4e" type="Word">ἄλλη</word>
     <word uuid="20cf4e24-831f-4b1f-84a3-1bf23e71081d" gloss_uuid="4853a165-f0a5-4624-b317-9eff30fb4f5c" type="Word">ἐστίν</word>
@@ -3311,7 +3310,7 @@
     <word uuid="1ee2226e-decf-4a07-a414-a41822ad778e" gloss_uuid="b3525767-2539-44b9-be88-cde01c582774" type="Word">γιγνώσκειν</word>
     <word uuid="71a60cc6-13a4-4d97-b2fe-b7a865415cd3" gloss_uuid="54175f33-fa38-4085-bf68-4aedcb18b573" type="Word">οὐχ</word>
     <word uuid="bcd372e6-f4a3-440b-a0f1-045845f26d4e" gloss_uuid="83ea009d-a71b-4912-9665-ca633e4bee7e" type="Word">οἷός</word>
-    <word uuid="45c04e88-e41b-457c-8d12-e4f036854613" gloss_uuid="c3fe1661-72a9-4d95-9e89-70cc509c6499" type="Word">τ'</word>
+    <word uuid="45c04e88-e41b-457c-8d12-e4f036854613" gloss_uuid="c3fe1661-72a9-4d95-9e89-70cc509c6499" type="Word">τ&apos;</word>
     <word uuid="2a9a52b4-7282-4747-aae5-322765a90dd4" gloss_uuid="4853a165-f0a5-4624-b317-9eff30fb4f5c" type="Word">ἔσται</word>
     <word uuid="0744121c-bb5f-4a28-b52f-3eeee16c4a68" type="Punctuation">;</word>
     <word uuid="c59c867b-e7cd-40cd-b750-ff21aa02b1f1" type="InlineSpeaker">—ΙΩΝ.</word>
@@ -3349,7 +3348,7 @@
     <word uuid="ff0634ad-b67d-4513-b416-596e42f01657" gloss_uuid="9f7f505d-be74-40a6-bcff-caa009ad45e5" type="Word">γάρ</word>
     <word uuid="a7076f79-7c25-414f-8be2-7c9978b4553e" gloss_uuid="e796ced4-48ad-45e4-9f3a-68b4e67314e6" type="Word">που</word>
     <word uuid="2553aeae-2b9e-4546-a18c-0f2953ed5456" gloss_uuid="b81a4ca8-1471-46da-b5b1-8fb8fbeff431" type="Word">εἶ</word>
-    <word uuid="16c29448-522e-4de6-8106-9af14ce04ec9" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="16c29448-522e-4de6-8106-9af14ce04ec9" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="005bbf63-73d8-4a34-8e9d-5f9b65400bdc" gloss_uuid="54175f33-fa38-4085-bf68-4aedcb18b573" type="Word">οὐχ</word>
     <word uuid="8b356eab-b910-403e-9874-f9602f758295" gloss_uuid="60154f56-98ed-40a7-ae8f-904905d87452" type="Word">ἡνίοχος</word>
     <word uuid="75c1201e-0ea3-4b40-b0a7-3a80264fb1f5" type="Punctuation">.</word>
@@ -3414,7 +3413,7 @@
     <word uuid="7b82ed31-3211-4124-b2c8-a6e2c6828187" gloss_uuid="807f4825-5fbc-4371-acb5-4f155c58f432" type="Word">φησίν</word>
     <word uuid="721e50fc-5322-41b4-b518-eda6d6574f85" type="Punctuation">,</word>
     <word uuid="a236b7f3-2766-42b5-a419-3e8b319f62aa" gloss_uuid="5d62f6f4-bc1f-426a-a39c-868a231ce523" type="Word">ἐπὶ</word>
-    <word uuid="5d215479-1fb1-4847-a77f-706f9d224ab8" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="5d215479-1fb1-4847-a77f-706f9d224ab8" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="d27fd342-0ad6-47c0-8440-dfe11c297315" gloss_uuid="8bfcd10b-58d4-4b0d-a0cb-f9a97c5aa125" type="Word">αἴγειον</word>
     <word uuid="7122649e-1e99-4b5b-bb41-99738cc1eb2d" gloss_uuid="43c79898-82c0-42b0-80a0-f72829f7af36" type="Word">κνῆ</word>
     <word uuid="f3b500bb-7fa9-4dcc-bddd-434db1f90a23" gloss_uuid="bf25f7b3-3cec-4cf3-97ed-546d45b574db" type="Word">τυρὸν</word>
@@ -3464,14 +3463,14 @@
     <word uuid="843b696c-8f0a-47f9-8ab7-c4fb9b034113" type="Punctuation">,</word>
     <word uuid="251ac986-0576-4ea8-8dc3-cac9509dc254" gloss_uuid="e09d2698-4526-439c-a431-5305413fbfd7" type="Word">ἥ</word>
     <word uuid="f30ff200-cc4b-4df2-9bce-00c33001917a" gloss_uuid="c5ff8cbc-d82c-4627-84b8-a7c7960d0219" type="Word">τε</word>
-    <word uuid="0c1afdee-eb2b-41dc-ac50-6c03799decb9" gloss_uuid="155af10e-a6e9-4b02-a389-6c9e72557d0c" type="Word">κατ'</word>
+    <word uuid="0c1afdee-eb2b-41dc-ac50-6c03799decb9" gloss_uuid="155af10e-a6e9-4b02-a389-6c9e72557d0c" type="Word">κατ&apos;</word>
     <word uuid="43fb8296-8a5a-410d-8aec-e44100967984" gloss_uuid="44c5d6c1-e34c-4ea0-a5cd-4721168f360a" type="Word">ἀγραύλοιο</word>
     <word uuid="6db80dd1-83f0-4b2e-b634-9339f51d4512" gloss_uuid="de797a5e-892d-484d-bc90-1e27ef0bc4d3" type="Word">βοὸς</word>
     <word uuid="2352475b-850a-4014-a594-e98e05a4757e" gloss_uuid="3fd7d977-e1ae-4e32-9496-a6fff8a7c1d4" type="Word">κέρας</word>
     <word uuid="a6bae1bb-db4b-44c2-a605-152495401319" gloss_uuid="c24471f0-4f4c-4842-b688-1560d659bc05" type="Word">ἐμμεμαυῖα</word>
     <word uuid="fee8e31e-bd49-4df9-81f7-607f63bd6a81" gloss_uuid="51abb88a-8851-468e-91b3-252782017958" type="Word">ἔρχεται</word>
     <word uuid="b4bdc119-ec46-4883-8076-faf2c51338f5" gloss_uuid="736623ec-2318-49a0-8079-6e4f95c3cf1d" type="Word">ὠμηστῇσι</word>
-    <word uuid="cfb8f51d-ca48-4409-8b97-49eabcfee0f1" gloss_uuid="99debd2e-44c4-4667-9186-b245fdb327fe" type="Word">μετ'</word>
+    <word uuid="cfb8f51d-ca48-4409-8b97-49eabcfee0f1" gloss_uuid="99debd2e-44c4-4667-9186-b245fdb327fe" type="Word">μετ&apos;</word>
     <word uuid="c0241f4c-8b7c-4add-af58-000e2ab55ba7" gloss_uuid="ab16bc30-2fa3-47af-a24a-76a12ff39f44" type="Word">ἰχθύσι</word>
     <word uuid="4d4cbd4f-8869-45f9-b29d-fd3207ea7269" gloss_uuid="b140bc63-5c5b-4f0b-bd7c-3b72bde2e763" type="Word">πῆμα</word>
     <word uuid="4a0b7162-ea96-4e4f-81aa-e3244861200a" gloss_uuid="60e89f6e-0a67-4f51-a4d5-bf83f84d83f0" type="Word">φέρουσα</word>
@@ -3552,7 +3551,7 @@
     <word uuid="d262917f-b503-4f37-a34d-77195d71cfa5" gloss_uuid="ade16778-ea6e-4c15-b1ba-fd31d404c889" type="Word">προσήκει</word>
     <word uuid="aabfab96-b8be-4373-b8f7-36aafefde119" gloss_uuid="f802e981-dfec-4f7d-824c-1dd57b421589" type="Word">αὐτῷ</word>
     <word uuid="52aa2c3c-3955-4fbe-bedd-c80eabed9158" gloss_uuid="83ea009d-a71b-4912-9665-ca633e4bee7e" type="Word">οἵῳ</word>
-    <word uuid="cfda2ac7-7e59-4507-b730-7c5c407c6a49" gloss_uuid="c3fe1661-72a9-4d95-9e89-70cc509c6499" type="Word">τ'</word>
+    <word uuid="cfda2ac7-7e59-4507-b730-7c5c407c6a49" gloss_uuid="c3fe1661-72a9-4d95-9e89-70cc509c6499" type="Word">τ&apos;</word>
     <word uuid="b317f079-ab92-43c7-84dd-1ccdbf8a342d" gloss_uuid="4853a165-f0a5-4624-b317-9eff30fb4f5c" type="Word">εἶναι</word>
     <word uuid="0b1c58db-e655-47db-8c41-d2a11b2bf34f" gloss_uuid="e42ae317-338d-42c6-b2e5-2c3e6b933dc6" type="Word">διαγιγνώσκειν</word>
     <word uuid="fe0e13d8-a6d4-4135-bb8f-51da68f23238" type="Punctuation">,</word>
@@ -3642,7 +3641,7 @@
     <word uuid="181362c1-0f45-4f3a-974c-5c3df68d0d2b" gloss_uuid="dcd43af5-628a-4793-beef-f04a4341ade3" type="Word">ἐξαπόλωλε</word>
     <word uuid="015ad92b-323e-4f41-878a-a017b077b507" type="Punctuation">,</word>
     <word uuid="b7c365ba-4270-42fe-969a-c28138bf4a90" gloss_uuid="bcc90d5b-7bb3-471b-b4fe-67392d087fb6" type="Word">κακὴ</word>
-    <word uuid="6a13b217-6ef7-47e0-9302-d204f88edc99" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="6a13b217-6ef7-47e0-9302-d204f88edc99" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="edc14cdd-f7e3-47c6-8eca-83103b9031d7" gloss_uuid="cceb1ba8-ef39-434b-9b16-77aa4b753a33" type="Word">ἐπιδέδρομεν</word>
     <word uuid="9c73b5a1-bf91-4d0c-96fc-389e2e7c1c84" gloss_uuid="e6624bfb-f64d-41e4-9c4c-613445d51d14" type="Word">ἀχλύς</word>
     <word uuid="51453bf3-f0c8-46e0-9cd9-21d9e2017024" type="Punctuation">·</word>
@@ -3672,7 +3671,7 @@
     <word uuid="1533dc16-933f-4d2a-9d25-cf2cd9aed28c" gloss_uuid="e344c2a8-c7bf-410b-92ec-d0c228ceff6d" type="Word">αἰετὸς</word>
     <word uuid="d2184788-b62e-4d86-a612-fd68908d723d" gloss_uuid="b9097c4f-5e7b-4d88-a32b-48eb9c72cf4e" type="Word">ὑψιπέτης</word>
     <word uuid="c7d6de1f-45c6-424a-b5fe-32bdbdc75349" type="Punctuation">,</word>
-    <word uuid="a52a4ba9-7c46-411e-8b4e-6d9b203f0893" gloss_uuid="5d62f6f4-bc1f-426a-a39c-868a231ce523" type="Word">ἐπ'</word>
+    <word uuid="a52a4ba9-7c46-411e-8b4e-6d9b203f0893" gloss_uuid="5d62f6f4-bc1f-426a-a39c-868a231ce523" type="Word">ἐπ&apos;</word>
     <word uuid="8bfac40e-fc3f-4756-86d1-7c0e060c259e" gloss_uuid="49f6edc6-1177-4592-a806-47df6880867c" type="Word">ἀριστερὰ</word>
     <word uuid="be213519-9acf-4e80-bc04-4634068dd3e1" gloss_uuid="0b9b7587-ca4b-4f86-ba5d-dcee51aa6b50" type="Word">λαὸν</word>
     <word uuid="42638ec6-b8ba-4155-9368-520d73bbc334" gloss_uuid="b37169ba-4926-4e54-9e9c-524b656a0c93" type="Word">ἐέργων</word>
@@ -3686,7 +3685,7 @@
     <word uuid="8d0af52a-ba95-4647-9be8-7735dc42b8bd" type="Punctuation">,</word>
     <word uuid="1d92c7e6-55e5-4d02-b101-6ffc035e8302" gloss_uuid="e666f855-9223-4853-b664-e978b9ecfe49" type="Word">ζῳόν</word>
     <word uuid="082c1d7a-b068-4ef8-9d2d-787f0dc0d5c9" type="Punctuation">,</word>
-    <word uuid="ffe4b433-65c7-467a-b8ad-93c91c4521e6" gloss_uuid="61e485fe-6bba-4675-91cf-00f808d9073e" type="Word">ἔτ'</word>
+    <word uuid="ffe4b433-65c7-467a-b8ad-93c91c4521e6" gloss_uuid="61e485fe-6bba-4675-91cf-00f808d9073e" type="Word">ἔτ&apos;</word>
     <word uuid="f614f615-a7ee-4f6f-b8f3-a03542044e5d" gloss_uuid="8dba2b0a-1107-46ae-a882-f44250bafc5b" type="Word">ἀσπαίροντα</word>
     <word uuid="e99a7e85-b6f0-48e1-8623-255fb59c4bd5" type="Punctuation">·</word>
     <word uuid="a557910d-a79a-48bd-8d04-e401650ac3e7" gloss_uuid="1e0b9b98-6e6f-4914-a620-f532104e16f0" type="Word">καὶ</word>
@@ -3706,7 +3705,7 @@
     <word uuid="d5f61341-134f-4580-9f56-4febb6d181ae" gloss_uuid="a93dab81-1bd2-4183-a6c2-05044c12b540" type="Word">ὀπίσω</word>
     <word uuid="b3b1c6bd-afda-4885-95af-afd0407b2ee1" type="Punctuation">,</word>
     <word uuid="083b766d-d766-41a0-9db0-e0ceab37c4c1" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">ὁ</word>
-    <word uuid="2ce74364-84ca-4d3a-a570-871b6bcf5aae" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="2ce74364-84ca-4d3a-a570-871b6bcf5aae" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="d236484a-23ec-47b8-865c-688f90d670a3" gloss_uuid="2c9b812b-65ac-461e-b299-4f1bea9a7059" type="Word">ἀπὸ</word>
     <word uuid="20d2d6e3-eede-4de1-8693-f851ac6b4acb" gloss_uuid="3aa73156-988e-4ef0-8723-35973f32db22" type="Word">ἕθεν</word>
     <word uuid="f65275a9-9a08-4fcb-996f-48bd7e5f99bd" gloss_uuid="5311263d-7928-47ff-955a-941844e7c2e9" type="Word">ἧκε</word>
@@ -3715,9 +3714,9 @@
     <word uuid="7d7210d5-b396-4027-9ee4-5c1ae25eafd6" gloss_uuid="081b1072-10a7-4302-8abe-aaec85be669f" type="Word">ὀδύνῃσι</word>
     <word uuid="2f2b9623-6944-4eb6-aa77-471e3701d9c6" type="Punctuation">,</word>
     <word uuid="8e9d7346-0c5e-4185-ad34-3439e06ce4c3" gloss_uuid="ae79161f-533b-458f-b574-17fa216e142d" type="Word">μέσῳ</word>
-    <word uuid="d6937630-d985-4737-a6c2-d3017e67f9e0" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="d6937630-d985-4737-a6c2-d3017e67f9e0" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="c21eba3c-c185-49b8-9103-06f3b2e02a28" gloss_uuid="a3ff9996-b9b3-4de9-810d-662ccd349936" type="Word">ἐνὶ</word>
-    <word uuid="c3cb9747-9dfa-4244-9bf4-fa66069eb41a" gloss_uuid="f947fdf0-44d8-4940-936b-6b06a64b00f8" type="Word">κάββαλ'</word>
+    <word uuid="c3cb9747-9dfa-4244-9bf4-fa66069eb41a" gloss_uuid="f947fdf0-44d8-4940-936b-6b06a64b00f8" type="Word">κάββαλ&apos;</word>
     <word uuid="5ea8e61a-fb24-4b46-aca3-e75c2ce98287" gloss_uuid="02669386-1683-4285-ad32-08c2788d782a" type="Word">ὁμίλῳ</word>
     <word uuid="e15e2077-b369-4d70-8d83-a51cb4ddf24a" type="Punctuation">·</word>
     <word uuid="11f39382-c61a-4a8d-81de-99617bd8162e" type="Section">539d</word>
@@ -4014,7 +4013,7 @@
     <word uuid="ca865f6a-f9b5-4b48-bd7a-8238c5030f64" type="Section">540c</word>
     <word uuid="b69bc8d1-358c-44c6-8d1d-3dd8a6fa5181" type="InlineSpeaker">—</word>
     <word uuid="fe00a9ca-25c5-4b0c-8e47-d3a415340847" type="Punctuation">ΣΩ.</word>
-    <word uuid="a62116ab-bc44-4f82-b5f5-91c49f9a5aa3" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">Ἀλλ'</word>
+    <word uuid="a62116ab-bc44-4f82-b5f5-91c49f9a5aa3" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">Ἀλλ&apos;</word>
     <word uuid="0e2e119a-b3d3-4d71-9dc2-01e4efff60ca" gloss_uuid="a858932c-3190-4cfc-8667-5e822b2426d2" type="Word">ὁποῖα</word>
     <word uuid="26bc7b06-b99b-4848-b586-d807b5303ce0" gloss_uuid="d6617956-ea46-4f08-b343-79428c4b11b1" type="Word">ἄρχοντι</word>
     <word uuid="ab6e9426-3861-4c6e-bcdd-6d5ed68d1952" gloss_uuid="f47c1e49-cbb6-49c6-ac93-808239d1c240" type="Word">κάμνοντος</word>
@@ -4034,7 +4033,7 @@
     <word uuid="32c2c86c-bf4c-4b97-80bb-ca8408989a93" gloss_uuid="4c54e9d7-d013-4df3-bfe5-39607a5b36f7" type="Word">τοῦτο</word>
     <word uuid="fa989f9a-ad4f-4b20-b3ad-58d69798de6c" type="Punctuation">.</word>
     <word uuid="8ecdb905-92df-4284-97cc-724e03cca39b" type="InlineSpeaker">—ΣΩ.</word>
-    <word uuid="9743fce7-02e3-4fb1-835c-2d8933dc8fa9" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">Ἀλλ'</word>
+    <word uuid="9743fce7-02e3-4fb1-835c-2d8933dc8fa9" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">Ἀλλ&apos;</word>
     <word uuid="56c0f582-8a05-48d0-8105-b1e56e050747" gloss_uuid="83ea009d-a71b-4912-9665-ca633e4bee7e" type="Word">οἷα</word>
     <word uuid="5fb4efc2-7c66-4e94-8342-6e011151b5aa" gloss_uuid="df5d5311-4adf-407f-a2e5-b5180ba20656" type="Word">δούλῳ</word>
     <word uuid="bb43491b-f227-4e6b-bb3f-ef099ec72811" gloss_uuid="87ad12a8-92bd-424c-82e1-a6eb75271274" type="Word">πρέπει</word>
@@ -4059,7 +4058,7 @@
     <word uuid="c4312275-d29e-4a3c-aff3-bf8aa08ec94e" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">ὁ</word>
     <word uuid="b7cc34ae-0552-4914-ad1e-ed2b6ec29525" gloss_uuid="3b864cdf-ffd3-4734-ac01-d3552d16aab0" type="Word">ῥαψῳδὸς</word>
     <word uuid="a55f997d-d740-428f-866f-62f1edc7165d" gloss_uuid="b3525767-2539-44b9-be88-cde01c582774" type="Word">γνώσεται</word>
-    <word uuid="f6f8967b-cddf-4e27-9eff-da096a2f785c" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="f6f8967b-cddf-4e27-9eff-da096a2f785c" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="11befab3-23b6-4880-84a9-b2eb60e55883" gloss_uuid="54175f33-fa38-4085-bf68-4aedcb18b573" type="Word">οὐχ</word>
     <word uuid="54a26f3b-789f-4844-be24-fd0e7d198516" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">ὁ</word>
     <word uuid="8df8ae5c-9186-49d8-90f1-28a0101ccd3a" gloss_uuid="2e915b93-249f-4b82-8531-f6948acc23fe" type="Word">βουκόλος</word>
@@ -4069,7 +4068,7 @@
     <word uuid="102e1c15-b463-4203-a934-6fa8d6a49a7f" gloss_uuid="6b8819b9-cb20-4e96-ae49-c8427473ea37" type="Word">δῆτα</word>
     <word uuid="7011e710-6393-4650-a1e8-d031e1c40760" type="Punctuation">.</word>
     <word uuid="10a28394-140b-405e-8a74-6d155a554de7" type="InlineSpeaker">—ΣΩ.</word>
-    <word uuid="2ddb41c3-66c2-4220-a87e-f60560fb891b" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">Ἀλλ'</word>
+    <word uuid="2ddb41c3-66c2-4220-a87e-f60560fb891b" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">Ἀλλ&apos;</word>
     <word uuid="5610acf9-8918-48cf-bc8c-0bf28f52bfcf" gloss_uuid="83ea009d-a71b-4912-9665-ca633e4bee7e" type="Word">οἷα</word>
     <word uuid="c99ab2ba-4ebb-48f8-a046-a84dccf388bb" gloss_uuid="892fee29-654f-400c-81bb-f476a4cba350" type="Word">γυναικὶ</word>
     <word uuid="bf0c6223-1b63-4e76-9db8-2800568818c5" gloss_uuid="87ad12a8-92bd-424c-82e1-a6eb75271274" type="Word">πρέποντά</word>
@@ -4086,7 +4085,7 @@
     <word uuid="16a638de-8aaf-4147-b819-7cc056c47776" gloss_uuid="54175f33-fa38-4085-bf68-4aedcb18b573" type="Word">Οὔ</word>
     <word uuid="ee0bcb0f-0fc8-4517-ad9f-756341411005" type="Punctuation">.</word>
     <word uuid="b2491626-48e4-40b5-ade1-762f174786f0" type="InlineSpeaker">—ΣΩ.</word>
-    <word uuid="5f3a0f1a-94f2-4eff-befe-5c8a0bb9633e" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">Ἀλλ'</word>
+    <word uuid="5f3a0f1a-94f2-4eff-befe-5c8a0bb9633e" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">Ἀλλ&apos;</word>
     <word uuid="9e7387f4-6ac3-4949-9ba3-b9958184d00a" gloss_uuid="83ea009d-a71b-4912-9665-ca633e4bee7e" type="Word">οἷα</word>
     <word uuid="d8d40507-339b-42b9-9774-4aaf8ac38e32" gloss_uuid="07de0f75-c39a-4e2b-9b93-cbbc7db56510" type="Word">ἀνδρὶ</word>
     <word uuid="aa853a77-a4dd-493d-8973-df76e5055e27" gloss_uuid="87ad12a8-92bd-424c-82e1-a6eb75271274" type="Word">πρέπει</word>
@@ -4154,9 +4153,9 @@
     <word uuid="093ff7c8-94ed-46f1-8fb9-1f82c3febe95" gloss_uuid="0771028b-7250-4c44-b835-35b56c2df911" type="Word">ἱππαζομένους</word>
     <word uuid="1c40a610-2b60-4d1b-939e-5d477fbc821d" type="Punctuation">·</word>
     <word uuid="416d9301-0586-430f-91fe-3e69140f0af7" type="Section">540e</word>
-    <word uuid="fc95b536-6677-41bf-b8fe-0ebbfa6233c6" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="fc95b536-6677-41bf-b8fe-0ebbfa6233c6" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="54f8c4d2-a6fc-441a-a195-ca9ee5bb2dbf" gloss_uuid="b81a4ca8-1471-46da-b5b1-8fb8fbeff431" type="Word">εἴ</word>
-    <word uuid="51a33b0b-17a5-4221-a9b6-a0663b138bb2" gloss_uuid="9f0a9092-e780-438a-a964-b0c316fa5f5f" type="Word">σ'</word>
+    <word uuid="51a33b0b-17a5-4221-a9b6-a0663b138bb2" gloss_uuid="9f0a9092-e780-438a-a964-b0c316fa5f5f" type="Word">σ&apos;</word>
     <word uuid="a99eb64c-c795-44dd-b0f0-d733b161b6d0" gloss_uuid="2c2cc0af-e628-4eaf-ad9a-810d20be4fa7" type="Word">ἐγὼ</word>
     <word uuid="ca3dd45e-3096-4e82-84e9-e6165c84a825" gloss_uuid="88da6a5b-6f54-4a1b-a713-87abc7907b5b" type="Word">ἠρόμην</word>
     <word uuid="b5eaeec2-922d-48b0-b766-167eb10ac073" type="Punctuation">·</word>
@@ -4191,7 +4190,7 @@
     <word uuid="54072c55-2a43-45ef-bab1-8ba753ffd783" gloss_uuid="e09d2698-4526-439c-a431-5305413fbfd7" type="Word">Ἧι</word>
     <word uuid="08640183-4e7e-4ba6-86d4-400d45f36f35" gloss_uuid="dd1b239f-7eff-4ee4-a237-e1d0616fbd64" type="Word">ἱππεύς</word>
     <word uuid="cdc52164-9552-4b86-9141-ba475f2e638d" type="Punctuation">,</word>
-    <word uuid="ebb5eedb-41a7-488b-b16d-6f34299096e5" gloss_uuid="2c2cc0af-e628-4eaf-ad9a-810d20be4fa7" type="Word">ἔγωγ'</word>
+    <word uuid="ebb5eedb-41a7-488b-b16d-6f34299096e5" gloss_uuid="2c2cc0af-e628-4eaf-ad9a-810d20be4fa7" type="Word">ἔγωγ&apos;</word>
     <word uuid="58ac9488-2c8f-48b4-bd78-179e75eaff5f" gloss_uuid="b81a4ca8-1471-46da-b5b1-8fb8fbeff431" type="Word">ἄν</word>
     <word uuid="4c2ed391-1157-4750-b9fa-3754f77b6d82" type="Punctuation">.</word>
     <word uuid="563cc047-d432-4d9c-937d-d70052723982" type="InlineSpeaker">—ΣΩ.</word>
@@ -4213,7 +4212,7 @@
     <word uuid="ad757a1c-7006-41c5-aa81-b01f34f4ecb1" gloss_uuid="4c54e9d7-d013-4df3-bfe5-39607a5b36f7" type="Word">ταύτῃ</word>
     <word uuid="bb050fc0-2ff4-448c-bef3-e8b259a53f00" gloss_uuid="e42ae317-338d-42c6-b2e5-2c3e6b933dc6" type="Word">διαγιγνώσκειν</word>
     <word uuid="874bbfb8-8f01-4059-a847-d6c6dbfbb14a" type="Punctuation">,</word>
-    <word uuid="b549f0aa-7f13-4856-9bcd-9657c3631822" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ'</word>
+    <word uuid="b549f0aa-7f13-4856-9bcd-9657c3631822" gloss_uuid="3ed1df36-622b-406c-993d-eafef651e837" type="Word">ἀλλ&apos;</word>
     <word uuid="97c17545-36a1-49b2-9f03-041782fd88a2" gloss_uuid="54175f33-fa38-4085-bf68-4aedcb18b573" type="Word">οὐχ</word>
     <word uuid="3e575891-79db-46af-96a7-5f2b15893907" gloss_uuid="e09d2698-4526-439c-a431-5305413fbfd7" type="Word">ᾗ</word>
     <word uuid="8dbf11d8-0b9c-4241-a70b-2f70c9e92c62" gloss_uuid="dd1b239f-7eff-4ee4-a237-e1d0616fbd64" type="Word">ἱππεύς</word>
@@ -4311,7 +4310,7 @@
     <word uuid="13d2e57d-8ee4-48b1-9afd-b0a86a872117" gloss_uuid="4c54e9d7-d013-4df3-bfe5-39607a5b36f7" type="Word">τοῦτο</word>
     <word uuid="f1d2ac57-183c-4949-ade3-0ecb2f403226" type="Punctuation">.</word>
     <word uuid="aba0a7d2-d60d-40c9-ba7c-86812986ebf1" type="InlineSpeaker">—ΣΩ.</word>
-    <word uuid="ce8482f5-415b-4188-8454-d48263619c23" gloss_uuid="b0decd4e-8270-46dd-a610-129079040ed4" type="Word">Ἀλλ'</word>
+    <word uuid="ce8482f5-415b-4188-8454-d48263619c23" gloss_uuid="b0decd4e-8270-46dd-a610-129079040ed4" type="Word">Ἀλλ&apos;</word>
     <word uuid="c285d230-4c27-44f2-91bd-3a288ce3c626" gloss_uuid="7dbc1dae-daee-47d4-9152-1b9d74963dc8" type="Word">ἐκεῖνο</word>
     <word uuid="3c3cd8de-b554-4b5c-b93a-91c9d9da6182" gloss_uuid="f3f53e3d-4ade-49cc-bef2-c5fee5c8fde8" type="Word">μὴν</word>
     <word uuid="56cf869c-99e6-44ca-b04d-f639f81e9c3e" gloss_uuid="9c67dd2a-27b8-49bb-a81c-fa55ec6e6564" type="Word">δοκεῖ</word>
@@ -4381,7 +4380,7 @@
     <word uuid="6398079e-479b-4b5b-b33c-2f9f0c772466" type="InlineSpeaker">ΣΩ.</word>
     <word uuid="a8d1d30d-3ee6-49e3-be36-8f18957066db" gloss_uuid="a7c1ad01-1806-4b38-97c4-d090a73374b5" type="Word">Τί</word>
     <word uuid="96636038-6726-478f-870a-8e643a8bf4c8" gloss_uuid="cc7720a1-2858-4e25-a3e5-e9610068fe1b" type="Word">δή</word>
-    <word uuid="a3166ba5-42b2-469d-8be0-58bee4afe20a" gloss_uuid="1b80e931-c06e-4820-94de-c67a451390a7" type="Word">ποτ'</word>
+    <word uuid="a3166ba5-42b2-469d-8be0-58bee4afe20a" gloss_uuid="1b80e931-c06e-4820-94de-c67a451390a7" type="Word">ποτ&apos;</word>
     <word uuid="9182c63b-f91c-4be6-b427-79e9eda58186" gloss_uuid="04e84007-06bc-4094-8687-69b08bfbbf6a" type="Word">οὖν</word>
     <word uuid="b04a778b-ef03-4d33-8141-cb5ecc651199" gloss_uuid="ff26d914-e38a-4da2-a42c-0f89c03f29ea" type="Word">πρὸς</word>
     <word uuid="fc2207ce-6427-4901-a612-be89d201ab16" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">τῶν</word>
@@ -4408,7 +4407,7 @@
     <word uuid="871e51ac-72cc-4fd3-b575-14026ca105af" gloss_uuid="428aeb88-2621-472d-9d7d-56dd9d7f2445" type="Word">Ἕλλησι</word>
     <word uuid="bb5d7196-5903-494a-8490-d3c4816e50c0" type="Punctuation">,</word>
     <word uuid="7fc7d5bf-823f-4b6a-aa03-f4732afa0429" gloss_uuid="257c65b6-a93f-4cd5-b6bb-5e56b1da9fec" type="Word">στρατηγεῖς</word>
-    <word uuid="dbdb9e89-dba9-4f84-bd9a-b7e6c9983728" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="dbdb9e89-dba9-4f84-bd9a-b7e6c9983728" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="4e9be435-1117-4237-ad3c-c7082f07369b" gloss_uuid="54175f33-fa38-4085-bf68-4aedcb18b573" type="Word">οὔ</word>
     <word uuid="a795b8fc-caa8-4d81-a12a-7ef20d6e2724" type="Punctuation">;</word>
     <word uuid="8a6545ab-b4e7-492d-a0fd-caa7617957eb" gloss_uuid="18deb8cf-fa35-4d4f-b620-93f38b3e3334" type="Word">ἢ</word>
@@ -4527,7 +4526,7 @@
     <word uuid="2c5ac880-8485-4c9d-80b9-3491a7d624c5" gloss_uuid="521e22e4-c4b5-4e08-9f08-c83abaa9ca16" type="Word">ἄγει</word>
     <word uuid="428eeac7-ab29-4b1a-8450-46b0a8dae139" type="Punctuation">·</word>
     <word uuid="8fa14765-3e78-4c99-8c81-b09b7facafd1" gloss_uuid="7ae59807-dc51-4187-9a3e-ae9d8668f468" type="Word">Ἴωνα</word>
-    <word uuid="fbba21fa-be40-4391-9a0f-a7ff56383ee9" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ'</word>
+    <word uuid="fbba21fa-be40-4391-9a0f-a7ff56383ee9" gloss_uuid="2f6763a4-6543-4c46-954a-f2d61fd2770c" type="Word">δ&apos;</word>
     <word uuid="fa1d046f-1c6c-4c80-9d31-c9eb1d12739a" gloss_uuid="54fb455a-0570-47fc-86e0-5ede67083a97" type="Word">ἄρα</word>
     <word uuid="55bb52c8-56c9-4bac-be49-71a90ddf0ce2" gloss_uuid="dd0b2587-1e8c-4a23-8d48-d60c1fec3427" type="Word">τὸν</word>
     <word uuid="0e49d8c2-15c7-4f39-b804-c356e7eb0e35" gloss_uuid="af88f4d9-a4ec-4e82-a953-9d872d210815" type="Word">Ἐφέσιον</word>
@@ -4741,7 +4740,7 @@
     <word uuid="ea2b6016-a876-4945-b990-6ce06d4e9503" gloss_uuid="fc8462ab-3c3b-48b6-b39c-7ae8c150b3b1" type="Word">κάλλιον</word>
     <word uuid="f5b8ed25-d271-4fed-afc7-b46b23d5854b" gloss_uuid="54d98b91-bcf2-402b-a441-e1e95a4f6900" type="Word">ὑπάρχει</word>
     <word uuid="853c7d73-fff8-48ec-849b-14d1b812f691" gloss_uuid="9f0a9092-e780-438a-a964-b0c316fa5f5f" type="Word">σοι</word>
-    <word uuid="a7972558-0bb5-4d92-ac72-864366d6b533" gloss_uuid="1c8a737b-8b50-4d09-9759-ed2da8357107" type="Word">παρ'</word>
+    <word uuid="a7972558-0bb5-4d92-ac72-864366d6b533" gloss_uuid="1c8a737b-8b50-4d09-9759-ed2da8357107" type="Word">παρ&apos;</word>
     <word uuid="bb0fa8c9-83e2-48dc-8ae5-f447d025c44d" gloss_uuid="665a6359-5e39-4a0d-826a-7497887c9996" type="Word">ἡμῖν</word>
     <word uuid="a88912b5-69d4-405d-8acd-54e66991bf6b" type="Punctuation">,</word>
     <word uuid="a75086ce-3b51-42ee-b593-aac5b034fac2" gloss_uuid="979c7515-ab6a-44c7-a371-27c2596eb16c" type="Word">ὦ</word>
