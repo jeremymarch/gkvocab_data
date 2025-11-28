@@ -1,4 +1,4 @@
-<SequenceDescription>
+<sequence_description>
   <name>LGI - UPPER LEVEL GREEK</name>
   <start_page>24</start_page>
   <gloss_names>glosses.xml</gloss_names>
@@ -1421,4 +1421,4 @@
     <arrow gloss_uuid="f962c276-7503-4459-8d25-2ff564d0bb82" word_uuid="c22d3af6-ba88-481a-8da5-604ec0eb5163"/>
     <arrow gloss_uuid="1fe8c802-831f-473c-96e2-694b71511982" word_uuid="247ccc92-112a-4f92-b3bf-e3efdeb72aa4"/>
   </arrowed_words>
-</SequenceDescription>
+</sequence_description>

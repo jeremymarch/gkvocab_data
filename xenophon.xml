@@ -1,4 +1,4 @@
-<Text text_name="ΑΠΟΛΟΓΙΑ ΣΩΚΡΑΤΟΥΣ">
+<text text_name="ΑΠΟΛΟΓΙΑ ΣΩΚΡΑΤΟΥΣ">
   <words>
     <word uuid="f59c2e64-9e15-4840-9c2c-412afa8e3954" type="WorkTitle">ΑΠΟΛΟΓΙΑ ΣΩΚΡΑΤΟΥΣ</word>
     <word uuid="ac44dd16-dbc6-4dd0-8aaf-0a25dfa3eee5" type="Section">1</word>
@@ -2316,4 +2316,4 @@
   </appcrits>
   <words_per_page>142, 116, 117, 97, 81, 125, 92, 115, 84, 129, 76, 121, 142, 123, 81, 115, 109, 101,
     120, 88, 109, 1</words_per_page>
-</Text>
+</text>

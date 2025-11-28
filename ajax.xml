@@ -1,4 +1,4 @@
-<Text text_name="ΑΙΑΣ">
+<text text_name="ΑΙΑΣ">
   <words>
     <word uuid="c54c596f-23ba-4d48-8222-7724ea97c42b" type="WorkTitle">ΑΙΑΣ</word>
     <word uuid="3b05d75e-9eaf-4cef-bf4d-6fc6cadcb319" type="Speaker">ΑΘΑΝΑ</word>
@@ -11376,4 +11376,4 @@
                 107, 84, 95, 100, 97, 88, 107, 61, 54, 83, 98, 124, 105, 154, 146, 69, 96, 83, 100,
                 63, 59, 64, 62, 82, 92, 109, 94, 75, 87, 69, 103, 103, 126, 157, 148, 127, 78, 76,
                 70, 39</words_per_page>
-</Text>
+</text>

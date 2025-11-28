@@ -1,4 +1,4 @@
-<Text text_name="ΥΠΕΡ ΤΟΥ ΕΡΑΤΟΣΘΕΝΟΥΣ ΦΟΝΟΥ ΑΠΟΛΟΓΙΑ">
+<text text_name="ΥΠΕΡ ΤΟΥ ΕΡΑΤΟΣΘΕΝΟΥΣ ΦΟΝΟΥ ΑΠΟΛΟΓΙΑ">
   <words>
     <word uuid="45e88d56-d580-4e08-af9a-a437fcad3858" type="WorkTitle">ΥΠΕΡ ΤΟΥ ΕΡΑΤΟΣΘΕΝΟΥΣ ΦΟΝΟΥ ΑΠΟΛΟΓΙΑ</word>
     <word uuid="b286c591-8e23-477b-98d9-8d3ea67d5f2a" type="InvalidType">ΤΟΥ</word>
@@ -2891,4 +2891,4 @@
   </appcrits>
   <words_per_page>154, 151, 137, 72, 121, 63, 85, 107, 114, 142, 109, 79, 82, 81, 122, 99, 86, 110,
 112, 151, 140, 99, 71, 117, 114, 1</words_per_page>
-</Text>
+</text>

@@ -1,4 +1,4 @@
-<Text text_name="Medea">
+<text text_name="Medea">
   <words>
     <word uuid="892514fc-de4d-4039-aeba-5a743a450fe5" type="InvalidType">t</word>
     <word uuid="0effe3a3-7c77-4817-a787-be4001f6b1a9" type="WorkTitle">ΜΗΔΕΙΑ</word>
@@ -4056,4 +4056,4 @@
     <word uuid="b7cfe8f9-fd15-4680-a95f-712c38f5f501" type="Punctuation">.</word>
   </words>
   <words_per_page></words_per_page>
-</Text>
+</text>
