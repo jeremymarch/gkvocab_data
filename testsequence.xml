@@ -1,7 +1,9 @@
 <sequence_description>
   <name>LGI - UPPER LEVEL GREEK</name>
   <start_page>24</start_page>
-  <gloss_names>glosses.xml</gloss_names>
+  <glosses>
+    <gloss_name>glosses.xml</gloss_name>
+  </glosses>
   <texts>
     <text display="false">hq.xml</text>
     <text display="false">ion.xml</text>
