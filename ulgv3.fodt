@@ -20936,10 +20936,10 @@
         <text:p text:style-name="P8"></text:p>
       </table:table-cell>
       <table:table-cell table:style-name="GlossTableCell" office:value-type="string">
-        <text:p text:style-name="GlossTableLemma">ἄκρος, ἄκρᾱ, ἄκρον</text:p>
+        <text:p text:style-name="GlossTableLemma">ἄκρος, ἄκρου, ὁ</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="GlossTableCell" office:value-type="string">
-        <text:p text:style-name="GlossTableDef">furthest, at the furthest point</text:p>
+        <text:p text:style-name="GlossTableDef">extremity, peak; edge, surface</text:p>
       </table:table-cell>
     </table:table-row>
 
@@ -20948,10 +20948,10 @@
         <text:p text:style-name="P8"></text:p>
       </table:table-cell>
       <table:table-cell table:style-name="GlossTableCell" office:value-type="string">
-        <text:p text:style-name="GlossTableLemma">ἄκρος, ἄκρου, ὁ</text:p>
+        <text:p text:style-name="GlossTableLemma">ἄκρος, ἄκρᾱ, ἄκρον</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="GlossTableCell" office:value-type="string">
-        <text:p text:style-name="GlossTableDef">extremity, peak; edge, surface</text:p>
+        <text:p text:style-name="GlossTableDef">furthest, at the furthest point</text:p>
       </table:table-cell>
     </table:table-row>
 
@@ -96694,9 +96694,9 @@
         
         <text:p text:style-name="IndexOfArrowedWords">οὐρανός<text:tab/>135</text:p>
         
-        <text:p text:style-name="IndexOfArrowedWords">οὖς<text:tab/>165</text:p>
-        
         <text:p text:style-name="IndexOfArrowedWords">οὐσίᾱ<text:tab/>135</text:p>
+        
+        <text:p text:style-name="IndexOfArrowedWords">οὖς<text:tab/>165</text:p>
         
         <text:p text:style-name="IndexOfArrowedWords">οὔτοι<text:tab/>184</text:p>
         
@@ -97030,9 +97030,9 @@
         
         <text:p text:style-name="IndexOfArrowedWords">τοίνυν<text:tab/>82</text:p>
         
-        <text:p text:style-name="IndexOfArrowedWords">τοῖος<text:tab/>217</text:p>
-        
         <text:p text:style-name="IndexOfArrowedWords">τοιόσδε<text:tab/>138</text:p>
+        
+        <text:p text:style-name="IndexOfArrowedWords">τοῖος<text:tab/>217</text:p>
         
         <text:p text:style-name="IndexOfArrowedWords">τόλμα<text:tab/>300</text:p>
         
@@ -97120,9 +97120,9 @@
         
         <text:p text:style-name="IndexOfArrowedWords">φωνή<text:tab/>125</text:p>
         
-        <text:p text:style-name="IndexOfArrowedWords">φώς<text:tab/>388</text:p>
-        
         <text:p text:style-name="IndexOfArrowedWords">φῶς<text:tab/>190</text:p>
+        
+        <text:p text:style-name="IndexOfArrowedWords">φώς<text:tab/>388</text:p>
         
         <text:p text:style-name="IndexOfArrowedWords">χαλεπαίνω<text:tab/>211</text:p>
         
